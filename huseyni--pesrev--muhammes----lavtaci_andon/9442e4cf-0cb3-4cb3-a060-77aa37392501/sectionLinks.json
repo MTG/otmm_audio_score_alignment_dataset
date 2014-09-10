@@ -20,47 +20,5 @@
 			"time": [145.964615,176.82409],
 			"time_unit": "sec"
 		}
-	],
-	"links": [
-		{
-			"name": "1. HANE",
-			"weight": 0.5996015936,
-			"relative_tempo": 0.7899291896,
-			"time": [
-				[0.0464399093],
-				[59.07156463]
-			],
-			"time_unit": "sec"
-		},
-		{
-			"name": "TESLIM",
-			"weight": 0.7510121457,
-			"relative_tempo": 0.7891373802,
-			"time": [
-				[58.70004535],
-				[87.77142857]
-			],
-			"time_unit": "sec"
-		},
-		{
-			"name": "2. HANE",
-			"weight": 0.5704295704,
-			"relative_tempo": 0.7906793049,
-			"time": [
-				[87.67854875],
-				[146.4714739]
-			],
-			"time_unit": "sec"
-		},
-		{
-			"name": "TESLIM",
-			"weight": 0.6133603239,
-			"relative_tempo": 0.7904,
-			"time": [
-				[146.0070748],
-				[175.0320181]
-			],
-			"time_unit": "sec"
-		}
 	]
 }
