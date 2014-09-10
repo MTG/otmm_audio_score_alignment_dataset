@@ -1,0 +1,49 @@
+{
+	"makam": "huseyni",
+	"form": "pesrev",
+	"usul": "muhammes",
+	"karar": "A4",
+	"composer": "lavtaci_andon",
+	"sections": [
+		{
+			"name": "1. HANE",
+			"startNote": 1,
+			"endNote": 101
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 102,
+			"endNote": 152
+		},
+		{
+			"name": "2. HANE",
+			"startNote": 153,
+			"endNote": 254
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 255,
+			"endNote": 305
+		},
+		{
+			"name": "3. HANE",
+			"startNote": 306,
+			"endNote": 409
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 410,
+			"endNote": 460
+		},
+		{
+			"name": "4. HANE",
+			"startNote": 461,
+			"endNote": 563
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 564,
+			"endNote": 614
+		}
+	]
+}

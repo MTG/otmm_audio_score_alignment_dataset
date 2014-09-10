@@ -1,0 +1,49 @@
+{
+	"makam": "rast",
+	"form": "pesrev",
+	"usul": "devrikebir",
+	"karar": "G4",
+	"composer": "giriftzen_asim_bey",
+	"sections": [
+		{
+			"name": "1. HANE",
+			"startNote": 1,
+			"endNote": 109
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 110,
+			"endNote": 167
+		},
+		{
+			"name": "2. HANE",
+			"startNote": 168,
+			"endNote": 282
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 283,
+			"endNote": 340
+		},
+		{
+			"name": "3. HANE",
+			"startNote": 341,
+			"endNote": 446
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 447,
+			"endNote": 502
+		},
+		{
+			"name": "4. HANE",
+			"startNote": 503,
+			"endNote": 620
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 621,
+			"endNote": 676
+		}
+	]
+}

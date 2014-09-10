@@ -1,0 +1,23 @@
+{
+	"annotation": {
+		"octaveWrapped": 1,
+		"procedure": "Picked the karar manually from the prominent pitch of the audio recording with 1 cent precision.",
+		"reference": "Salamon, J., & Gomez, E. (2012). Melody extraction from polyphonic music signals using pitch contour characteristics. IEEE Transactions on Audio, Speech, and Language Processing, 20(6), 1759-1770.",
+		"unit": "Hz",
+		"value": 62.1611
+	},
+	"audioHistogramMatching": {
+		"octaveWrapped": 1,
+		"procedure": "Tonic identification by audio histogram matching given the annotated makam",
+		"reference": "Gedik, A. C., & Bozkurt, B. (2010). Pitch-frequency histogram-based music information retrieval for Turkish music. Signal Processing, 90(4), 1049-1063.",
+		"unit": "Hz",
+		"value": 98.6235
+	},
+	"repetitiveSectionLinking": {
+		"value": 501.0754927,
+		"unit": "Hz",
+		"octaveWrapped": 1,
+		"procedure": "Tonic identification by linking the repetitive section given in the score",
+		"reference": "Senturk, S., Gulati, S., & Serra, X. Score Informed Tonic Identification for Makam Music of Turkey. In Proceedings of ISMIR, 2013."
+	}
+}

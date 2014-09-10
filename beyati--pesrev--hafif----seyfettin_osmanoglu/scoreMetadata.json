@@ -1,0 +1,49 @@
+{
+	"makam": "beyati",
+	"form": "pesrev",
+	"usul": "hafif",
+	"karar": "A4",
+	"composer": "seyfettin_osmanoglu",
+	"sections": [
+		{
+			"name": "1. HANE",
+			"startNote": 1,
+			"endNote": 112
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 113,
+			"endNote": 236
+		},
+		{
+			"name": "2. HANE",
+			"startNote": 237,
+			"endNote": 330
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 331,
+			"endNote": 454
+		},
+		{
+			"name": "3. HANE",
+			"startNote": 455,
+			"endNote": 551
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 552,
+			"endNote": 675
+		},
+		{
+			"name": "4. HANE",
+			"startNote": 676,
+			"endNote": 782
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 783,
+			"endNote": 906
+		}
+	]
+}

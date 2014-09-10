@@ -1,0 +1,49 @@
+{
+	"makam": "segah",
+	"form": "pesrev",
+	"usul": "devrikebir",
+	"karar": "B4b1",
+	"composer": "yusuf_pasa",
+	"sections": [
+		{
+			"name": "1. HANE",
+			"startNote": 1,
+			"endNote": 85
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 86,
+			"endNote": 183
+		},
+		{
+			"name": "2. HANE",
+			"startNote": 184,
+			"endNote": 275
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 276,
+			"endNote": 371
+		},
+		{
+			"name": "3. HANE",
+			"startNote": 372,
+			"endNote": 470
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 471,
+			"endNote": 567
+		},
+		{
+			"name": "4. HANE",
+			"startNote": 568,
+			"endNote": 656
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 657,
+			"endNote": 752
+		}
+	]
+}

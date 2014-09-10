@@ -1,0 +1,126 @@
+{
+	"annotations": [
+		{
+			"name": "1. HANE",
+			"time": [0,60.138655],
+			"time_unit": "sec"
+		},
+		{
+			"name": "TESLIM",
+			"time": [60.138655,90.218256],
+			"time_unit": "sec"
+		},
+		{
+			"name": "2. HANE",
+			"time": [90.218256,149.82271],
+			"time_unit": "sec"
+		},
+		{
+			"name": "TESLIM",
+			"time": [149.82271,179.943403],
+			"time_unit": "sec"
+		},
+		{
+			"name": "3. HANE",
+			"time": [179.943403,239.609496],
+			"time_unit": "sec"
+		},
+		{
+			"name": "TESLIM",
+			"time": [239.609496,269.771282],
+			"time_unit": "sec"
+		},
+		{
+			"name": "4. HANE",
+			"time": [269.771282,329.499013],
+			"time_unit": "sec"
+		},
+		{
+			"name": "TESLIM",
+			"time": [329.499013,362.133685],
+			"time_unit": "sec"
+		}
+	],
+	"links": [
+		{
+			"name": "1. HANE",
+			"weight": 0.8007968127,
+			"relative_tempo": 0.7893081761,
+			"time": [
+				[0.789478458],
+				[59.86104308]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "TESLIM",
+			"weight": 0.7611336032,
+			"relative_tempo": 0.762345679,
+			"time": [
+				[60.13968254],
+				[90.23274376]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "2. HANE",
+			"weight": 0.6653346653,
+			"relative_tempo": 0.7900552486,
+			"time": [
+				[90.79002268],
+				[149.6293878]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "TESLIM",
+			"weight": 0.6862348178,
+			"relative_tempo": 0.7611710324,
+			"time": [
+				[149.8615873],
+				[180.0010884]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "3. HANE",
+			"weight": 0.5704295704,
+			"relative_tempo": 0.7623762376,
+			"time": [
+				[179.2580499],
+				[240.2336508]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "TESLIM",
+			"weight": 0.7753036437,
+			"relative_tempo": 0.762345679,
+			"time": [
+				[239.7228118],
+				[269.815873]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "4. HANE",
+			"weight": 0.7842942346,
+			"relative_tempo": 0.7896389325,
+			"time": [
+				[270.2802721],
+				[329.4447166]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "TESLIM",
+			"weight": 0.7469635628,
+			"relative_tempo": 0.762345679,
+			"time": [
+				[329.6304762],
+				[359.7235374]
+			],
+			"time_unit": "sec"
+		}
+	]
+}
