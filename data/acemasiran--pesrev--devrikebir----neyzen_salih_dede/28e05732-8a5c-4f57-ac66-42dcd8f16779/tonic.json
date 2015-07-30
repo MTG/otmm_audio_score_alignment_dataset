@@ -1,0 +1,9 @@
+{
+	"annotation": {
+		"OctaveWrapped": 1,
+		"Method": "Picked the karar manually from the prominent pitch of the audio recording with 1 cent precision.",
+		"Citation": "Salamon, J., & Gomez, E. (2012). Melody extraction from polyphonic music signals using pitch contour characteristics. IEEE Transactions on Audio, Speech, and Language Processing, 20(6), 1759-1770.",
+		"Unit": "Hz",
+		"Value": 393.4744
+	}
+}

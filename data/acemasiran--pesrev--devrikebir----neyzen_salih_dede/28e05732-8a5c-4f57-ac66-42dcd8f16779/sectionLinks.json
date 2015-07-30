@@ -1,0 +1,24 @@
+{
+	"annotations": [
+		{
+			"name": "1. HANE",
+			"time": [0,66.590802],
+			"time_unit": "sec"
+		},
+		{
+			"name": "2. HANE",
+			"time": [66.590802,129.342343],
+			"time_unit": "sec"
+		},
+		{
+			"name": "3. HANE",
+			"time": [129.342343,193.940802],
+			"time_unit": "sec"
+		},
+		{
+			"name": "4. HANE",
+			"time": [193.940802,258.2],
+			"time_unit": "sec"
+		}
+	]
+}
