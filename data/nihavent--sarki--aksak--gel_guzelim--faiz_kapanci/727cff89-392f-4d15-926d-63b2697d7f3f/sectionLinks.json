@@ -1,0 +1,100 @@
+{
+    "annotations": [
+        {
+            "name": "ARANAGME", 
+            "time": [
+                0.420003, 
+                20.867514
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "ZEMIN", 
+            "time": [
+                20.867514, 
+                31.168639
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "ZEMIN", 
+            "time": [
+                31.168639, 
+                41.226604
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "NAKARAT", 
+            "time": [
+                41.226604, 
+                51.162989
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "NAKARAT2", 
+            "time": [
+                51.162989, 
+                61.53043
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "MEYAN", 
+            "time": [
+                61.53043, 
+                71.389446
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "MEYAN2", 
+            "time": [
+                71.389446, 
+                82.591367
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "NAKARAT", 
+            "time": [
+                82.591367, 
+                92.798544
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "NAKARAT2", 
+            "time": [
+                92.798544, 
+                101.419656
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "GAZEL", 
+            "time": [
+                101.419656, 
+                173.57174
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "NAKARAT", 
+            "time": [
+                173.57174, 
+                184.591291
+            ], 
+            "time_unit": "sec"
+        }, 
+        {
+            "name": "NAKARAT2", 
+            "time": [
+                184.591291, 
+                195.478209
+            ], 
+            "time_unit": "sec"
+        }
+    ]
+}

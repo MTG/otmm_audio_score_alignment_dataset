@@ -1,0 +1,49 @@
+{
+	"annotations": [
+		{
+			"name": "1. HANE",
+			"time": [0,17.263274],
+			"time_unit": "sec"
+		},
+		{
+			"name": "TESLIM",
+			"time": [17.263274,33.757392],
+			"time_unit": "sec"
+		},
+		{
+			"name": "2. HANE",
+			"time": [33.757392,49.279383],
+			"time_unit": "sec"
+		},
+		{
+			"name": "TESLIM",
+			"time": [49.279383,64.737278],
+			"time_unit": "sec"
+		},
+		{
+			"name": "3. HANE",
+			"time": [64.737278,80.440875],
+			"time_unit": "sec"
+		},
+		{
+			"name": "TESLIM",
+			"time": [80.440875,97.469129],
+			"time_unit": "sec"
+		},
+		{
+			"name": "4. HANE",
+			"time": [97.469129,150.540878],
+			"time_unit": "sec"
+		},
+		{
+			"name": "TESLIM",
+			"time": [150.540878,168.893789],
+			"time_unit": "sec"
+		},
+		{
+			"name": "TESLIM",
+			"time": [168.893789,184.483453],
+			"time_unit": "sec"
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"annotations": [
+		{
+			"name": "ZEMIN",
+			"time": [0.639572,9.194112],
+			"time_unit": "sec"
+		},
+		{
+			"name": "ZEMIN",
+			"time": [9.194112,17.717604],
+			"time_unit": "sec"
+		},
+		{
+			"name": "NAKARAT",
+			"time": [17.717604,26.543289],
+			"time_unit": "sec"
+		},
+		{
+			"name": "NAKARAT2",
+			"time": [26.543289,35.18683],
+			"time_unit": "sec"
+		},
+		{
+			"name": "ZEMIN",
+			"time": [35.18683,44.062191],
+			"time_unit": "sec"
+		},
+		{
+			"name": "ZEMIN",
+			"time": [44.062191,52.854758],
+			"time_unit": "sec"
+		},
+		{
+			"name": "NAKARAT",
+			"time": [52.854758,61.547975],
+			"time_unit": "sec"
+		},
+		{
+			"name": "NAKARAT2",
+			"time": [61.547975,70.224634],
+			"time_unit": "sec"
+		},
+		{
+			"name": "MEYAN",
+			"time": [70.224634,79.745776],
+			"time_unit": "sec"
+		},
+		{
+			"name": "MEYAN2",
+			"time": [79.745776,89.142729],
+			"time_unit": "sec"
+		},
+		{
+			"name": "NAKARAT",
+			"time": [89.142729,97.844226],
+			"time_unit": "sec"
+		},
+		{
+			"name": "NAKARAT2",
+			"time": [97.844226,106.388416],
+			"time_unit": "sec"
+		},
+		{
+			"name": "ARANAGME",
+			"time": [106.388416,142.370054],
+			"time_unit": "sec"
+		},
+		{
+			"name": "UNRELATED",
+			"time": [142.370054,147.2133],
+			"time_unit": "sec"
+		}
+	]
+}
