@@ -1,5 +1,6 @@
 *.mp3
 *.wav
 *.jpeg
+*.mat
 predominantMelody.txt
 autoAlignment.txt
