@@ -84,8 +84,8 @@ ignoreFolders = [{'excluded','postponed','checked','unchecked'} ...
 options = {'TonicIdentificationMethod', 'scoreInformed', ...
     'TempoEstimationMethod', 'none', 'ScoreFormat', ...
     'generic', 'SectionCandidateEstimationMethod', 'dtw', ...
-    'FilterKmeans', false, 'RemoveInconsequent', true, ...
-    'GuessNonlinked', true, ...
+    'FilterKmeans', false, 'RemoveInconsequent', false, ...
+    'GuessNonlinked', false, ...
     'Verbose', true, 'PlotSteps', false, ...
     'Write2File', false, 'OverwriteFile', false};
 dtwOptions = {'DtwVariant', 'standard', 'DtwBandwidthRatio', .2, ...
@@ -99,12 +99,10 @@ disp(' ');disp('------------ Sequential Linking Wrapper -----------')
 %% get the file locations
 fileLocations = fragmentLinker.FileOperation.getAudioScorePairs(...
     dataFolder, 'wav', 'txt', ignoreFolders);
+fileLocations = fileLocations(6);
 
 %% get training scores; related audio is handled inside
-trainingFolder = '../../../../experiments/current/';
-trainingLocations = fragmentLinker.FileOperation.getAudioScorePairs(...
-    trainingFolder, 'wav', 'txt', ignoreFolders);
-trainingScoreFiles = unique({trainingLocations.score});
+trainingScoreFiles = {fileLocations.score};
 
 annoFilenames = cellfun(@(x) fullfile(fileparts(x),'sectionLinks.json'),...
     {fileLocations.audio}, 'unif', false);
@@ -113,8 +111,7 @@ annoFilenames = cellfun(@(x) fullfile(fileparts(x),'sectionLinks.json'),...
 % instantiate the estimator objects
 sectionLinker = makamLinker.SectionLinker(options);
 link = @(score, audio, predominantMelody, tonic, tempo, training, ignore)...
-    sectionLinker.link(score, audio, predominantMelody, tonic, tempo,...
-    training, ignore);
+    sectionLinker.link(score, audio, predominantMelody, tonic, tempo);
 
 aligner = fragmentLinker.NoteAligner(dtwOptions);
 align = @(links, sections, audio) aligner.align(links, sections, audio);
@@ -127,15 +124,15 @@ alignedLinks = cell(size(fileLocations));
 annotatedLinks = cell(size(fileLocations));
 notes = cell(size(fileLocations));
 info = cell(size(fileLocations));
-parfor k = 1:length(fileLocations)
+for k = 1:length(fileLocations)
     %% print the experiment
     [~, audioname] = fileparts(fileLocations(k).audio);
     disp([num2str(k) ': ' audioname])
     
-    %% section linking
-    [candidateLinks{k}, sectionLinks{k}, info{k}, audio, sections] = link(...
+    %% dummy section linking to get the audio and sections
+    [~, ~, info{k}, audio, sections] = link(...
         fileLocations(k).score, fileLocations(k).audio, '', '', '',...
-        trainingScoreFiles, ignoreFolders);
+        trainingScoreFiles);
     
     %% arrange annotated links
     annotatedLinks{k} = fragmentLinker.Link.readLinksFromJson(...
@@ -147,13 +144,19 @@ parfor k = 1:length(fileLocations)
     
     for a = 1:length(annotatedLinks{k})
         % target
-        annotatedLinks{k}(a).Target.source = sectionLinks{k}(1).Target.source;
-        annotatedLinks{k}(a).Target.type = sectionLinks{k}(1).Target.type;
-        annotatedLinks{k}(a).Target.featureName = sectionLinks{k}(1).Target.featureName;
+        annotatedLinks{k}(a).Target.source = fileLocations(k).audio;
+        annotatedLinks{k}(a).Target.type = 'fragmentLinker.Audio';
+        annotatedLinks{k}(a).Target.featureName = ...
+            'predominantMelody_normalized_downsampled';
         
         % query
-        annotatedLinks{k}(a).Query = sectionLinks{k}(find(strcmp(...
-            {sectionLinks{k}.Label}, annotatedLinks{k}(a).Label),1)).Query;
+        annotatedLinks{k}(a).Query.interval = sections(...
+            strcmp({sections.Label}, annotatedLinks{k}(a).Label))...
+            .Features.syntheticMelody.TimeStamps([1 end]);
+        annotatedLinks{k}(a).Query.unit = 'seconds';
+        annotatedLinks{k}(a).Query.source = fileLocations(k).score;
+        annotatedLinks{k}(a).Query.type = 'makamLinker.Score';
+        annotatedLinks{k}(a).Query.featureName = 'syntheticMelody';
     end
     
     %% note alignment
@@ -169,7 +172,7 @@ parfor k = 1:length(fileLocations)
     % save notes 2 text
     noteTxtFilename = fullfile(fileparts(fileLocations(k).audio),...
         'alignedNotes.txt');
-    matlab.note2text(notes{k}, noteTxtFilename)
+    note2text(notes{k}, noteTxtFilename)
 end
 
 %% evaluate

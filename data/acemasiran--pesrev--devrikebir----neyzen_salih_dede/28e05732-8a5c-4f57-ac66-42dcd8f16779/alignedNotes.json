@@ -1,0 +1,3496 @@
+{
+	"dtw": [
+		[
+			{
+				"symbol": "F5",
+				"interval": [2.089795918,2.879274376],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n1"
+			},
+			{
+				"symbol": "E5",
+				"interval": [2.925714286,3.157913832],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n2"
+			},
+			{
+				"symbol": "F5",
+				"interval": [3.204353741,3.761632653],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n3"
+			},
+			{
+				"symbol": "F5",
+				"interval": [3.808072562,4.365351474],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n4"
+			},
+			{
+				"symbol": "G5",
+				"interval": [4.458231293,4.736870748],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n5"
+			},
+			{
+				"symbol": "A5",
+				"interval": [4.829750567,5.851428571],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n6"
+			},
+			{
+				"symbol": "G5",
+				"interval": [5.94430839,6.640907029],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n7"
+			},
+			{
+				"symbol": "F5",
+				"interval": [6.733786848,7.198185941],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n8"
+			},
+			{
+				"symbol": "E5",
+				"interval": [7.24462585,7.616145125],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n9"
+			},
+			{
+				"symbol": "F5",
+				"interval": [7.709024943,8.730702948],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n10"
+			},
+			{
+				"symbol": "E5",
+				"interval": [8.823582766,9.705941043],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n11"
+			},
+			{
+				"symbol": "D5",
+				"interval": [9.798820862,11.14557823],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n12"
+			},
+			{
+				"symbol": "D5",
+				"interval": [11.23845805,12.21369615],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n13"
+			},
+			{
+				"symbol": "E5",
+				"interval": [12.30657596,12.63165533],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n14"
+			},
+			{
+				"symbol": "F5",
+				"interval": [12.77097506,13.69977324],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n15"
+			},
+			{
+				"symbol": "E5",
+				"interval": [13.74621315,14.81433107],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n16"
+			},
+			{
+				"symbol": "D5",
+				"interval": [14.86077098,15.55736961],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n17"
+			},
+			{
+				"symbol": "E5",
+				"interval": [15.60380952,16.62548753],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n18"
+			},
+			{
+				"symbol": "D5",
+				"interval": [16.71836735,17.04344671],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n19"
+			},
+			{
+				"symbol": "C5",
+				"interval": [17.27564626,17.69360544],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n20"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [17.74004535,18.20444444],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n21"
+			},
+			{
+				"symbol": "C5",
+				"interval": [18.25088435,18.76172336],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n22"
+			},
+			{
+				"symbol": "C5",
+				"interval": [18.80816327,19.27256236],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n23"
+			},
+			{
+				"symbol": "D5",
+				"interval": [20.80507937,21.36235828],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n24"
+			},
+			{
+				"symbol": "E5",
+				"interval": [21.4552381,22.01251701],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n25"
+			},
+			{
+				"symbol": "D5",
+				"interval": [22.05895692,22.29115646],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n26"
+			},
+			{
+				"symbol": "C5",
+				"interval": [22.4769161,22.75555556],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n27"
+			},
+			{
+				"symbol": "D5",
+				"interval": [22.84843537,23.21995465],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n28"
+			},
+			{
+				"symbol": "D5",
+				"interval": [23.31283447,23.91655329],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n29"
+			},
+			{
+				"symbol": "A5",
+				"interval": [24.00943311,24.28807256],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n30"
+			},
+			{
+				"symbol": "G5",
+				"interval": [24.33451247,24.4738322],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n31"
+			},
+			{
+				"symbol": "A5",
+				"interval": [24.52027211,25.07755102],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n32"
+			},
+			{
+				"symbol": "G5",
+				"interval": [25.17043084,25.77414966],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n33"
+			},
+			{
+				"symbol": "F5",
+				"interval": [25.86702948,26.42430839],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n34"
+			},
+			{
+				"symbol": "E5",
+				"interval": [26.4707483,26.4707483],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n35"
+			},
+			{
+				"symbol": "F5",
+				"interval": [26.56362812,27.30666667],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n36"
+			},
+			{
+				"symbol": "E5",
+				"interval": [27.39954649,28.04970522],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n37"
+			},
+			{
+				"symbol": "E5",
+				"interval": [28.09614512,28.09614512],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n38"
+			},
+			{
+				"symbol": "G5",
+				"interval": [28.18902494,28.37478458],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n39"
+			},
+			{
+				"symbol": "F5",
+				"interval": [28.42122449,28.4676644],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n40"
+			},
+			{
+				"symbol": "G5",
+				"interval": [28.51410431,29.30358277],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n41"
+			},
+			{
+				"symbol": "F5",
+				"interval": [29.39646259,31.16117914],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n42"
+			},
+			{
+				"symbol": "C5",
+				"interval": [31.25405896,32.83301587],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n43"
+			},
+			{
+				"symbol": "F5",
+				"interval": [32.87945578,34.04045351],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n44"
+			},
+			{
+				"symbol": "F5",
+				"interval": [34.08689342,34.4584127],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n45"
+			},
+			{
+				"symbol": "G5",
+				"interval": [34.55129252,35.89804989],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n46"
+			},
+			{
+				"symbol": "F5",
+				"interval": [35.99092971,35.99092971],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n47"
+			},
+			{
+				"symbol": "E5",
+				"interval": [36.03736961,36.31600907],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n48"
+			},
+			{
+				"symbol": "E5",
+				"interval": [36.36244898,36.9661678],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n49"
+			},
+			{
+				"symbol": "F5",
+				"interval": [37.05904762,37.80208617],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n50"
+			},
+			{
+				"symbol": "E5",
+				"interval": [37.84852608,38.12716553],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n51"
+			},
+			{
+				"symbol": "D5",
+				"interval": [38.22004535,38.49868481],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n52"
+			},
+			{
+				"symbol": "E5",
+				"interval": [38.59156463,39.38104308],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n53"
+			},
+			{
+				"symbol": "D5",
+				"interval": [39.4739229,39.70612245],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n54"
+			},
+			{
+				"symbol": "C5",
+				"interval": [39.79900227,40.26340136],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n55"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [40.35628118,40.77424036],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n56"
+			},
+			{
+				"symbol": "C5",
+				"interval": [40.82068027,41.56371882],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n57"
+			},
+			{
+				"symbol": "D5",
+				"interval": [41.61015873,43.23555556],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n58"
+			},
+			{
+				"symbol": "D5",
+				"interval": [43.28199546,44.62875283],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n59"
+			},
+			{
+				"symbol": "C5",
+				"interval": [44.67519274,45.65043084],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n60"
+			},
+			{
+				"symbol": "D5",
+				"interval": [45.74331066,45.74331066],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n61"
+			},
+			{
+				"symbol": "C5",
+				"interval": [45.83619048,46.71854875],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n62"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [47.09006803,48.52970522],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n63"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [48.57614512,49.08698413],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n64"
+			},
+			{
+				"symbol": "A4",
+				"interval": [49.13342404,49.87646259],
+				"pitchHeight": {
+					"Value": 18,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n65"
+			},
+			{
+				"symbol": "G4",
+				"interval": [49.9693424,50.4337415],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n66"
+			},
+			{
+				"symbol": "F4",
+				"interval": [50.48018141,51.59473923],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n67"
+			},
+			{
+				"symbol": "F4",
+				"interval": [51.68761905,51.68761905],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n68"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [51.78049887,52.56997732],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n69"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [52.61641723,53.87029478],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n70"
+			},
+			{
+				"symbol": "C5",
+				"interval": [53.9631746,54.38113379],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n71"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [54.47401361,54.89197279],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n72"
+			},
+			{
+				"symbol": "A4",
+				"interval": [54.9384127,56.37804989],
+				"pitchHeight": {
+					"Value": 18,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n73"
+			},
+			{
+				"symbol": "G4",
+				"interval": [56.4244898,56.84244898],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n74"
+			},
+			{
+				"symbol": "A4",
+				"interval": [56.9353288,57.9570068],
+				"pitchHeight": {
+					"Value": 18,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n75"
+			},
+			{
+				"symbol": "G4",
+				"interval": [58.04988662,58.4214059],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n76"
+			},
+			{
+				"symbol": "F4",
+				"interval": [58.4678458,58.97868481],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n77"
+			},
+			{
+				"symbol": "E4",
+				"interval": [59.07156463,59.4430839],
+				"pitchHeight": {
+					"Value": -4,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n78"
+			},
+			{
+				"symbol": "F4",
+				"interval": [59.53596372,60.23256236],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n79"
+			},
+			{
+				"symbol": "E4",
+				"interval": [60.27900227,61.11492063],
+				"pitchHeight": {
+					"Value": -4,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n80"
+			},
+			{
+				"symbol": "E4",
+				"interval": [61.57931973,61.85795918],
+				"pitchHeight": {
+					"Value": -4,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n81"
+			},
+			{
+				"symbol": "G4",
+				"interval": [62.13659864,62.13659864],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n82"
+			},
+			{
+				"symbol": "E4",
+				"interval": [62.18303855,62.55455782],
+				"pitchHeight": {
+					"Value": -4,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n83"
+			},
+			{
+				"symbol": "F4",
+				"interval": [62.64743764,64.73723356],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n84"
+			},
+			{
+				"symbol": "G5",
+				"interval": [64.83011338,66.26975057],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n85"
+			},
+			{
+				"symbol": "F5",
+				"interval": [66.36263039,66.36263039],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n86"
+			},
+			{
+				"symbol": "G5",
+				"interval": [66.4555102,66.54839002],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n87"
+			},
+			{
+				"symbol": "G5",
+				"interval": [69.24190476,69.61342404],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n1"
+			},
+			{
+				"symbol": "F5",
+				"interval": [69.65986395,69.75274376],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n2"
+			},
+			{
+				"symbol": "E5",
+				"interval": [69.79918367,70.03138322],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n3"
+			},
+			{
+				"symbol": "F5",
+				"interval": [70.07782313,70.26358277],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n4"
+			},
+			{
+				"symbol": "E5",
+				"interval": [70.31002268,70.96018141],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n5"
+			},
+			{
+				"symbol": "F5",
+				"interval": [71.00662132,71.47102041],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n6"
+			},
+			{
+				"symbol": "G5",
+				"interval": [71.51746032,72.86421769],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n7"
+			},
+			{
+				"symbol": "G5",
+				"interval": [72.9106576,73.65369615],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n8"
+			},
+			{
+				"symbol": "G5",
+				"interval": [73.74657596,74.07165533],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n9"
+			},
+			{
+				"symbol": "A5b4",
+				"interval": [74.16453515,75.13977324],
+				"pitchHeight": {
+					"Value": 67,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n10"
+			},
+			{
+				"symbol": "G5",
+				"interval": [75.18621315,75.18621315],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n11"
+			},
+			{
+				"symbol": "F5",
+				"interval": [75.23265306,75.4184127],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n12"
+			},
+			{
+				"symbol": "G5",
+				"interval": [75.46485261,75.69705215],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n13"
+			},
+			{
+				"symbol": "A5b4",
+				"interval": [75.78993197,76.11501134],
+				"pitchHeight": {
+					"Value": 67,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n14"
+			},
+			{
+				"symbol": "B5b1",
+				"interval": [76.20789116,76.53297052],
+				"pitchHeight": {
+					"Value": 79,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n15"
+			},
+			{
+				"symbol": "A5b4",
+				"interval": [76.62585034,77.50820862],
+				"pitchHeight": {
+					"Value": 67,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n16"
+			},
+			{
+				"symbol": "G5",
+				"interval": [77.60108844,78.25124717],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n17"
+			},
+			{
+				"symbol": "G5",
+				"interval": [78.29768707,78.9014059],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n18"
+			},
+			{
+				"symbol": "F5",
+				"interval": [78.9478458,79.55156463],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n19"
+			},
+			{
+				"symbol": "F5",
+				"interval": [79.59800454,79.59800454],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n20"
+			},
+			{
+				"symbol": "E5",
+				"interval": [79.64444444,79.83020408],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n21"
+			},
+			{
+				"symbol": "F5",
+				"interval": [79.87664399,81.73424036],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n22"
+			},
+			{
+				"symbol": "A5b4",
+				"interval": [81.82712018,82.75591837],
+				"pitchHeight": {
+					"Value": 67,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n23"
+			},
+			{
+				"symbol": "G5",
+				"interval": [82.80235828,83.68471655],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n24"
+			},
+			{
+				"symbol": "A5b4",
+				"interval": [83.73115646,84.9385941],
+				"pitchHeight": {
+					"Value": 67,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n25"
+			},
+			{
+				"symbol": "A5b4",
+				"interval": [85.03147392,85.96027211],
+				"pitchHeight": {
+					"Value": 67,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n26"
+			},
+			{
+				"symbol": "B5b1",
+				"interval": [86.00671202,86.00671202],
+				"pitchHeight": {
+					"Value": 79,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n27"
+			},
+			{
+				"symbol": "A5b4",
+				"interval": [86.09959184,86.88907029],
+				"pitchHeight": {
+					"Value": 67,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n28"
+			},
+			{
+				"symbol": "G5",
+				"interval": [86.98195011,87.44634921],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n29"
+			},
+			{
+				"symbol": "G5",
+				"interval": [87.49278912,87.77142857],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n30"
+			},
+			{
+				"symbol": "A5b4",
+				"interval": [87.86430839,88.74666667],
+				"pitchHeight": {
+					"Value": 67,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n31"
+			},
+			{
+				"symbol": "G5",
+				"interval": [88.79310658,88.97886621],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n32"
+			},
+			{
+				"symbol": "F5",
+				"interval": [89.02530612,89.48970522],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n33"
+			},
+			{
+				"symbol": "F5",
+				"interval": [89.58258503,90.4185034],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n34"
+			},
+			{
+				"symbol": "G5",
+				"interval": [90.51138322,90.97578231],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n35"
+			},
+			{
+				"symbol": "F5",
+				"interval": [91.06866213,91.81170068],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n36"
+			},
+			{
+				"symbol": "E5",
+				"interval": [91.85814059,92.09034014],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n37"
+			},
+			{
+				"symbol": "E5",
+				"interval": [92.13678005,92.50829932],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n38"
+			},
+			{
+				"symbol": "F5",
+				"interval": [92.55473923,93.15845805],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n39"
+			},
+			{
+				"symbol": "E5",
+				"interval": [93.25133787,93.62285714],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n40"
+			},
+			{
+				"symbol": "D5b4",
+				"interval": [93.76217687,94.13369615],
+				"pitchHeight": {
+					"Value": 36,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n41"
+			},
+			{
+				"symbol": "D5b4",
+				"interval": [94.22657596,94.50521542],
+				"pitchHeight": {
+					"Value": 36,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n42"
+			},
+			{
+				"symbol": "C5",
+				"interval": [94.55165533,94.55165533],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n43"
+			},
+			{
+				"symbol": "D5b4",
+				"interval": [94.64453515,95.01605442],
+				"pitchHeight": {
+					"Value": 36,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n44"
+			},
+			{
+				"symbol": "E5",
+				"interval": [95.06249433,95.15537415],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n45"
+			},
+			{
+				"symbol": "D5b4",
+				"interval": [95.24825397,95.75909297],
+				"pitchHeight": {
+					"Value": 36,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n46"
+			},
+			{
+				"symbol": "C5",
+				"interval": [95.80553288,95.99129252],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n47"
+			},
+			{
+				"symbol": "C5",
+				"interval": [96.03773243,97.3844898],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n48"
+			},
+			{
+				"symbol": "C5",
+				"interval": [97.43092971,99.19564626],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n49"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [99.24208617,99.47428571],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n50"
+			},
+			{
+				"symbol": "C5",
+				"interval": [99.52072562,99.93868481],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n51"
+			},
+			{
+				"symbol": "D5b4",
+				"interval": [99.98512472,100.9603628],
+				"pitchHeight": {
+					"Value": 36,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n52"
+			},
+			{
+				"symbol": "E5",
+				"interval": [101.0996825,101.0996825],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n53"
+			},
+			{
+				"symbol": "D5b4",
+				"interval": [101.1925624,102.0284807],
+				"pitchHeight": {
+					"Value": 36,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n54"
+			},
+			{
+				"symbol": "C5",
+				"interval": [102.1213605,102.3535601],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n55"
+			},
+			{
+				"symbol": "C5",
+				"interval": [102.4,102.910839],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n56"
+			},
+			{
+				"symbol": "D5b4",
+				"interval": [103.0037188,103.8860771],
+				"pitchHeight": {
+					"Value": 36,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n57"
+			},
+			{
+				"symbol": "C5",
+				"interval": [103.932517,104.1647166],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n58"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [104.2111565,104.6755556],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n59"
+			},
+			{
+				"symbol": "C5",
+				"interval": [104.7219955,105.6972336],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n60"
+			},
+			{
+				"symbol": "D5",
+				"interval": [105.7901134,106.9511111],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n61"
+			},
+			{
+				"symbol": "D5",
+				"interval": [106.997551,107.8799093],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n62"
+			},
+			{
+				"symbol": "C5",
+				"interval": [107.9263492,108.1585488],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n63"
+			},
+			{
+				"symbol": "D5",
+				"interval": [108.2514286,108.9944671],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n64"
+			},
+			{
+				"symbol": "C5",
+				"interval": [109.0873469,110.2019048],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n65"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [110.2483447,111.084263],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n66"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [111.1307029,111.7808617],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n67"
+			},
+			{
+				"symbol": "A4",
+				"interval": [111.8737415,112.9882993],
+				"pitchHeight": {
+					"Value": 18,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n68"
+			},
+			{
+				"symbol": "G4",
+				"interval": [113.0811791,113.5455782],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n69"
+			},
+			{
+				"symbol": "F4",
+				"interval": [113.638458,114.1028571],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n70"
+			},
+			{
+				"symbol": "F4",
+				"interval": [114.195737,114.9852154],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n71"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [115.0780952,116.4712925],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n72"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [116.5641723,117.4929705],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n73"
+			},
+			{
+				"symbol": "C5",
+				"interval": [117.5394104,118.1895692],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n74"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [118.3753288,118.3753288],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n75"
+			},
+			{
+				"symbol": "A4",
+				"interval": [118.4682086,119.7685261],
+				"pitchHeight": {
+					"Value": 18,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n76"
+			},
+			{
+				"symbol": "G4",
+				"interval": [119.8614059,120.2329252],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n77"
+			},
+			{
+				"symbol": "A4",
+				"interval": [120.325805,120.836644],
+				"pitchHeight": {
+					"Value": 18,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n78"
+			},
+			{
+				"symbol": "G4",
+				"interval": [120.8830839,121.7654422],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n79"
+			},
+			{
+				"symbol": "F4",
+				"interval": [121.858322,122.3227211],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n80"
+			},
+			{
+				"symbol": "E4",
+				"interval": [122.4156009,122.6478005],
+				"pitchHeight": {
+					"Value": -4,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n81"
+			},
+			{
+				"symbol": "F4",
+				"interval": [122.7406803,123.7623583],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n82"
+			},
+			{
+				"symbol": "E4",
+				"interval": [123.8087982,124.0874376],
+				"pitchHeight": {
+					"Value": -4,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n83"
+			},
+			{
+				"symbol": "E4",
+				"interval": [124.1338776,124.6911565],
+				"pitchHeight": {
+					"Value": -4,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n84"
+			},
+			{
+				"symbol": "G4",
+				"interval": [124.7840363,125.2484354],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n85"
+			},
+			{
+				"symbol": "E4",
+				"interval": [125.3413152,125.7592744],
+				"pitchHeight": {
+					"Value": -4,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n86"
+			},
+			{
+				"symbol": "F4",
+				"interval": [125.8057143,126.6416327],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n87"
+			},
+			{
+				"symbol": "A5",
+				"interval": [127.7561905,128.4063492],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n88"
+			},
+			{
+				"symbol": "G5",
+				"interval": [128.499229,129.1493878],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n89"
+			},
+			{
+				"symbol": "A5",
+				"interval": [129.2422676,129.3351474],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n90"
+			},
+			{
+				"symbol": "G5",
+				"interval": [131.2391837,132.9110204],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n1"
+			},
+			{
+				"symbol": "A5",
+				"interval": [132.9574603,132.9574603],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n2"
+			},
+			{
+				"symbol": "G5",
+				"interval": [133.0039002,133.2825397],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n3"
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [133.3289796,134.0720181],
+				"pitchHeight": {
+					"Value": 75,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n4"
+			},
+			{
+				"symbol": "A5",
+				"interval": [134.164898,134.6292971],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n5"
+			},
+			{
+				"symbol": "G5",
+				"interval": [134.7221769,135.8831746],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n6"
+			},
+			{
+				"symbol": "F5",
+				"interval": [135.9760544,136.9048526],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n7"
+			},
+			{
+				"symbol": "E5",
+				"interval": [136.9977324,137.3692517],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n8"
+			},
+			{
+				"symbol": "F5",
+				"interval": [137.4156916,138.4373696],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n9"
+			},
+			{
+				"symbol": "E5",
+				"interval": [138.4838095,139.2268481],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n10"
+			},
+			{
+				"symbol": "D5",
+				"interval": [139.273288,139.273288],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n11"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [139.3197279,139.5054875],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n12"
+			},
+			{
+				"symbol": "D5",
+				"interval": [139.5519274,140.1556463],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n13"
+			},
+			{
+				"symbol": "D5",
+				"interval": [140.2485261,141.1308844],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n14"
+			},
+			{
+				"symbol": "C6",
+				"interval": [141.1773243,141.7346032],
+				"pitchHeight": {
+					"Value": 84,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n15"
+			},
+			{
+				"symbol": "B5b1",
+				"interval": [141.827483,142.2918821],
+				"pitchHeight": {
+					"Value": 79,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n16"
+			},
+			{
+				"symbol": "D6",
+				"interval": [142.3847619,143.5457596],
+				"pitchHeight": {
+					"Value": 93,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n17"
+			},
+			{
+				"symbol": "C6",
+				"interval": [143.6386395,144.1959184],
+				"pitchHeight": {
+					"Value": 84,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n18"
+			},
+			{
+				"symbol": "B5b1",
+				"interval": [144.2423583,144.5674376],
+				"pitchHeight": {
+					"Value": 79,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n19"
+			},
+			{
+				"symbol": "C6",
+				"interval": [144.6603175,145.6819955],
+				"pitchHeight": {
+					"Value": 84,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n20"
+			},
+			{
+				"symbol": "B5b1",
+				"interval": [145.7748753,145.7748753],
+				"pitchHeight": {
+					"Value": 79,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n21"
+			},
+			{
+				"symbol": "A5",
+				"interval": [145.8213152,147.6324717],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n22"
+			},
+			{
+				"symbol": "A5",
+				"interval": [147.6789116,148.0504308],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n23"
+			},
+			{
+				"symbol": "A5",
+				"interval": [148.0968707,148.46839],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n24"
+			},
+			{
+				"symbol": "A5",
+				"interval": [148.5148299,149.0721088],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n25"
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [149.1649887,149.6758277],
+				"pitchHeight": {
+					"Value": 75,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n26"
+			},
+			{
+				"symbol": "A5",
+				"interval": [149.7687075,150.6510658],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n27"
+			},
+			{
+				"symbol": "G5",
+				"interval": [150.7439456,150.9761451],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n28"
+			},
+			{
+				"symbol": "G5",
+				"interval": [151.022585,151.4405442],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n29"
+			},
+			{
+				"symbol": "F5",
+				"interval": [151.4869841,152.044263],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n30"
+			},
+			{
+				"symbol": "E5",
+				"interval": [152.1371429,152.9266213],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n31"
+			},
+			{
+				"symbol": "F5",
+				"interval": [153.0195011,153.7160998],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n32"
+			},
+			{
+				"symbol": "E5",
+				"interval": [153.7625397,153.9947392],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n33"
+			},
+			{
+				"symbol": "D5",
+				"interval": [154.0411791,154.2269388],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n34"
+			},
+			{
+				"symbol": "D5",
+				"interval": [154.2733787,154.5520181],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n35"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [154.644898,155.0628571],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n36"
+			},
+			{
+				"symbol": "D5",
+				"interval": [155.1092971,156.7346939],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n37"
+			},
+			{
+				"symbol": "D5",
+				"interval": [156.8275737,157.6170522],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n38"
+			},
+			{
+				"symbol": "D5",
+				"interval": [157.6634921,158.4065306],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n39"
+			},
+			{
+				"symbol": "D5",
+				"interval": [158.4994104,159.0102494],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n40"
+			},
+			{
+				"symbol": "D5",
+				"interval": [159.0566893,159.4746485],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n41"
+			},
+			{
+				"symbol": "E5",
+				"interval": [159.5210884,160.0783673],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n42"
+			},
+			{
+				"symbol": "D5",
+				"interval": [160.1248073,160.4498866],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n43"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [160.4963265,160.8214059],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n44"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [160.8678458,161.7037642],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n45"
+			},
+			{
+				"symbol": "D5",
+				"interval": [161.7502041,162.4932426],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n46"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [162.5396825,162.8647619],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n47"
+			},
+			{
+				"symbol": "B4b4",
+				"interval": [162.9112018,163.1898413],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n48"
+			},
+			{
+				"symbol": "B4b4",
+				"interval": [163.2362812,163.6078005],
+				"pitchHeight": {
+					"Value": 23,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n49"
+			},
+			{
+				"symbol": "A4",
+				"interval": [163.6542404,163.7935601],
+				"pitchHeight": {
+					"Value": 23,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n50"
+			},
+			{
+				"symbol": "B4b4",
+				"interval": [163.84,164.1650794],
+				"pitchHeight": {
+					"Value": 18,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n51"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [164.2579592,164.3972789],
+				"pitchHeight": {
+					"Value": 23,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n52"
+			},
+			{
+				"symbol": "B4b4",
+				"interval": [164.4437188,164.6759184],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n53"
+			},
+			{
+				"symbol": "A4",
+				"interval": [164.7687982,165.5118367],
+				"pitchHeight": {
+					"Value": 23,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n54"
+			},
+			{
+				"symbol": "A4",
+				"interval": [165.6047166,167.2765533],
+				"pitchHeight": {
+					"Value": 18,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n55"
+			},
+			{
+				"symbol": "C5",
+				"interval": [167.3229932,167.8338322],
+				"pitchHeight": {
+					"Value": 18,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n56"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [167.8802721,168.8555102],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n57"
+			},
+			{
+				"symbol": "C5",
+				"interval": [168.9019501,169.5521088],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n58"
+			},
+			{
+				"symbol": "C5",
+				"interval": [169.5985488,171.0846259],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n59"
+			},
+			{
+				"symbol": "C5",
+				"interval": [171.1775057,171.4097052],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n60"
+			},
+			{
+				"symbol": "D5",
+				"interval": [171.502585,172.1527438],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n61"
+			},
+			{
+				"symbol": "C5",
+				"interval": [172.2456236,174.2889796],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n62"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [174.3354195,174.8462585],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n63"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [174.8926984,175.1713379],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n64"
+			},
+			{
+				"symbol": "A4",
+				"interval": [175.2177778,176.2858957],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n65"
+			},
+			{
+				"symbol": "G4",
+				"interval": [176.7038549,177.0289342],
+				"pitchHeight": {
+					"Value": 18,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n66"
+			},
+			{
+				"symbol": "F4",
+				"interval": [177.168254,178.3292517],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n67"
+			},
+			{
+				"symbol": "F4",
+				"interval": [178.4221315,178.4221315],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n68"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [178.4685714,179.4438095],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n69"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [179.5366893,180.8370068],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n70"
+			},
+			{
+				"symbol": "C5",
+				"interval": [180.8834467,181.1620862],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n71"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [181.3014059,181.6264853],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n72"
+			},
+			{
+				"symbol": "A4",
+				"interval": [181.6729252,183.5769615],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n73"
+			},
+			{
+				"symbol": "G4",
+				"interval": [183.6698413,183.6698413],
+				"pitchHeight": {
+					"Value": 18,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n74"
+			},
+			{
+				"symbol": "A4",
+				"interval": [183.7627211,184.2735601],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n75"
+			},
+			{
+				"symbol": "G4",
+				"interval": [184.3664399,185.2487982],
+				"pitchHeight": {
+					"Value": 18,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n76"
+			},
+			{
+				"symbol": "F4",
+				"interval": [185.341678,185.7596372],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n77"
+			},
+			{
+				"symbol": "E4",
+				"interval": [185.8060771,186.0847166],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n78"
+			},
+			{
+				"symbol": "F4",
+				"interval": [186.1311565,186.7348753],
+				"pitchHeight": {
+					"Value": -4,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n79"
+			},
+			{
+				"symbol": "E4",
+				"interval": [186.7813152,187.2921542],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n80"
+			},
+			{
+				"symbol": "E4",
+				"interval": [187.3385941,188.406712],
+				"pitchHeight": {
+					"Value": -4,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n81"
+			},
+			{
+				"symbol": "G4",
+				"interval": [188.5460317,188.5460317],
+				"pitchHeight": {
+					"Value": -4,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n82"
+			},
+			{
+				"symbol": "E4",
+				"interval": [188.5924717,189.0568707],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n83"
+			},
+			{
+				"symbol": "F4",
+				"interval": [189.1033107,191.6575057],
+				"pitchHeight": {
+					"Value": -4,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n84"
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [191.7503855,191.7503855],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n85"
+			},
+			{
+				"symbol": "A5",
+				"interval": [191.8432653,192.7720635],
+				"pitchHeight": {
+					"Value": 75,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n86"
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [192.8185034,193.4686621],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n87"
+			},
+			{
+				"symbol": "A5",
+				"interval": [194.4903401,195.2333787],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n1"
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [195.3262585,196.2086168],
+				"pitchHeight": {
+					"Value": 75,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n2"
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [196.2550567,196.9052154],
+				"pitchHeight": {
+					"Value": 75,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n3"
+			},
+			{
+				"symbol": "C6",
+				"interval": [196.9980952,197.7411338],
+				"pitchHeight": {
+					"Value": 84,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n4"
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [197.8340136,198.669932],
+				"pitchHeight": {
+					"Value": 75,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n5"
+			},
+			{
+				"symbol": "A5",
+				"interval": [198.7628118,198.7628118],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n6"
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [198.8556916,199.8773696],
+				"pitchHeight": {
+					"Value": 75,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n7"
+			},
+			{
+				"symbol": "A5",
+				"interval": [199.9238095,200.0166893],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n8"
+			},
+			{
+				"symbol": "G5",
+				"interval": [200.0631293,200.2953288],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n9"
+			},
+			{
+				"symbol": "A5",
+				"interval": [200.3882086,201.1312472],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n10"
+			},
+			{
+				"symbol": "G5",
+				"interval": [201.224127,202.1993651],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n11"
+			},
+			{
+				"symbol": "F5",
+				"interval": [202.2922449,204.4284807],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n12"
+			},
+			{
+				"symbol": "F5",
+				"interval": [204.4749206,204.4749206],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n13"
+			},
+			{
+				"symbol": "G5",
+				"interval": [204.5678005,204.8928798],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n14"
+			},
+			{
+				"symbol": "A5",
+				"interval": [204.9393197,205.6823583],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n15"
+			},
+			{
+				"symbol": "G5",
+				"interval": [205.7752381,207.4935147],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n16"
+			},
+			{
+				"symbol": "F5",
+				"interval": [207.5863946,208.0972336],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n17"
+			},
+			{
+				"symbol": "G5",
+				"interval": [208.1436735,208.375873],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n18"
+			},
+			{
+				"symbol": "A5",
+				"interval": [208.4223129,209.0260317],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n19"
+			},
+			{
+				"symbol": "G5",
+				"interval": [209.0724717,209.3511111],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n20"
+			},
+			{
+				"symbol": "A5",
+				"interval": [209.397551,209.7690703],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n21"
+			},
+			{
+				"symbol": "A5",
+				"interval": [209.8155102,211.4873469],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n22"
+			},
+			{
+				"symbol": "A5",
+				"interval": [211.5337868,212.1839456],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n23"
+			},
+			{
+				"symbol": "F5",
+				"interval": [212.2768254,212.7412245],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n24"
+			},
+			{
+				"symbol": "G5",
+				"interval": [212.8341043,213.2056236],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n25"
+			},
+			{
+				"symbol": "A5",
+				"interval": [213.2520635,213.8557823],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n26"
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [213.9486621,214.6452608],
+				"pitchHeight": {
+					"Value": 75,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n27"
+			},
+			{
+				"symbol": "A5",
+				"interval": [214.6917007,215.8991383],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n28"
+			},
+			{
+				"symbol": "G5",
+				"interval": [215.9455782,216.2242177],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n29"
+			},
+			{
+				"symbol": "A5",
+				"interval": [216.2706576,216.9672562],
+				"pitchHeight": {
+					"Value": 71,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n30"
+			},
+			{
+				"symbol": "G5",
+				"interval": [217.0601361,217.6638549],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n31"
+			},
+			{
+				"symbol": "F5",
+				"interval": [217.7567347,218.639093],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n32"
+			},
+			{
+				"symbol": "F5",
+				"interval": [218.7319728,219.660771],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n33"
+			},
+			{
+				"symbol": "E5",
+				"interval": [219.7072109,219.9858503],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n34"
+			},
+			{
+				"symbol": "E5",
+				"interval": [220.0322902,220.2644898],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n35"
+			},
+			{
+				"symbol": "D5",
+				"interval": [220.3573696,221.1004082],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n36"
+			},
+			{
+				"symbol": "D5",
+				"interval": [221.193288,221.6576871],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n37"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [221.704127,221.704127],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n38"
+			},
+			{
+				"symbol": "D5",
+				"interval": [221.7505669,222.725805],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n39"
+			},
+			{
+				"symbol": "D5",
+				"interval": [222.7722449,225.2335601],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n40"
+			},
+			{
+				"symbol": "F5",
+				"interval": [225.28,226.301678],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n41"
+			},
+			{
+				"symbol": "F5",
+				"interval": [226.3945578,226.812517],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n42"
+			},
+			{
+				"symbol": "G5",
+				"interval": [226.8589569,227.4626757],
+				"pitchHeight": {
+					"Value": 62,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n43"
+			},
+			{
+				"symbol": "F5",
+				"interval": [227.5555556,228.3914739],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n44"
+			},
+			{
+				"symbol": "E5",
+				"interval": [228.4379138,228.7165533],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n45"
+			},
+			{
+				"symbol": "E5",
+				"interval": [228.7629932,228.9951927],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n46"
+			},
+			{
+				"symbol": "F5",
+				"interval": [229.0880726,229.6917914],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n47"
+			},
+			{
+				"symbol": "E5",
+				"interval": [229.7382313,230.2026304],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n48"
+			},
+			{
+				"symbol": "D5",
+				"interval": [230.2490703,230.5741497],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n49"
+			},
+			{
+				"symbol": "E5",
+				"interval": [230.6670295,231.3636281],
+				"pitchHeight": {
+					"Value": 49,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n50"
+			},
+			{
+				"symbol": "D5",
+				"interval": [231.410068,231.6887075],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n51"
+			},
+			{
+				"symbol": "C5",
+				"interval": [231.7815873,232.4781859],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n52"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [232.5246259,232.8032653],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n53"
+			},
+			{
+				"symbol": "C5",
+				"interval": [232.8497052,233.5463039],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n54"
+			},
+			{
+				"symbol": "D5",
+				"interval": [233.6391837,234.5679819],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n55"
+			},
+			{
+				"symbol": "D5",
+				"interval": [234.6144218,236.2398186],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n56"
+			},
+			{
+				"symbol": "C5",
+				"interval": [236.2862585,236.4720181],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n57"
+			},
+			{
+				"symbol": "D5",
+				"interval": [236.518458,237.3079365],
+				"pitchHeight": {
+					"Value": 40,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n58"
+			},
+			{
+				"symbol": "C5",
+				"interval": [237.4008163,238.4689342],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n59"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [238.5618141,239.9085714],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n60"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [239.9550113,240.2800907],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n61"
+			},
+			{
+				"symbol": "A4",
+				"interval": [240.3265306,241.3017687],
+				"pitchHeight": {
+					"Value": 18,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n62"
+			},
+			{
+				"symbol": "G4",
+				"interval": [241.3482086,241.9519274],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n63"
+			},
+			{
+				"symbol": "F4",
+				"interval": [241.9983673,242.5092063],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n64"
+			},
+			{
+				"symbol": "F4",
+				"interval": [242.6020862,242.8807256],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n65"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [243.2986848,245.5742404],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n66"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [245.6671202,245.6671202],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n67"
+			},
+			{
+				"symbol": "C5",
+				"interval": [245.7135601,246.0386395],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n68"
+			},
+			{
+				"symbol": "B4b5",
+				"interval": [246.3172789,246.781678],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n69"
+			},
+			{
+				"symbol": "A4",
+				"interval": [246.8745578,248.3606349],
+				"pitchHeight": {
+					"Value": 18,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n70"
+			},
+			{
+				"symbol": "G4",
+				"interval": [248.4535147,248.4535147],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n71"
+			},
+			{
+				"symbol": "A4",
+				"interval": [248.5463946,249.4287528],
+				"pitchHeight": {
+					"Value": 18,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n72"
+			},
+			{
+				"symbol": "G4",
+				"interval": [249.4751927,250.1253515],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n73"
+			},
+			{
+				"symbol": "F4",
+				"interval": [250.2182313,251.1005896],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n74"
+			},
+			{
+				"symbol": "E4",
+				"interval": [251.1934694,251.7971882],
+				"pitchHeight": {
+					"Value": -4,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n75"
+			},
+			{
+				"symbol": "F4",
+				"interval": [251.890068,251.890068],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n76"
+			},
+			{
+				"symbol": "E4",
+				"interval": [251.9829478,252.7259864],
+				"pitchHeight": {
+					"Value": -4,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n77"
+			},
+			{
+				"symbol": "E4",
+				"interval": [252.7724263,253.5619048],
+				"pitchHeight": {
+					"Value": -4,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n78"
+			},
+			{
+				"symbol": "G4",
+				"interval": [253.6083447,253.9798639],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n79"
+			},
+			{
+				"symbol": "E4",
+				"interval": [254.0727438,254.8157823],
+				"pitchHeight": {
+					"Value": -4,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n80"
+			},
+			{
+				"symbol": "F4",
+				"interval": [254.9086621,257.1377778],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n81"
+			},
+			{
+				"symbol": "C4",
+				"interval": [257.2306576,257.1377778],
+				"pitchHeight": {
+					"Value": -22,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n82"
+			},
+			{
+				"symbol": "D4",
+				"interval": [257.2306576,257.1377778],
+				"pitchHeight": {
+					"Value": -13,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n83"
+			},
+			{
+				"symbol": "E4",
+				"interval": [257.2306576,257.1377778],
+				"pitchHeight": {
+					"Value": -4,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n84"
+			},
+			{
+				"symbol": "F4",
+				"interval": [257.2306576,257.2306576],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "F4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n85"
+			}
+		]
+	]
+}

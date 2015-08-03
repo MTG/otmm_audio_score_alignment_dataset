@@ -75,7 +75,8 @@ ignoreFolders = {'excluded','postponed','checked','unchecked'};
 options = {'ScoreFormat', 'generic', 'Verbose', false, 'PlotSteps', true,...
     'TempoMethod', 'none', 'Method', 'scoreInformed',...
     'CandidateLinkEstimationMethod', 'hough', 'WeightMethod', 'max', ...
-    'OverwriteFile', false};
+    'OverwriteFile', false, 'FragmentLocation', feature.DataPoint(0,'second'), ...
+    'FragmentDuration', feature.DataPoint(15, 'second')};
 
 %% start repetitive section linking
 disp(' ');disp('------------ Tonic Identification Wrapper -----------')
@@ -97,7 +98,7 @@ identifyTonic = @(score, audio, predominantMelody) ...
 % and replace the "for" with "parfor"
 tonicEstimated =  cell(size(fileLocations));
 info = cell(size(fileLocations));
-parfor k = 1:length(fileLocations)
+for k = 1:length(fileLocations)
     %% print the experiment
     [~, audioname] = fileparts(fileLocations(k).audio);
     disp([num2str(k) ': ' audioname])
