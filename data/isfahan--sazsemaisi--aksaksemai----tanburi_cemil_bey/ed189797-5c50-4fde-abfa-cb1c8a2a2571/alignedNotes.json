@@ -1,0 +1,7596 @@
+{
+	"dtw": [
+		[
+			{
+				"symbol": "B4",
+				"interval": [551.938322,552.1240816],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n1"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [552.1705215,552.1705215],
+				"pitchHeight": {
+					"Value": 17,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n2"
+			},
+			{
+				"symbol": "B4",
+				"interval": [552.2634014,552.449161],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n3"
+			},
+			{
+				"symbol": "C5",
+				"interval": [552.5420408,552.6349206],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n4"
+			},
+			{
+				"symbol": "D5",
+				"interval": [552.7278005,553.4243991],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n5"
+			},
+			{
+				"symbol": "E5",
+				"interval": [553.5172789,553.7959184],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n6"
+			},
+			{
+				"symbol": "F5",
+				"interval": [553.8887982,553.981678],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n7"
+			},
+			{
+				"symbol": "E5",
+				"interval": [554.0281179,554.4460771],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n8"
+			},
+			{
+				"symbol": "D5",
+				"interval": [554.5389569,554.7711565],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n9"
+			},
+			{
+				"symbol": "E5",
+				"interval": [554.8640363,555.0962358],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n10"
+			},
+			{
+				"symbol": "D5",
+				"interval": [555.1891156,555.5606349],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n11"
+			},
+			{
+				"symbol": "C5",
+				"interval": [555.6999546,555.8857143],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n12"
+			},
+			{
+				"symbol": "D5",
+				"interval": [555.9785941,556.1179138],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n13"
+			},
+			{
+				"symbol": "C5",
+				"interval": [556.1643537,556.535873],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n14"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [556.6287528,557.2324717],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n15"
+			},
+			{
+				"symbol": "D5",
+				"interval": [557.3253515,558.7649887],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n16"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [558.8578685,558.8578685],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n17"
+			},
+			{
+				"symbol": "C5",
+				"interval": [558.9507483,559.5080272],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n18"
+			},
+			{
+				"symbol": "D5",
+				"interval": [559.600907,559.8331066],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n19"
+			},
+			{
+				"symbol": "C5",
+				"interval": [559.9259864,560.0188662],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n20"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [560.0653061,560.1581859],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n21"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [560.2046259,560.622585],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n22"
+			},
+			{
+				"symbol": "A4",
+				"interval": [560.6690249,560.7154649],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n23"
+			},
+			{
+				"symbol": "A4",
+				"interval": [560.7619048,562.1086621],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n24"
+			},
+			{
+				"symbol": "F5",
+				"interval": [562.201542,562.665941],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n25"
+			},
+			{
+				"symbol": "E5",
+				"interval": [562.7588209,563.4089796],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n26"
+			},
+			{
+				"symbol": "D5",
+				"interval": [563.5018594,563.5018594],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n27"
+			},
+			{
+				"symbol": "C5",
+				"interval": [563.5947392,564.0126984],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n28"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [564.1055782,564.1055782],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n29"
+			},
+			{
+				"symbol": "A4",
+				"interval": [564.198458,564.8486168],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n30"
+			},
+			{
+				"symbol": "B4",
+				"interval": [564.9414966,565.0808163],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n31"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [565.1272562,565.5916553],
+				"pitchHeight": {
+					"Value": 17,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n32"
+			},
+			{
+				"symbol": "D5",
+				"interval": [565.6845351,566.1953741],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n33"
+			},
+			{
+				"symbol": "E5",
+				"interval": [566.3346939,566.7062132],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n34"
+			},
+			{
+				"symbol": "F5",
+				"interval": [566.7526531,567.0777324],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n35"
+			},
+			{
+				"symbol": "D5",
+				"interval": [567.1706122,567.7278912],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n36"
+			},
+			{
+				"symbol": "E5",
+				"interval": [567.7743311,568.1458503],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n37"
+			},
+			{
+				"symbol": "F5",
+				"interval": [568.1922902,569.3068481],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n38"
+			},
+			{
+				"symbol": "G5",
+				"interval": [569.3997279,569.3997279],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n39"
+			},
+			{
+				"symbol": "F5",
+				"interval": [569.4461678,569.4926077],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n40"
+			},
+			{
+				"symbol": "E5",
+				"interval": [569.5390476,569.6319274],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n41"
+			},
+			{
+				"symbol": "D5",
+				"interval": [569.7248073,569.9570068],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n42"
+			},
+			{
+				"symbol": "F5",
+				"interval": [570.0498866,570.2820862],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n43"
+			},
+			{
+				"symbol": "E5",
+				"interval": [570.3285261,570.6536054],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n44"
+			},
+			{
+				"symbol": "D5",
+				"interval": [570.7464853,570.9786848],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n45"
+			},
+			{
+				"symbol": "C5",
+				"interval": [571.0251247,571.2108844],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n46"
+			},
+			{
+				"symbol": "D5",
+				"interval": [571.3037642,572.1396825],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n47"
+			},
+			{
+				"symbol": "D5",
+				"interval": [572.2325624,572.2325624],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "1. HANE-n48"
+			},
+			{
+				"symbol": "D5",
+				"interval": [573.3006803,573.8115193],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n1"
+			},
+			{
+				"symbol": "A5",
+				"interval": [573.8579592,574.7403175],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n2"
+			},
+			{
+				"symbol": "G5",
+				"interval": [574.8331973,575.4369161],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n3"
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [575.483356,575.5297959],
+				"pitchHeight": {
+					"Value": 57,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n4"
+			},
+			{
+				"symbol": "A5",
+				"interval": [575.6226757,576.0870748],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n5"
+			},
+			{
+				"symbol": "G5",
+				"interval": [576.1799546,576.6443537],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n6"
+			},
+			{
+				"symbol": "F5",
+				"interval": [576.7372336,577.1087528],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n7"
+			},
+			{
+				"symbol": "E5",
+				"interval": [577.1551927,577.5731519],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n8"
+			},
+			{
+				"symbol": "D5",
+				"interval": [577.6660317,578.1304308],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n9"
+			},
+			{
+				"symbol": "E5",
+				"interval": [578.2697506,578.54839],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n10"
+			},
+			{
+				"symbol": "D5",
+				"interval": [578.5948299,578.6877098],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n11"
+			},
+			{
+				"symbol": "C5",
+				"interval": [578.7341497,578.9663492],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n12"
+			},
+			{
+				"symbol": "D5",
+				"interval": [579.059229,579.4307483],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n13"
+			},
+			{
+				"symbol": "E5",
+				"interval": [579.5236281,579.6629478],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n14"
+			},
+			{
+				"symbol": "F5",
+				"interval": [579.7558277,579.7558277],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n15"
+			},
+			{
+				"symbol": "A5",
+				"interval": [579.8487075,580.080907],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n16"
+			},
+			{
+				"symbol": "G5",
+				"interval": [580.1273469,580.2666667],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n17"
+			},
+			{
+				"symbol": "F5",
+				"interval": [580.3131066,580.4059864],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n18"
+			},
+			{
+				"symbol": "E5",
+				"interval": [580.4988662,580.7775057],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n19"
+			},
+			{
+				"symbol": "D5",
+				"interval": [580.8239456,581.102585],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n20"
+			},
+			{
+				"symbol": "C5",
+				"interval": [581.2883447,581.7527438],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n21"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [581.7991837,581.8456236],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n22"
+			},
+			{
+				"symbol": "C5",
+				"interval": [581.8920635,582.0313832],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n23"
+			},
+			{
+				"symbol": "D5",
+				"interval": [582.124263,582.3564626],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n24"
+			},
+			{
+				"symbol": "C5",
+				"interval": [582.4029025,582.7744218],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n25"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [582.8673016,583.4245805],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n26"
+			},
+			{
+				"symbol": "D5",
+				"interval": [583.5174603,584.3533787],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n27"
+			},
+			{
+				"symbol": "C5",
+				"interval": [584.4462585,585.1892971],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n28"
+			},
+			{
+				"symbol": "D5",
+				"interval": [585.235737,585.7001361],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n29"
+			},
+			{
+				"symbol": "C5",
+				"interval": [585.7930159,586.1645351],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n30"
+			},
+			{
+				"symbol": "G5",
+				"interval": [586.257415,586.4431746],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n31"
+			},
+			{
+				"symbol": "F5",
+				"interval": [586.4896145,586.8146939],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n32"
+			},
+			{
+				"symbol": "E5",
+				"interval": [586.9075737,586.9075737],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n33"
+			},
+			{
+				"symbol": "D5",
+				"interval": [587.0004535,587.1862132],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n34"
+			},
+			{
+				"symbol": "C5",
+				"interval": [587.279093,588.1150113],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n35"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [588.2078912,588.7187302],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n36"
+			},
+			{
+				"symbol": "C5",
+				"interval": [588.81161,589.4617687],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n37"
+			},
+			{
+				"symbol": "A4",
+				"interval": [589.5082086,589.6939683],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n38"
+			},
+			{
+				"symbol": "E5",
+				"interval": [589.7404082,590.0190476],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n39"
+			},
+			{
+				"symbol": "D5",
+				"interval": [590.0654875,590.1119274],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n40"
+			},
+			{
+				"symbol": "D5",
+				"interval": [590.1583673,590.4370068],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n41"
+			},
+			{
+				"symbol": "C5",
+				"interval": [590.5298866,590.9942857],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n42"
+			},
+			{
+				"symbol": "C5",
+				"interval": [591.0871655,591.0871655],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n43"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [591.1336054,591.3193651],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n44"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [591.365805,591.4586848],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n45"
+			},
+			{
+				"symbol": "A4",
+				"interval": [591.5051247,591.6444444],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n46"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [591.7373243,592.1088435],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n47"
+			},
+			{
+				"symbol": "A4",
+				"interval": [592.2017234,592.2946032],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n48"
+			},
+			{
+				"symbol": "A4",
+				"interval": [592.3410431,592.9447619],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n49"
+			},
+			{
+				"symbol": "A4",
+				"interval": [592.9912018,593.4556009],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n50"
+			},
+			{
+				"symbol": "D5",
+				"interval": [594.3843991,594.941678],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n1"
+			},
+			{
+				"symbol": "A5",
+				"interval": [595.0345578,595.8240363],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n2"
+			},
+			{
+				"symbol": "G5",
+				"interval": [595.8704762,596.3348753],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n3"
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [596.4277551,596.6135147],
+				"pitchHeight": {
+					"Value": 57,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n4"
+			},
+			{
+				"symbol": "A5",
+				"interval": [596.7063946,597.2172336],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n5"
+			},
+			{
+				"symbol": "G5",
+				"interval": [597.3101134,597.8209524],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n6"
+			},
+			{
+				"symbol": "F5",
+				"interval": [597.9138322,598.1924717],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n7"
+			},
+			{
+				"symbol": "E5",
+				"interval": [598.2853515,598.6568707],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n8"
+			},
+			{
+				"symbol": "D5",
+				"interval": [598.7497506,599.1677098],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n9"
+			},
+			{
+				"symbol": "E5",
+				"interval": [599.2141497,599.6785488],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n10"
+			},
+			{
+				"symbol": "D5",
+				"interval": [599.7249887,599.7249887],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n11"
+			},
+			{
+				"symbol": "C5",
+				"interval": [599.8178685,600.0036281],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n12"
+			},
+			{
+				"symbol": "D5",
+				"interval": [600.050068,600.1893878],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n13"
+			},
+			{
+				"symbol": "E5",
+				"interval": [600.2822676,600.4680272],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n14"
+			},
+			{
+				"symbol": "F5",
+				"interval": [600.560907,600.7466667],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n15"
+			},
+			{
+				"symbol": "A5",
+				"interval": [600.8395465,601.2110658],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n16"
+			},
+			{
+				"symbol": "G5",
+				"interval": [601.2575057,601.3039456],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n17"
+			},
+			{
+				"symbol": "F5",
+				"interval": [601.3503855,601.4897052],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n18"
+			},
+			{
+				"symbol": "E5",
+				"interval": [601.5361451,601.7219048],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n19"
+			},
+			{
+				"symbol": "D5",
+				"interval": [601.8147846,602.2327438],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n20"
+			},
+			{
+				"symbol": "C5",
+				"interval": [602.3256236,602.5113832],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n21"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [602.604263,602.7900227],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n22"
+			},
+			{
+				"symbol": "C5",
+				"interval": [602.8829025,602.9757823],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n23"
+			},
+			{
+				"symbol": "D5",
+				"interval": [603.0686621,603.2544218],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n24"
+			},
+			{
+				"symbol": "C5",
+				"interval": [603.3473016,603.7652608],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n25"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [603.8581406,604.4154195],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n26"
+			},
+			{
+				"symbol": "D5",
+				"interval": [604.5082993,605.3906576],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n27"
+			},
+			{
+				"symbol": "C5",
+				"interval": [605.4835374,605.8550567],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n28"
+			},
+			{
+				"symbol": "D5",
+				"interval": [605.9479365,606.8302948],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n29"
+			},
+			{
+				"symbol": "C5",
+				"interval": [606.9231746,606.9231746],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n30"
+			},
+			{
+				"symbol": "G5",
+				"interval": [607.1089342,607.3411338],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n31"
+			},
+			{
+				"symbol": "F5",
+				"interval": [607.3875737,607.4340136],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n32"
+			},
+			{
+				"symbol": "E5",
+				"interval": [607.4804535,607.6197732],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n33"
+			},
+			{
+				"symbol": "D5",
+				"interval": [607.7126531,607.9448526],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n34"
+			},
+			{
+				"symbol": "C5",
+				"interval": [607.9912925,608.8272109],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n35"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [608.8736508,609.5238095],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n36"
+			},
+			{
+				"symbol": "C5",
+				"interval": [609.5702494,610.1275283],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n37"
+			},
+			{
+				"symbol": "A4",
+				"interval": [610.1739683,610.4526077],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n38"
+			},
+			{
+				"symbol": "E5",
+				"interval": [610.5454875,610.6848073],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n39"
+			},
+			{
+				"symbol": "D5",
+				"interval": [610.7312472,610.7776871],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n40"
+			},
+			{
+				"symbol": "D5",
+				"interval": [610.824127,611.0098866],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n41"
+			},
+			{
+				"symbol": "C5",
+				"interval": [611.1027664,611.2420862],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n42"
+			},
+			{
+				"symbol": "C5",
+				"interval": [611.2885261,611.6600454],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n43"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [611.7064853,611.7529252],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n44"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [611.7993651,612.1244444],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n45"
+			},
+			{
+				"symbol": "A4",
+				"interval": [612.2173243,612.4030839],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n46"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [612.4959637,612.7281633],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n47"
+			},
+			{
+				"symbol": "A4",
+				"interval": [612.8210431,612.9603628],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n48"
+			},
+			{
+				"symbol": "A4",
+				"interval": [613.0068027,613.5176417],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n49"
+			},
+			{
+				"symbol": "A4",
+				"interval": [613.5640816,613.7962812],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n50"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [614.910839,615.6074376],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n1"
+			},
+			{
+				"symbol": "G5",
+				"interval": [615.6538776,616.3040363],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n2"
+			},
+			{
+				"symbol": "G5",
+				"interval": [616.3969161,616.3969161],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n3"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [616.4897959,616.7219955],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n4"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [616.7684354,616.9077551],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n5"
+			},
+			{
+				"symbol": "E5#4",
+				"interval": [616.954195,617.0006349],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n6"
+			},
+			{
+				"symbol": "E5#4",
+				"interval": [617.0470748,617.3721542],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n7"
+			},
+			{
+				"symbol": "D5",
+				"interval": [617.465034,617.6972336],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n8"
+			},
+			{
+				"symbol": "D5",
+				"interval": [617.7436735,617.8365533],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n9"
+			},
+			{
+				"symbol": "E5#4",
+				"interval": [617.8829932,618.0223129],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n10"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [618.1151927,619.6012698],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n11"
+			},
+			{
+				"symbol": "B5b1",
+				"interval": [619.6941497,620.0656689],
+				"pitchHeight": {
+					"Value": 61,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n12"
+			},
+			{
+				"symbol": "A5",
+				"interval": [620.1121088,620.1585488],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n13"
+			},
+			{
+				"symbol": "G5",
+				"interval": [620.2049887,620.2978685],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n14"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [620.3907483,620.530068],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n15"
+			},
+			{
+				"symbol": "E5",
+				"interval": [620.5765079,620.6693878],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n16"
+			},
+			{
+				"symbol": "D5",
+				"interval": [620.8551474,621.1802268],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n17"
+			},
+			{
+				"symbol": "G5",
+				"interval": [621.2266667,621.3195465],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n18"
+			},
+			{
+				"symbol": "F5",
+				"interval": [621.3659864,621.5053061],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n19"
+			},
+			{
+				"symbol": "E5",
+				"interval": [621.551746,621.5981859],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n20"
+			},
+			{
+				"symbol": "D5",
+				"interval": [621.7375057,621.9232653],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n21"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [622.0161451,622.2019048],
+				"pitchHeight": {
+					"Value": 17,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n22"
+			},
+			{
+				"symbol": "D5",
+				"interval": [622.2947846,622.4341043],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n23"
+			},
+			{
+				"symbol": "B4",
+				"interval": [622.4805442,622.6663039],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n24"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [622.7591837,622.9449433],
+				"pitchHeight": {
+					"Value": 17,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n25"
+			},
+			{
+				"symbol": "A4",
+				"interval": [623.0378231,624.3381406],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n26"
+			},
+			{
+				"symbol": "A4",
+				"interval": [624.4310204,624.8954195],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n27"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [624.9882993,625.2669388],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n28"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [625.3598186,625.8706576],
+				"pitchHeight": {
+					"Value": 17,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n29"
+			},
+			{
+				"symbol": "D5",
+				"interval": [625.9635374,626.2421769],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n30"
+			},
+			{
+				"symbol": "E5",
+				"interval": [626.3814966,626.8458957],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n31"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [626.8923356,627.217415],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n32"
+			},
+			{
+				"symbol": "D5",
+				"interval": [627.3567347,627.8211338],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n33"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [627.9140136,628.1926531],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n34"
+			},
+			{
+				"symbol": "G5",
+				"interval": [628.239093,628.6106122],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n35"
+			},
+			{
+				"symbol": "A5",
+				"interval": [628.7034921,630.0502494],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n36"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [630.1431293,630.1431293],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n37"
+			},
+			{
+				"symbol": "D5",
+				"interval": [630.2360091,630.6075283],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n38"
+			},
+			{
+				"symbol": "G5",
+				"interval": [630.6539683,630.9790476],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n39"
+			},
+			{
+				"symbol": "F5",
+				"interval": [631.0719274,631.304127],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n40"
+			},
+			{
+				"symbol": "E5",
+				"interval": [631.3505669,631.7220862],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n41"
+			},
+			{
+				"symbol": "E5",
+				"interval": [631.7685261,631.9542857],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n42"
+			},
+			{
+				"symbol": "D5",
+				"interval": [632.0007256,632.2329252],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n43"
+			},
+			{
+				"symbol": "D5",
+				"interval": [632.325805,632.4651247],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n44"
+			},
+			{
+				"symbol": "C5",
+				"interval": [632.5580045,632.5580045],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n45"
+			},
+			{
+				"symbol": "D5",
+				"interval": [632.6508844,633.3010431],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n46"
+			},
+			{
+				"symbol": "D5",
+				"interval": [633.3939229,633.5796825],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n47"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [634.1834014,635.0657596],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n1"
+			},
+			{
+				"symbol": "G5",
+				"interval": [635.1586395,635.7159184],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n2"
+			},
+			{
+				"symbol": "G5",
+				"interval": [635.8087982,635.8087982],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n3"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [635.901678,636.2267574],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n4"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [636.3196372,636.3196372],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n5"
+			},
+			{
+				"symbol": "E5#4",
+				"interval": [636.412517,636.6911565],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n6"
+			},
+			{
+				"symbol": "E5#4",
+				"interval": [636.7375964,636.8769161],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n7"
+			},
+			{
+				"symbol": "D5",
+				"interval": [636.923356,636.9697959],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n8"
+			},
+			{
+				"symbol": "D5",
+				"interval": [637.0162358,637.1091156],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n9"
+			},
+			{
+				"symbol": "E5#4",
+				"interval": [637.2484354,637.3413152],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n10"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [637.434195,638.7809524],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n11"
+			},
+			{
+				"symbol": "B5b1",
+				"interval": [638.8738322,639.2453515],
+				"pitchHeight": {
+					"Value": 61,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n12"
+			},
+			{
+				"symbol": "A5",
+				"interval": [639.2917914,639.3382313],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n13"
+			},
+			{
+				"symbol": "G5",
+				"interval": [639.3846712,639.477551],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n14"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [639.5704308,639.7097506],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n15"
+			},
+			{
+				"symbol": "E5",
+				"interval": [639.7561905,639.8490703],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n16"
+			},
+			{
+				"symbol": "D5",
+				"interval": [639.8955102,639.9419501],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n17"
+			},
+			{
+				"symbol": "G5",
+				"interval": [639.98839,640.5456689],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n18"
+			},
+			{
+				"symbol": "F5",
+				"interval": [640.6385488,640.6385488],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n19"
+			},
+			{
+				"symbol": "E5",
+				"interval": [640.6849887,640.8707483],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n20"
+			},
+			{
+				"symbol": "D5",
+				"interval": [640.9171882,641.1029478],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n21"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [641.1958277,641.2887075],
+				"pitchHeight": {
+					"Value": 17,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n22"
+			},
+			{
+				"symbol": "D5",
+				"interval": [641.3815873,641.4744671],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n23"
+			},
+			{
+				"symbol": "B4",
+				"interval": [641.5673469,641.7531066],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n24"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [641.7995465,641.9388662],
+				"pitchHeight": {
+					"Value": 17,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n25"
+			},
+			{
+				"symbol": "A4",
+				"interval": [642.0781859,643.564263],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n26"
+			},
+			{
+				"symbol": "A4",
+				"interval": [643.6107029,643.9357823],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n27"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [644.0286621,644.3073016],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n28"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [644.4930612,645.2360998],
+				"pitchHeight": {
+					"Value": 17,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n29"
+			},
+			{
+				"symbol": "D5",
+				"interval": [645.3289796,645.7469388],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n30"
+			},
+			{
+				"symbol": "E5",
+				"interval": [645.7933787,645.7933787],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n31"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [645.8862585,646.4435374],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n32"
+			},
+			{
+				"symbol": "D5",
+				"interval": [646.5364172,646.8150567],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n33"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [646.8614966,647.2330159],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n34"
+			},
+			{
+				"symbol": "G5",
+				"interval": [647.2794558,648.1153741],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n35"
+			},
+			{
+				"symbol": "A5",
+				"interval": [648.1618141,648.1618141],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n36"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [648.2546939,649.1370522],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n37"
+			},
+			{
+				"symbol": "D5",
+				"interval": [649.229932,649.5550113],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n38"
+			},
+			{
+				"symbol": "G5",
+				"interval": [649.6478912,650.0194104],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n39"
+			},
+			{
+				"symbol": "F5",
+				"interval": [650.0658503,650.3444898],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n40"
+			},
+			{
+				"symbol": "E5",
+				"interval": [650.4373696,650.9946485],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n41"
+			},
+			{
+				"symbol": "E5",
+				"interval": [651.0410884,651.0410884],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n42"
+			},
+			{
+				"symbol": "D5",
+				"interval": [651.1339683,651.4590476],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n43"
+			},
+			{
+				"symbol": "D5",
+				"interval": [651.5519274,651.5519274],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n44"
+			},
+			{
+				"symbol": "C5",
+				"interval": [651.5983673,651.6448073],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n45"
+			},
+			{
+				"symbol": "D5",
+				"interval": [651.6912472,652.1092063],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n46"
+			},
+			{
+				"symbol": "D5",
+				"interval": [652.1556463,652.3414059],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "2. HANE-n47"
+			},
+			{
+				"symbol": "D5",
+				"interval": [653.4095238,653.8739229],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n1"
+			},
+			{
+				"symbol": "A5",
+				"interval": [653.9668027,654.6634014],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n2"
+			},
+			{
+				"symbol": "G5",
+				"interval": [654.7562812,655.2206803],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n3"
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [655.2671202,655.870839],
+				"pitchHeight": {
+					"Value": 57,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n4"
+			},
+			{
+				"symbol": "A5",
+				"interval": [655.9172789,655.9172789],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n5"
+			},
+			{
+				"symbol": "G5",
+				"interval": [656.0565986,656.5209977],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n6"
+			},
+			{
+				"symbol": "F5",
+				"interval": [656.5674376,656.9389569],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n7"
+			},
+			{
+				"symbol": "E5",
+				"interval": [656.9853968,657.3104762],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n8"
+			},
+			{
+				"symbol": "D5",
+				"interval": [657.4497959,657.8677551],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n9"
+			},
+			{
+				"symbol": "E5",
+				"interval": [657.9606349,658.2392744],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n10"
+			},
+			{
+				"symbol": "D5",
+				"interval": [658.2857143,658.3321542],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n11"
+			},
+			{
+				"symbol": "C5",
+				"interval": [658.3785941,658.5643537],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n12"
+			},
+			{
+				"symbol": "D5",
+				"interval": [658.6107937,658.7501134],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n13"
+			},
+			{
+				"symbol": "E5",
+				"interval": [658.8429932,658.935873],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n14"
+			},
+			{
+				"symbol": "F5",
+				"interval": [659.0287528,659.2609524],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n15"
+			},
+			{
+				"symbol": "A5",
+				"interval": [659.3538322,659.5860317],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n16"
+			},
+			{
+				"symbol": "G5",
+				"interval": [659.6789116,659.8646712],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n17"
+			},
+			{
+				"symbol": "F5",
+				"interval": [659.9111111,659.957551],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n18"
+			},
+			{
+				"symbol": "E5",
+				"interval": [660.0039909,660.1897506],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n19"
+			},
+			{
+				"symbol": "D5",
+				"interval": [660.3290703,660.6077098],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n20"
+			},
+			{
+				"symbol": "C5",
+				"interval": [660.7005896,660.8863492],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n21"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [660.9327891,660.979229],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n22"
+			},
+			{
+				"symbol": "C5",
+				"interval": [661.0256689,661.5829478],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n23"
+			},
+			{
+				"symbol": "D5",
+				"interval": [661.7222676,661.7222676],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n24"
+			},
+			{
+				"symbol": "C5",
+				"interval": [661.8151474,662.000907],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n25"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [662.0937868,662.4653061],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n26"
+			},
+			{
+				"symbol": "D5",
+				"interval": [662.5581859,663.4869841],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n27"
+			},
+			{
+				"symbol": "C5",
+				"interval": [663.5798639,663.9513832],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n28"
+			},
+			{
+				"symbol": "D5",
+				"interval": [664.044263,664.601542],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n29"
+			},
+			{
+				"symbol": "C5",
+				"interval": [664.6479819,664.8337415],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n30"
+			},
+			{
+				"symbol": "G5",
+				"interval": [664.9266213,665.2517007],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n31"
+			},
+			{
+				"symbol": "F5",
+				"interval": [665.3445805,665.4374603],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n32"
+			},
+			{
+				"symbol": "E5",
+				"interval": [665.4839002,665.7625397],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n33"
+			},
+			{
+				"symbol": "D5",
+				"interval": [665.9018594,665.9018594],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n34"
+			},
+			{
+				"symbol": "C5",
+				"interval": [665.9482993,666.6913379],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n35"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [666.7842177,667.2950567],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n36"
+			},
+			{
+				"symbol": "C5",
+				"interval": [667.3879365,667.8987755],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n37"
+			},
+			{
+				"symbol": "A4",
+				"interval": [667.9452154,668.2238549],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n38"
+			},
+			{
+				"symbol": "E5",
+				"interval": [668.2702948,668.4096145],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n39"
+			},
+			{
+				"symbol": "D5",
+				"interval": [668.4560544,668.7346939],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n40"
+			},
+			{
+				"symbol": "D5",
+				"interval": [668.7811338,668.8275737],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n41"
+			},
+			{
+				"symbol": "C5",
+				"interval": [668.8740136,669.0597732],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n42"
+			},
+			{
+				"symbol": "C5",
+				"interval": [669.1526531,669.4312925],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n43"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [669.5241723,669.6634921],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n44"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [669.709932,669.9885714],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n45"
+			},
+			{
+				"symbol": "A4",
+				"interval": [670.1743311,670.2672109],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n46"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [670.3600907,670.3600907],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n47"
+			},
+			{
+				"symbol": "A4",
+				"interval": [670.4065306,670.5922902],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n48"
+			},
+			{
+				"symbol": "A4",
+				"interval": [670.6387302,671.1495692],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n49"
+			},
+			{
+				"symbol": "A4",
+				"interval": [671.242449,671.4282086],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n50"
+			},
+			{
+				"symbol": "D5",
+				"interval": [672.4034467,672.9142857],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n1"
+			},
+			{
+				"symbol": "A5",
+				"interval": [672.9607256,673.4715646],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n2"
+			},
+			{
+				"symbol": "G5",
+				"interval": [673.5644444,674.307483],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n3"
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [674.3539229,674.4003628],
+				"pitchHeight": {
+					"Value": 57,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n4"
+			},
+			{
+				"symbol": "A5",
+				"interval": [674.4468027,674.9112018],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n5"
+			},
+			{
+				"symbol": "G5",
+				"interval": [674.9576417,675.3756009],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n6"
+			},
+			{
+				"symbol": "F5",
+				"interval": [675.4684807,675.84],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n7"
+			},
+			{
+				"symbol": "E5",
+				"interval": [675.9328798,676.2115193],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n8"
+			},
+			{
+				"symbol": "D5",
+				"interval": [676.3043991,676.9081179],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n9"
+			},
+			{
+				"symbol": "E5",
+				"interval": [676.9545578,676.9545578],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n10"
+			},
+			{
+				"symbol": "D5",
+				"interval": [677.0009977,677.3260771],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n11"
+			},
+			{
+				"symbol": "C5",
+				"interval": [677.4189569,677.4189569],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n12"
+			},
+			{
+				"symbol": "D5",
+				"interval": [677.4653968,677.6047166],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n13"
+			},
+			{
+				"symbol": "E5",
+				"interval": [677.6511565,677.7904762],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n14"
+			},
+			{
+				"symbol": "F5",
+				"interval": [677.883356,678.1155556],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n15"
+			},
+			{
+				"symbol": "A5",
+				"interval": [678.1619955,678.3477551],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n16"
+			},
+			{
+				"symbol": "G5",
+				"interval": [678.4406349,678.5335147],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n17"
+			},
+			{
+				"symbol": "F5",
+				"interval": [678.5799546,678.6728345],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n18"
+			},
+			{
+				"symbol": "E5",
+				"interval": [678.7657143,679.0443537],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n19"
+			},
+			{
+				"symbol": "D5",
+				"interval": [679.1372336,679.3694331],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n20"
+			},
+			{
+				"symbol": "C5",
+				"interval": [679.4623129,679.8338322],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n21"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [679.8802721,679.926712],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n22"
+			},
+			{
+				"symbol": "C5",
+				"interval": [679.9731519,680.0660317],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n23"
+			},
+			{
+				"symbol": "D5",
+				"interval": [680.1124717,680.2982313],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n24"
+			},
+			{
+				"symbol": "C5",
+				"interval": [680.437551,680.7161905],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n25"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [680.8090703,681.2734694],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n26"
+			},
+			{
+				"symbol": "D5",
+				"interval": [681.3663492,682.2487075],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n27"
+			},
+			{
+				"symbol": "C5",
+				"interval": [682.3415873,682.8524263],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n28"
+			},
+			{
+				"symbol": "D5",
+				"interval": [682.9453061,683.7812245],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n29"
+			},
+			{
+				"symbol": "C5",
+				"interval": [683.8276644,684.0598639],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n30"
+			},
+			{
+				"symbol": "G5",
+				"interval": [684.1063039,684.1063039],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n31"
+			},
+			{
+				"symbol": "F5",
+				"interval": [684.1527438,684.2920635],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n32"
+			},
+			{
+				"symbol": "E5",
+				"interval": [684.3385034,684.3385034],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n33"
+			},
+			{
+				"symbol": "D5",
+				"interval": [684.4778231,684.7100227],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n34"
+			},
+			{
+				"symbol": "C5",
+				"interval": [684.8029025,685.6388209],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n35"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [685.6852608,686.1496599],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n36"
+			},
+			{
+				"symbol": "C5",
+				"interval": [686.2425397,686.6604989],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n37"
+			},
+			{
+				"symbol": "A4",
+				"interval": [686.7069388,687.0320181],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n38"
+			},
+			{
+				"symbol": "E5",
+				"interval": [687.124898,687.2177778],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n39"
+			},
+			{
+				"symbol": "D5",
+				"interval": [687.3106576,687.635737],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n40"
+			},
+			{
+				"symbol": "D5",
+				"interval": [687.6821769,687.6821769],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n41"
+			},
+			{
+				"symbol": "C5",
+				"interval": [687.8214966,688.146576],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n42"
+			},
+			{
+				"symbol": "C5",
+				"interval": [688.2394558,688.2394558],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n43"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [688.3323356,688.3787755],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n44"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [688.4252154,688.657415],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n45"
+			},
+			{
+				"symbol": "A4",
+				"interval": [688.7502948,688.8896145],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n46"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [688.9360544,689.0753741],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n47"
+			},
+			{
+				"symbol": "A4",
+				"interval": [689.2146939,689.3075737],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n48"
+			},
+			{
+				"symbol": "A4",
+				"interval": [689.3540136,689.9577324],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n49"
+			},
+			{
+				"symbol": "A4",
+				"interval": [690.0041723,690.3292517],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n50"
+			},
+			{
+				"symbol": "D5",
+				"interval": [691.0722902,691.6760091],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n1"
+			},
+			{
+				"symbol": "A5",
+				"interval": [691.7688889,692.0475283],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n2"
+			},
+			{
+				"symbol": "A5",
+				"interval": [692.1404082,692.5119274],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n3"
+			},
+			{
+				"symbol": "G5",
+				"interval": [692.6048073,692.7905669],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n4"
+			},
+			{
+				"symbol": "F5#1",
+				"interval": [692.8370068,692.9298866],
+				"pitchHeight": {
+					"Value": 36,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n5"
+			},
+			{
+				"symbol": "E5",
+				"interval": [693.0227664,693.3478458],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n6"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [693.3942857,693.5336054],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n7"
+			},
+			{
+				"symbol": "G5",
+				"interval": [693.5800454,693.765805],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n8"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [693.8586848,693.8586848],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n9"
+			},
+			{
+				"symbol": "G5",
+				"interval": [693.9515646,694.1373243],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n10"
+			},
+			{
+				"symbol": "A5",
+				"interval": [694.276644,695.809161],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n11"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [695.8556009,695.9020408],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n12"
+			},
+			{
+				"symbol": "G5",
+				"interval": [695.9484807,696.0413605],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n13"
+			},
+			{
+				"symbol": "A5",
+				"interval": [696.1342404,696.4128798],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n14"
+			},
+			{
+				"symbol": "B5b1",
+				"interval": [696.4593197,696.5057596],
+				"pitchHeight": {
+					"Value": 61,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n15"
+			},
+			{
+				"symbol": "C6",
+				"interval": [696.5521995,696.7843991],
+				"pitchHeight": {
+					"Value": 66,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n16"
+			},
+			{
+				"symbol": "B5b1",
+				"interval": [696.830839,697.1094785],
+				"pitchHeight": {
+					"Value": 61,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n17"
+			},
+			{
+				"symbol": "B5b1",
+				"interval": [697.1559184,697.2952381],
+				"pitchHeight": {
+					"Value": 61,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n18"
+			},
+			{
+				"symbol": "A5",
+				"interval": [697.341678,697.4809977],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n19"
+			},
+			{
+				"symbol": "A5",
+				"interval": [697.5274376,697.6203175],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n20"
+			},
+			{
+				"symbol": "B5b1",
+				"interval": [697.7131973,697.9918367],
+				"pitchHeight": {
+					"Value": 61,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n21"
+			},
+			{
+				"symbol": "A5",
+				"interval": [698.0382766,698.3169161],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n22"
+			},
+			{
+				"symbol": "G5",
+				"interval": [698.363356,698.4097959],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n23"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [698.4562358,698.5491156],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n24"
+			},
+			{
+				"symbol": "E5#4",
+				"interval": [698.6419955,698.7348753],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n25"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [698.874195,700.1280726],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n26"
+			},
+			{
+				"symbol": "E5",
+				"interval": [700.2209524,700.406712],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n27"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [700.4531519,700.5924717],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n28"
+			},
+			{
+				"symbol": "G5",
+				"interval": [700.6853515,701.6141497],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n29"
+			},
+			{
+				"symbol": "G5",
+				"interval": [701.7070295,702.5429478],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n30"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [702.5893878,702.8680272],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n31"
+			},
+			{
+				"symbol": "A5",
+				"interval": [702.960907,702.960907],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n32"
+			},
+			{
+				"symbol": "B5b1",
+				"interval": [703.0073469,703.0537868],
+				"pitchHeight": {
+					"Value": 61,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n33"
+			},
+			{
+				"symbol": "A5",
+				"interval": [703.1002268,703.2395465],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n34"
+			},
+			{
+				"symbol": "G5",
+				"interval": [703.3324263,703.5646259],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n35"
+			},
+			{
+				"symbol": "F5#1",
+				"interval": [703.6110658,703.6575057],
+				"pitchHeight": {
+					"Value": 36,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n36"
+			},
+			{
+				"symbol": "E5",
+				"interval": [703.7039456,703.7968254],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n37"
+			},
+			{
+				"symbol": "D5",
+				"interval": [703.8432653,704.4005442],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n38"
+			},
+			{
+				"symbol": "G5#4",
+				"interval": [704.493424,704.493424],
+				"pitchHeight": {
+					"Value": 48,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n39"
+			},
+			{
+				"symbol": "A5",
+				"interval": [704.5863039,704.7720635],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n40"
+			},
+			{
+				"symbol": "B5b1",
+				"interval": [704.8185034,705.2364626],
+				"pitchHeight": {
+					"Value": 66,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n41"
+			},
+			{
+				"symbol": "A5",
+				"interval": [705.2829025,705.3757823],
+				"pitchHeight": {
+					"Value": 61,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n42"
+			},
+			{
+				"symbol": "G5#4",
+				"interval": [705.4222222,705.6544218],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n43"
+			},
+			{
+				"symbol": "F5",
+				"interval": [705.7008617,705.7473016],
+				"pitchHeight": {
+					"Value": 48,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n44"
+			},
+			{
+				"symbol": "E5",
+				"interval": [705.7937415,705.8401814],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n45"
+			},
+			{
+				"symbol": "F5",
+				"interval": [705.8866213,705.9795011],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n46"
+			},
+			{
+				"symbol": "A5",
+				"interval": [706.072381,706.4439002],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n47"
+			},
+			{
+				"symbol": "G5#4",
+				"interval": [706.4903401,706.53678],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n48"
+			},
+			{
+				"symbol": "F5",
+				"interval": [706.58322,706.6760998],
+				"pitchHeight": {
+					"Value": 48,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n49"
+			},
+			{
+				"symbol": "E5",
+				"interval": [706.7689796,707.094059],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n50"
+			},
+			{
+				"symbol": "E5",
+				"interval": [707.1404989,707.3726984],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n51"
+			},
+			{
+				"symbol": "D5",
+				"interval": [707.5120181,707.604898],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n52"
+			},
+			{
+				"symbol": "D5",
+				"interval": [707.6513379,707.6977778],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n53"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [707.7442177,707.8370975],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n54"
+			},
+			{
+				"symbol": "D5",
+				"interval": [707.9299773,708.7658957],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n55"
+			},
+			{
+				"symbol": "D5",
+				"interval": [708.8123356,709.0445351],
+				"pitchHeight": {
+					"Value": 17,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "3. HANE-n56"
+			},
+			{
+				"symbol": "D5",
+				"interval": [709.648254,710.159093],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n1"
+			},
+			{
+				"symbol": "A5",
+				"interval": [710.2984127,710.9950113],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n2"
+			},
+			{
+				"symbol": "G5",
+				"interval": [711.0878912,711.5522902],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n3"
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [711.6451701,712.1095692],
+				"pitchHeight": {
+					"Value": 57,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n4"
+			},
+			{
+				"symbol": "A5",
+				"interval": [712.202449,712.202449],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n5"
+			},
+			{
+				"symbol": "G5",
+				"interval": [712.2953288,712.8061678],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n6"
+			},
+			{
+				"symbol": "F5",
+				"interval": [712.8990476,713.1776871],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n7"
+			},
+			{
+				"symbol": "E5",
+				"interval": [713.2705669,713.6420862],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n8"
+			},
+			{
+				"symbol": "D5",
+				"interval": [713.734966,714.1064853],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n9"
+			},
+			{
+				"symbol": "E5",
+				"interval": [714.1993651,714.4780045],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n10"
+			},
+			{
+				"symbol": "D5",
+				"interval": [714.5244444,714.5708844],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n11"
+			},
+			{
+				"symbol": "C5",
+				"interval": [714.6173243,714.8495238],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n12"
+			},
+			{
+				"symbol": "D5",
+				"interval": [714.8959637,715.0352834],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n13"
+			},
+			{
+				"symbol": "E5",
+				"interval": [715.1746032,715.267483],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n14"
+			},
+			{
+				"symbol": "F5",
+				"interval": [715.3603628,715.5461224],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n15"
+			},
+			{
+				"symbol": "A5",
+				"interval": [715.6390023,716.0569615],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n16"
+			},
+			{
+				"symbol": "G5",
+				"interval": [716.1034014,716.1034014],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n17"
+			},
+			{
+				"symbol": "F5",
+				"interval": [716.1498413,716.1962812],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n18"
+			},
+			{
+				"symbol": "E5",
+				"interval": [716.289161,716.6142404],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n19"
+			},
+			{
+				"symbol": "D5",
+				"interval": [716.6606803,716.8464399],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n20"
+			},
+			{
+				"symbol": "C5",
+				"interval": [716.9857596,717.1250794],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n21"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [717.2179592,717.3572789],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n22"
+			},
+			{
+				"symbol": "C5",
+				"interval": [717.4501587,717.6359184],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n23"
+			},
+			{
+				"symbol": "D5",
+				"interval": [717.6823583,717.821678],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n24"
+			},
+			{
+				"symbol": "C5",
+				"interval": [717.9145578,718.2396372],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n25"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [718.332517,718.843356],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n26"
+			},
+			{
+				"symbol": "D5",
+				"interval": [718.8897959,719.6328345],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n27"
+			},
+			{
+				"symbol": "C5",
+				"interval": [719.7721542,720.7009524],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n28"
+			},
+			{
+				"symbol": "D5",
+				"interval": [720.7473923,721.0260317],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n29"
+			},
+			{
+				"symbol": "C5",
+				"interval": [721.0724717,721.3046712],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n30"
+			},
+			{
+				"symbol": "G5",
+				"interval": [721.3511111,721.4904308],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n31"
+			},
+			{
+				"symbol": "F5",
+				"interval": [721.5368707,721.6761905],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n32"
+			},
+			{
+				"symbol": "E5",
+				"interval": [721.7226304,721.7226304],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n33"
+			},
+			{
+				"symbol": "D5",
+				"interval": [721.8155102,721.9548299],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n34"
+			},
+			{
+				"symbol": "C5",
+				"interval": [722.0477098,722.930068],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n35"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [723.0229478,723.440907],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n36"
+			},
+			{
+				"symbol": "C5",
+				"interval": [723.5337868,724.0446259],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n37"
+			},
+			{
+				"symbol": "A4",
+				"interval": [724.0910658,724.3232653],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n38"
+			},
+			{
+				"symbol": "E5",
+				"interval": [724.3697052,724.6019048],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n39"
+			},
+			{
+				"symbol": "D5",
+				"interval": [724.6947846,724.7412245],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n40"
+			},
+			{
+				"symbol": "D5",
+				"interval": [724.7876644,724.973424],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n41"
+			},
+			{
+				"symbol": "C5",
+				"interval": [725.0198639,725.2520635],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n42"
+			},
+			{
+				"symbol": "C5",
+				"interval": [725.2985034,725.484263],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n43"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [725.5307029,725.6235828],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n44"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [725.6700227,725.9022222],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n45"
+			},
+			{
+				"symbol": "A4",
+				"interval": [725.995102,726.1344218],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n46"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [726.2273016,726.4595011],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n47"
+			},
+			{
+				"symbol": "A4",
+				"interval": [726.552381,726.8310204],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n48"
+			},
+			{
+				"symbol": "A4",
+				"interval": [726.8774603,727.4347392],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n49"
+			},
+			{
+				"symbol": "A4",
+				"interval": [727.4811791,727.8062585],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n50"
+			},
+			{
+				"symbol": "D5",
+				"interval": [728.084898,728.7350567],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n1"
+			},
+			{
+				"symbol": "A5",
+				"interval": [728.7814966,729.617415],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n2"
+			},
+			{
+				"symbol": "G5",
+				"interval": [729.7102948,730.2675737],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n3"
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [730.3140136,730.6855329],
+				"pitchHeight": {
+					"Value": 57,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n4"
+			},
+			{
+				"symbol": "A5",
+				"interval": [730.7319728,730.7319728],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n5"
+			},
+			{
+				"symbol": "G5",
+				"interval": [730.8712925,731.3356916],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n6"
+			},
+			{
+				"symbol": "F5",
+				"interval": [731.4285714,731.8000907],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n7"
+			},
+			{
+				"symbol": "E5",
+				"interval": [731.8929705,732.4038095],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n8"
+			},
+			{
+				"symbol": "D5",
+				"interval": [732.4502494,732.6360091],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n9"
+			},
+			{
+				"symbol": "E5",
+				"interval": [732.8217687,733.0075283],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n10"
+			},
+			{
+				"symbol": "D5",
+				"interval": [733.0539683,733.1004082],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n11"
+			},
+			{
+				"symbol": "C5",
+				"interval": [733.1468481,733.3790476],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n12"
+			},
+			{
+				"symbol": "D5",
+				"interval": [733.4719274,733.5648073],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n13"
+			},
+			{
+				"symbol": "E5",
+				"interval": [733.6576871,733.7970068],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n14"
+			},
+			{
+				"symbol": "F5",
+				"interval": [733.8898866,734.0756463],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n15"
+			},
+			{
+				"symbol": "A5",
+				"interval": [734.1685261,734.3542857],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n16"
+			},
+			{
+				"symbol": "G5",
+				"interval": [734.4471655,734.5400454],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n17"
+			},
+			{
+				"symbol": "F5",
+				"interval": [734.6329252,735.0508844],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n18"
+			},
+			{
+				"symbol": "E5",
+				"interval": [735.0973243,735.0973243],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n19"
+			},
+			{
+				"symbol": "D5",
+				"interval": [735.1902041,735.3759637],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n20"
+			},
+			{
+				"symbol": "C5",
+				"interval": [735.4688435,735.6546032],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n21"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [735.747483,735.8868027],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n22"
+			},
+			{
+				"symbol": "C5",
+				"interval": [735.9796825,736.1654422],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n23"
+			},
+			{
+				"symbol": "D5",
+				"interval": [736.2118821,736.3512018],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n24"
+			},
+			{
+				"symbol": "C5",
+				"interval": [736.4440816,737.0013605],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n25"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [737.0942404,737.9301587],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n26"
+			},
+			{
+				"symbol": "D5",
+				"interval": [737.9765986,738.3481179],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n27"
+			},
+			{
+				"symbol": "C5",
+				"interval": [738.3945578,738.7196372],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n28"
+			},
+			{
+				"symbol": "D5",
+				"interval": [738.812517,739.5091156],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n29"
+			},
+			{
+				"symbol": "C5",
+				"interval": [739.6019955,739.7413152],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n30"
+			},
+			{
+				"symbol": "G5",
+				"interval": [739.7877551,739.8806349],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n31"
+			},
+			{
+				"symbol": "F5",
+				"interval": [739.9735147,740.0663946],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n32"
+			},
+			{
+				"symbol": "E5",
+				"interval": [740.1592744,740.3914739],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n33"
+			},
+			{
+				"symbol": "D5",
+				"interval": [740.4379138,740.5772336],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n34"
+			},
+			{
+				"symbol": "C5",
+				"interval": [740.6701134,742.7134694],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n35"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [742.7599093,742.7599093],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n36"
+			},
+			{
+				"symbol": "C5",
+				"interval": [742.8527891,743.0385488],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n37"
+			},
+			{
+				"symbol": "A4",
+				"interval": [743.0849887,743.2707483],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n38"
+			},
+			{
+				"symbol": "E5",
+				"interval": [743.3171882,743.3636281],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n39"
+			},
+			{
+				"symbol": "D5",
+				"interval": [743.410068,743.4565079],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n40"
+			},
+			{
+				"symbol": "D5",
+				"interval": [743.5029478,743.5958277],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n41"
+			},
+			{
+				"symbol": "C5",
+				"interval": [743.6422676,743.6887075],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n42"
+			},
+			{
+				"symbol": "C5",
+				"interval": [743.7351474,744.0137868],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n43"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [744.0602268,744.1995465],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n44"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [744.2459864,744.431746],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n45"
+			},
+			{
+				"symbol": "A4",
+				"interval": [744.5710658,744.7103855],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n46"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [744.8032653,744.9890249],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n47"
+			},
+			{
+				"symbol": "A4",
+				"interval": [745.0354649,745.2676644],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n48"
+			},
+			{
+				"symbol": "A4",
+				"interval": [745.3605442,746.5679819],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n49"
+			},
+			{
+				"symbol": "A4",
+				"interval": [746.6144218,746.6144218],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n50"
+			},
+			{
+				"symbol": "A4",
+				"interval": [747.49678,747.8682993],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n1"
+			},
+			{
+				"symbol": "B4",
+				"interval": [747.9147392,748.007619],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n2"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [748.1004989,748.3326984],
+				"pitchHeight": {
+					"Value": 17,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n3"
+			},
+			{
+				"symbol": "D5",
+				"interval": [748.4255782,748.6577778],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n4"
+			},
+			{
+				"symbol": "E5",
+				"interval": [748.7506576,749.0292971],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n5"
+			},
+			{
+				"symbol": "F5",
+				"interval": [749.1221769,749.4472562],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n6"
+			},
+			{
+				"symbol": "E5",
+				"interval": [749.5401361,749.6794558],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n7"
+			},
+			{
+				"symbol": "D5",
+				"interval": [749.8187755,749.9580952],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n8"
+			},
+			{
+				"symbol": "E5",
+				"interval": [750.097415,750.6546939],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n9"
+			},
+			{
+				"symbol": "D5",
+				"interval": [750.7011338,750.7011338],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n10"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [750.7475737,750.9333333],
+				"pitchHeight": {
+					"Value": 17,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n11"
+			},
+			{
+				"symbol": "D5",
+				"interval": [751.0262132,751.3512925],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n12"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [751.4441723,752.0014512],
+				"pitchHeight": {
+					"Value": 17,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n13"
+			},
+			{
+				"symbol": "D5",
+				"interval": [752.0478912,753.2553288],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n14"
+			},
+			{
+				"symbol": "E5",
+				"interval": [753.3482086,753.5804082],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n15"
+			},
+			{
+				"symbol": "F5",
+				"interval": [753.673288,753.8590476],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n16"
+			},
+			{
+				"symbol": "E5",
+				"interval": [753.9519274,754.184127],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n17"
+			},
+			{
+				"symbol": "D5",
+				"interval": [754.2305669,754.4163265],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n18"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [754.5092063,754.694966],
+				"pitchHeight": {
+					"Value": 17,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n19"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [754.7414059,754.8807256],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n20"
+			},
+			{
+				"symbol": "C5",
+				"interval": [754.9271655,755.3451247],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n21"
+			},
+			{
+				"symbol": "D5",
+				"interval": [755.4380045,755.8559637],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n22"
+			},
+			{
+				"symbol": "C5",
+				"interval": [755.9024036,756.1346032],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n23"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [756.1810431,756.4132426],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n24"
+			},
+			{
+				"symbol": "C5",
+				"interval": [756.4596825,756.9705215],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n25"
+			},
+			{
+				"symbol": "D5",
+				"interval": [757.0634014,757.5742404],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n26"
+			},
+			{
+				"symbol": "C5",
+				"interval": [757.6671202,758.1779592],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n27"
+			},
+			{
+				"symbol": "E5",
+				"interval": [758.270839,758.270839],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n28"
+			},
+			{
+				"symbol": "D5",
+				"interval": [758.3172789,758.4565986],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n29"
+			},
+			{
+				"symbol": "C5",
+				"interval": [758.5494785,758.8281179],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n30"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [758.8745578,760.3606349],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n31"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [760.4070748,761.8002721],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n32"
+			},
+			{
+				"symbol": "A4",
+				"interval": [762.5433107,762.8219501],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n33"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [762.86839,763.1005896],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n34"
+			},
+			{
+				"symbol": "C5",
+				"interval": [763.1934694,763.7043084],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n35"
+			},
+			{
+				"symbol": "C5",
+				"interval": [763.7507483,764.1687075],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n36"
+			},
+			{
+				"symbol": "D5",
+				"interval": [764.2615873,764.4937868],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n37"
+			},
+			{
+				"symbol": "C5",
+				"interval": [764.5402268,764.6795465],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n38"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [764.7259864,764.911746],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n39"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [765.0046259,765.3761451],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n40"
+			},
+			{
+				"symbol": "C5",
+				"interval": [765.422585,765.6547846],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n41"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [765.7012245,765.933424],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n42"
+			},
+			{
+				"symbol": "A4",
+				"interval": [765.9798639,766.1191837],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n43"
+			},
+			{
+				"symbol": "A4",
+				"interval": [766.2120635,767.0479819],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n44"
+			},
+			{
+				"symbol": "E5",
+				"interval": [767.1408617,767.2801814],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n45"
+			},
+			{
+				"symbol": "E5",
+				"interval": [767.3266213,767.6981406],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n46"
+			},
+			{
+				"symbol": "D5",
+				"interval": [767.7445805,768.0696599],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n47"
+			},
+			{
+				"symbol": "C5",
+				"interval": [768.1160998,768.3482993],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n48"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [768.3947392,768.5804989],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n49"
+			},
+			{
+				"symbol": "A4",
+				"interval": [768.6269388,768.8126984],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n50"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [768.8591383,769.1377778],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n51"
+			},
+			{
+				"symbol": "A4",
+				"interval": [769.2306576,769.3235374],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n52"
+			},
+			{
+				"symbol": "G4",
+				"interval": [769.3699773,769.6950567],
+				"pitchHeight": {
+					"Value": -9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n53"
+			},
+			{
+				"symbol": "F4#4",
+				"interval": [769.7414966,770.2523356],
+				"pitchHeight": {
+					"Value": -14,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n54"
+			},
+			{
+				"symbol": "G4",
+				"interval": [770.3452154,770.8096145],
+				"pitchHeight": {
+					"Value": -9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n55"
+			},
+			{
+				"symbol": "G4",
+				"interval": [770.9024943,771.1811338],
+				"pitchHeight": {
+					"Value": -9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n56"
+			},
+			{
+				"symbol": "A4",
+				"interval": [771.2275737,771.5526531],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n57"
+			},
+			{
+				"symbol": "G4",
+				"interval": [771.599093,771.8312925],
+				"pitchHeight": {
+					"Value": -9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n58"
+			},
+			{
+				"symbol": "F4#4",
+				"interval": [771.9241723,772.2492517],
+				"pitchHeight": {
+					"Value": -14,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n59"
+			},
+			{
+				"symbol": "F4#4",
+				"interval": [772.3421315,772.9922902],
+				"pitchHeight": {
+					"Value": -14,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n60"
+			},
+			{
+				"symbol": "E4",
+				"interval": [773.0851701,773.3638095],
+				"pitchHeight": {
+					"Value": -22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n61"
+			},
+			{
+				"symbol": "D4",
+				"interval": [773.4566893,773.9210884],
+				"pitchHeight": {
+					"Value": -31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n62"
+			},
+			{
+				"symbol": "E4",
+				"interval": [773.9675283,774.0604082],
+				"pitchHeight": {
+					"Value": -22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n63"
+			},
+			{
+				"symbol": "D4",
+				"interval": [774.1068481,774.3390476],
+				"pitchHeight": {
+					"Value": -31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n64"
+			},
+			{
+				"symbol": "E4",
+				"interval": [774.3854875,774.6176871],
+				"pitchHeight": {
+					"Value": -22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n65"
+			},
+			{
+				"symbol": "E4",
+				"interval": [774.664127,775.4536054],
+				"pitchHeight": {
+					"Value": -22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n66"
+			},
+			{
+				"symbol": "E4",
+				"interval": [775.5000454,775.8251247],
+				"pitchHeight": {
+					"Value": -22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n67"
+			},
+			{
+				"symbol": "D4",
+				"interval": [777.1718821,778.7043991],
+				"pitchHeight": {
+					"Value": "_NaN_",
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n68"
+			},
+			{
+				"symbol": "D4",
+				"interval": [778.7972789,779.0294785],
+				"pitchHeight": {
+					"Value": -31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n69"
+			},
+			{
+				"symbol": "E4",
+				"interval": [779.0759184,779.4474376],
+				"pitchHeight": {
+					"Value": -31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n70"
+			},
+			{
+				"symbol": "F4#4",
+				"interval": [779.5403175,779.6796372],
+				"pitchHeight": {
+					"Value": -22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n71"
+			},
+			{
+				"symbol": "G4",
+				"interval": [779.772517,780.1440363],
+				"pitchHeight": {
+					"Value": -14,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n72"
+			},
+			{
+				"symbol": "F4#4",
+				"interval": [780.2369161,780.5155556],
+				"pitchHeight": {
+					"Value": -9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n73"
+			},
+			{
+				"symbol": "E4",
+				"interval": [780.5619955,780.794195],
+				"pitchHeight": {
+					"Value": -14,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n74"
+			},
+			{
+				"symbol": "D4",
+				"interval": [780.8870748,781.9087528],
+				"pitchHeight": {
+					"Value": -22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n75"
+			},
+			{
+				"symbol": "G4",
+				"interval": [782.0016327,782.4660317],
+				"pitchHeight": {
+					"Value": -31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n76"
+			},
+			{
+				"symbol": "F4#4",
+				"interval": [782.5124717,782.6517914],
+				"pitchHeight": {
+					"Value": -9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n77"
+			},
+			{
+				"symbol": "E4",
+				"interval": [782.6982313,783.0697506],
+				"pitchHeight": {
+					"Value": -14,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n78"
+			},
+			{
+				"symbol": "F4#4",
+				"interval": [783.1626304,783.7663492],
+				"pitchHeight": {
+					"Value": -22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n79"
+			},
+			{
+				"symbol": "G4",
+				"interval": [783.859229,784.2307483],
+				"pitchHeight": {
+					"Value": -14,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n80"
+			},
+			{
+				"symbol": "A4",
+				"interval": [784.2771882,786.3205442],
+				"pitchHeight": {
+					"Value": -9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n81"
+			},
+			{
+				"symbol": "A4",
+				"interval": [786.3669841,787.3422222],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n82"
+			},
+			{
+				"symbol": "A4",
+				"interval": [787.435102,787.6208617],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n83"
+			},
+			{
+				"symbol": "B4",
+				"interval": [787.7601814,787.8995011],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n84"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [787.992381,788.2710204],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n85"
+			},
+			{
+				"symbol": "D5",
+				"interval": [788.3639002,788.5496599],
+				"pitchHeight": {
+					"Value": 17,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n86"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [788.6425397,788.8747392],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n87"
+			},
+			{
+				"symbol": "B4",
+				"interval": [788.9211791,789.1069388],
+				"pitchHeight": {
+					"Value": 17,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n88"
+			},
+			{
+				"symbol": "A4",
+				"interval": [789.1998186,789.9428571],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n89"
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [790.035737,790.7323356],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n90"
+			},
+			{
+				"symbol": "D5",
+				"interval": [790.9180952,791.2896145],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n91"
+			},
+			{
+				"symbol": "E5",
+				"interval": [791.3360544,791.8933333],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n92"
+			},
+			{
+				"symbol": "C5#4",
+				"interval": [791.9397732,792.1255329],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n93"
+			},
+			{
+				"symbol": "D5",
+				"interval": [792.2184127,793.9366893],
+				"pitchHeight": {
+					"Value": 17,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n94"
+			},
+			{
+				"symbol": "D5",
+				"interval": [793.9831293,794.1688889],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n95"
+			},
+			{
+				"symbol": "E5",
+				"interval": [794.2153288,794.8654875],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n96"
+			},
+			{
+				"symbol": "F5",
+				"interval": [794.9583673,795.144127],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n97"
+			},
+			{
+				"symbol": "F5",
+				"interval": [795.1905669,795.8407256],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n98"
+			},
+			{
+				"symbol": "E5",
+				"interval": [795.9336054,796.165805],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n99"
+			},
+			{
+				"symbol": "F5",
+				"interval": [796.2122449,796.9088435],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n100"
+			},
+			{
+				"symbol": "E5",
+				"interval": [796.9552834,797.2339229],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n101"
+			},
+			{
+				"symbol": "A5",
+				"interval": [797.2803628,797.6054422],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n102"
+			},
+			{
+				"symbol": "G5",
+				"interval": [797.6518821,797.7912018],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n103"
+			},
+			{
+				"symbol": "F5",
+				"interval": [797.8376417,798.1162812],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n104"
+			},
+			{
+				"symbol": "E5",
+				"interval": [798.209161,798.9057596],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n105"
+			},
+			{
+				"symbol": "D5",
+				"interval": [798.9521995,799.1379592],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n106"
+			},
+			{
+				"symbol": "D5",
+				"interval": [799.1843991,799.5094785],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n107"
+			},
+			{
+				"symbol": "F5",
+				"interval": [799.5559184,799.6487982],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n108"
+			},
+			{
+				"symbol": "E5",
+				"interval": [799.741678,800.1131973],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n109"
+			},
+			{
+				"symbol": "D5",
+				"interval": [800.1596372,800.2989569],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n110"
+			},
+			{
+				"symbol": "C5",
+				"interval": [800.3918367,800.5775964],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n111"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [800.6704762,800.8097959],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n112"
+			},
+			{
+				"symbol": "C5",
+				"interval": [800.8562358,801.5992744],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n113"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [801.6921542,802.5745125],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n114"
+			},
+			{
+				"symbol": "C5",
+				"interval": [802.6209524,802.806712],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n115"
+			},
+			{
+				"symbol": "D5",
+				"interval": [802.8995918,803.4568707],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n116"
+			},
+			{
+				"symbol": "C5",
+				"interval": [803.5033107,803.7355102],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n117"
+			},
+			{
+				"symbol": "E5",
+				"interval": [803.7819501,804.339229],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n118"
+			},
+			{
+				"symbol": "D5",
+				"interval": [804.4321088,804.8036281],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n119"
+			},
+			{
+				"symbol": "C5",
+				"interval": [804.850068,805.2680272],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n120"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [805.360907,805.7324263],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n121"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [805.7788662,806.1503855],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n122"
+			},
+			{
+				"symbol": "A4",
+				"interval": [806.1968254,806.2897052],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n123"
+			},
+			{
+				"symbol": "A4",
+				"interval": [806.3361451,806.893424],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n124"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [806.9863039,807.2649433],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n125"
+			},
+			{
+				"symbol": "A4",
+				"interval": [807.3578231,807.4507029],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n126"
+			},
+			{
+				"symbol": "A4",
+				"interval": [807.4971429,808.8903401],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n127"
+			},
+			{
+				"symbol": "A4",
+				"interval": [808.98322,809.447619],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n128"
+			},
+			{
+				"symbol": "E5",
+				"interval": [809.494059,810.004898],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n129"
+			},
+			{
+				"symbol": "F5",
+				"interval": [810.0977778,810.3299773],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n130"
+			},
+			{
+				"symbol": "F5",
+				"interval": [810.3764172,810.9801361],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n131"
+			},
+			{
+				"symbol": "E5",
+				"interval": [811.0730159,811.2587755],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n132"
+			},
+			{
+				"symbol": "F5",
+				"interval": [811.3516553,811.8624943],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n133"
+			},
+			{
+				"symbol": "E5",
+				"interval": [811.9553741,812.1875737],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n134"
+			},
+			{
+				"symbol": "A5",
+				"interval": [812.2804535,812.559093],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n135"
+			},
+			{
+				"symbol": "G5",
+				"interval": [812.6055329,812.8377324],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n136"
+			},
+			{
+				"symbol": "F5",
+				"interval": [812.8841723,813.2092517],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n137"
+			},
+			{
+				"symbol": "E5",
+				"interval": [813.3021315,813.8129705],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n138"
+			},
+			{
+				"symbol": "D5",
+				"interval": [813.9058503,814.1380499],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n139"
+			},
+			{
+				"symbol": "D5",
+				"interval": [814.1844898,814.5560091],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n140"
+			},
+			{
+				"symbol": "F5",
+				"interval": [814.602449,814.7417687],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n141"
+			},
+			{
+				"symbol": "E5",
+				"interval": [814.7882086,814.9739683],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n142"
+			},
+			{
+				"symbol": "D5",
+				"interval": [815.0204082,815.2061678],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n143"
+			},
+			{
+				"symbol": "C5",
+				"interval": [815.2526077,815.4848073],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n144"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [815.5312472,815.8098866],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n145"
+			},
+			{
+				"symbol": "C5",
+				"interval": [815.9027664,816.8780045],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n146"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [816.9244444,817.4352834],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n147"
+			},
+			{
+				"symbol": "C5",
+				"interval": [817.4817234,817.7139229],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n148"
+			},
+			{
+				"symbol": "D5",
+				"interval": [817.8068027,818.4569615],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n149"
+			},
+			{
+				"symbol": "C5",
+				"interval": [818.5034014,818.7356009],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n150"
+			},
+			{
+				"symbol": "E5",
+				"interval": [818.8284807,819.4786395],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n151"
+			},
+			{
+				"symbol": "D5",
+				"interval": [819.5250794,819.8501587],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n152"
+			},
+			{
+				"symbol": "C5",
+				"interval": [819.9430385,820.4538776],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n153"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [820.5467574,820.7789569],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n154"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [820.8718367,821.2897959],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n155"
+			},
+			{
+				"symbol": "A4",
+				"interval": [821.3362358,821.5684354],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n156"
+			},
+			{
+				"symbol": "A4",
+				"interval": [821.6148753,822.0792744],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n157"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [822.1721542,822.6365533],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n158"
+			},
+			{
+				"symbol": "A4",
+				"interval": [822.7294331,822.6365533],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n159"
+			},
+			{
+				"symbol": "A4",
+				"interval": [822.7294331,823.8904308],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n160"
+			},
+			{
+				"symbol": "A4",
+				"interval": [823.9833107,823.9833107],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "4. HANE-n161"
+			},
+			{
+				"symbol": "D5",
+				"interval": [825.840907,826.3053061],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n1"
+			},
+			{
+				"symbol": "A5",
+				"interval": [826.6768254,827.373424],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n2"
+			},
+			{
+				"symbol": "G5",
+				"interval": [827.4198639,828.2093424],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n3"
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [828.2557823,828.3022222],
+				"pitchHeight": {
+					"Value": 57,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n4"
+			},
+			{
+				"symbol": "A5",
+				"interval": [828.3486621,828.8595011],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n5"
+			},
+			{
+				"symbol": "G5",
+				"interval": [828.952381,829.3703401],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n6"
+			},
+			{
+				"symbol": "F5",
+				"interval": [829.41678,829.927619],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n7"
+			},
+			{
+				"symbol": "E5",
+				"interval": [830.0204989,830.3920181],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n8"
+			},
+			{
+				"symbol": "D5",
+				"interval": [830.484898,830.9028571],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n9"
+			},
+			{
+				"symbol": "E5",
+				"interval": [830.995737,831.1814966],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n10"
+			},
+			{
+				"symbol": "D5",
+				"interval": [831.2743764,831.3672562],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n11"
+			},
+			{
+				"symbol": "C5",
+				"interval": [831.4601361,831.6458957],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n12"
+			},
+			{
+				"symbol": "D5",
+				"interval": [831.6923356,831.8316553],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n13"
+			},
+			{
+				"symbol": "E5",
+				"interval": [831.9709751,832.1102948],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n14"
+			},
+			{
+				"symbol": "F5",
+				"interval": [832.2031746,832.4353741],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n15"
+			},
+			{
+				"symbol": "A5",
+				"interval": [832.528254,832.9462132],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n16"
+			},
+			{
+				"symbol": "G5",
+				"interval": [832.9926531,833.039093],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n17"
+			},
+			{
+				"symbol": "F5",
+				"interval": [833.0855329,833.2248526],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n18"
+			},
+			{
+				"symbol": "E5",
+				"interval": [833.2712925,833.3641723],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n19"
+			},
+			{
+				"symbol": "D5",
+				"interval": [833.4106122,834.0143311],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n20"
+			},
+			{
+				"symbol": "C5",
+				"interval": [834.060771,834.1536508],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n21"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [834.2465306,834.3858503],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n22"
+			},
+			{
+				"symbol": "C5",
+				"interval": [834.4787302,834.6180499],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n23"
+			},
+			{
+				"symbol": "D5",
+				"interval": [834.6644898,834.9431293],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n24"
+			},
+			{
+				"symbol": "C5",
+				"interval": [835.0360091,835.3610884],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n25"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [835.4539683,835.8719274],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n26"
+			},
+			{
+				"symbol": "D5",
+				"interval": [836.0576871,836.9400454],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n27"
+			},
+			{
+				"symbol": "C5",
+				"interval": [837.0329252,837.4973243],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n28"
+			},
+			{
+				"symbol": "D5",
+				"interval": [837.5902041,838.4261224],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n29"
+			},
+			{
+				"symbol": "C5",
+				"interval": [838.5190023,838.5190023],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n30"
+			},
+			{
+				"symbol": "G5",
+				"interval": [838.6118821,838.7976417],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n31"
+			},
+			{
+				"symbol": "F5",
+				"interval": [838.9834014,839.0298413],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n32"
+			},
+			{
+				"symbol": "E5",
+				"interval": [839.0762812,839.2156009],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n33"
+			},
+			{
+				"symbol": "D5",
+				"interval": [839.3084807,839.4942404],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n34"
+			},
+			{
+				"symbol": "C5",
+				"interval": [839.5871202,840.4694785],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n35"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [840.5623583,841.0267574],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n36"
+			},
+			{
+				"symbol": "C5",
+				"interval": [841.1196372,841.8626757],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n37"
+			},
+			{
+				"symbol": "A4",
+				"interval": [841.9091156,842.0948753],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n38"
+			},
+			{
+				"symbol": "E5",
+				"interval": [842.1413152,842.3270748],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n39"
+			},
+			{
+				"symbol": "D5",
+				"interval": [842.4199546,842.5592744],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n40"
+			},
+			{
+				"symbol": "D5",
+				"interval": [842.6057143,842.745034],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n41"
+			},
+			{
+				"symbol": "C5",
+				"interval": [842.8843537,842.9307937],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n42"
+			},
+			{
+				"symbol": "C5",
+				"interval": [842.9772336,843.3487528],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n43"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [843.3951927,843.6738322],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n44"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [843.7202721,843.8131519],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n45"
+			},
+			{
+				"symbol": "A4",
+				"interval": [843.8595918,843.9989116],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n46"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [844.0917914,844.3239909],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n47"
+			},
+			{
+				"symbol": "A4",
+				"interval": [844.3704308,844.4633107],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n48"
+			},
+			{
+				"symbol": "A4",
+				"interval": [844.5097506,844.9277098],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n49"
+			},
+			{
+				"symbol": "A4",
+				"interval": [844.9741497,845.3921088],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n50"
+			},
+			{
+				"symbol": "D5",
+				"interval": [846.0887075,846.5995465],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n1"
+			},
+			{
+				"symbol": "A5",
+				"interval": [846.6924263,847.2961451],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n2"
+			},
+			{
+				"symbol": "G5",
+				"interval": [847.3890249,847.9927438],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n3"
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [848.0856236,848.0856236],
+				"pitchHeight": {
+					"Value": 57,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n4"
+			},
+			{
+				"symbol": "A5",
+				"interval": [848.1320635,848.5035828],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n5"
+			},
+			{
+				"symbol": "G5",
+				"interval": [848.5500227,848.921542],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n6"
+			},
+			{
+				"symbol": "F5",
+				"interval": [849.0144218,849.2930612],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n7"
+			},
+			{
+				"symbol": "E5",
+				"interval": [849.3395011,849.6645805],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n8"
+			},
+			{
+				"symbol": "D5",
+				"interval": [849.7574603,850.0825397],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n9"
+			},
+			{
+				"symbol": "E5",
+				"interval": [850.1754195,850.3147392],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n10"
+			},
+			{
+				"symbol": "D5",
+				"interval": [850.3611791,850.407619],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n11"
+			},
+			{
+				"symbol": "C5",
+				"interval": [850.5469388,850.6398186],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n12"
+			},
+			{
+				"symbol": "D5",
+				"interval": [850.7326984,850.8255782],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n13"
+			},
+			{
+				"symbol": "E5",
+				"interval": [850.918458,851.0113379],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n14"
+			},
+			{
+				"symbol": "F5",
+				"interval": [851.1042177,851.3364172],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n15"
+			},
+			{
+				"symbol": "A5",
+				"interval": [851.3828571,851.5686168],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n16"
+			},
+			{
+				"symbol": "G5",
+				"interval": [851.6150567,851.6614966],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n17"
+			},
+			{
+				"symbol": "F5",
+				"interval": [851.7079365,851.8008163],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n18"
+			},
+			{
+				"symbol": "E5",
+				"interval": [851.8936961,851.986576],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n19"
+			},
+			{
+				"symbol": "D5",
+				"interval": [852.0330159,852.2652154],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n20"
+			},
+			{
+				"symbol": "C5",
+				"interval": [852.3580952,852.497415],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n21"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [852.5902948,852.7296145],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n22"
+			},
+			{
+				"symbol": "C5",
+				"interval": [852.8224943,852.9153741],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n23"
+			},
+			{
+				"symbol": "D5",
+				"interval": [852.9618141,853.1011338],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n24"
+			},
+			{
+				"symbol": "C5",
+				"interval": [853.2868934,853.4726531],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n25"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [853.519093,853.9370522],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n26"
+			},
+			{
+				"symbol": "D5",
+				"interval": [853.9834921,854.7729705],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n27"
+			},
+			{
+				"symbol": "C5",
+				"interval": [854.8658503,855.1444898],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n28"
+			},
+			{
+				"symbol": "D5",
+				"interval": [855.2373696,855.7946485],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n29"
+			},
+			{
+				"symbol": "C5",
+				"interval": [855.8875283,856.1197279],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n30"
+			},
+			{
+				"symbol": "G5",
+				"interval": [856.2126077,856.2126077],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n31"
+			},
+			{
+				"symbol": "F5",
+				"interval": [856.2590476,856.3054875],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n32"
+			},
+			{
+				"symbol": "E5",
+				"interval": [856.3519274,856.3983673],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n33"
+			},
+			{
+				"symbol": "D5",
+				"interval": [856.4448073,857.4664853],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n34"
+			},
+			{
+				"symbol": "C5",
+				"interval": [857.5129252,857.5129252],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n35"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [857.5593651,857.7451247],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n36"
+			},
+			{
+				"symbol": "C5",
+				"interval": [857.8380045,858.6739229],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n37"
+			},
+			{
+				"symbol": "A4",
+				"interval": [858.7203628,858.8596825],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n38"
+			},
+			{
+				"symbol": "E5",
+				"interval": [858.9061224,858.9990023],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n39"
+			},
+			{
+				"symbol": "D5",
+				"interval": [859.0454422,859.138322],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n40"
+			},
+			{
+				"symbol": "D5",
+				"interval": [859.1847619,859.2776417],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n41"
+			},
+			{
+				"symbol": "C5",
+				"interval": [859.3705215,859.5562812],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n42"
+			},
+			{
+				"symbol": "C5",
+				"interval": [859.6027211,859.8813605],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n43"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [859.9278005,860.2064399],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n44"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [860.2528798,860.6243991],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n45"
+			},
+			{
+				"symbol": "A4",
+				"interval": [860.670839,860.670839],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n46"
+			},
+			{
+				"symbol": "B4b1",
+				"interval": [860.7637188,860.9030385],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n47"
+			},
+			{
+				"symbol": "A4",
+				"interval": [860.9494785,860.9959184],
+				"pitchHeight": {
+					"Value": 8,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n48"
+			},
+			{
+				"symbol": "A4",
+				"interval": [861.0423583,861.692517],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n49"
+			},
+			{
+				"symbol": "A4",
+				"interval": [861.7389569,862.3426757],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "TESLIM-n50"
+			}
+		]
+	]
+}
