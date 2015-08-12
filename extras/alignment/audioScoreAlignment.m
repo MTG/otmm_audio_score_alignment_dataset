@@ -57,7 +57,7 @@ clc
 close all
 
 %%
-addpath(genpath(fullfile('..','..','code','fragmentLinker')))
+addpath(genpath(fullfile('..','..','..','..','code','fragmentLinker')))
 
 %% open parpool if it doesn't exist
 if isempty(gcp('nocreate')) % open the parpool
@@ -68,7 +68,7 @@ end
 wrapperStart = tic;
 
 %% parameters
-dataFolder = '../../data/';
+dataFolder = fullfile('..','..','data');
 
 % these are problematic because the sarki repeats twice, it is not handled
 % yet
@@ -99,7 +99,6 @@ disp(' ');disp('------------ Sequential Linking Wrapper -----------')
 %% get the file locations
 fileLocations = fragmentLinker.FileOperation.getAudioScorePairs(...
     dataFolder, 'wav', 'txt', ignoreFolders);
-fileLocations = fileLocations(6);
 
 %% get training scores; related audio is handled inside
 trainingScoreFiles = {fileLocations.score};
