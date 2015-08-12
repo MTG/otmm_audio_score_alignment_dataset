@@ -2115,7 +2115,7 @@
 				"symbol": "D5",
 				"interval": [154.2733787,154.5520181],
 				"pitchHeight": {
-					"Value": 49,
+					"Value": 40,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2125,7 +2125,7 @@
 				"symbol": "C5#4",
 				"interval": [154.644898,155.0628571],
 				"pitchHeight": {
-					"Value": 40,
+					"Value": 35,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2135,7 +2135,7 @@
 				"symbol": "D5",
 				"interval": [155.1092971,156.7346939],
 				"pitchHeight": {
-					"Value": 35,
+					"Value": 40,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2185,7 +2185,7 @@
 				"symbol": "E5",
 				"interval": [159.5210884,160.0783673],
 				"pitchHeight": {
-					"Value": 40,
+					"Value": 49,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2195,7 +2195,7 @@
 				"symbol": "D5",
 				"interval": [160.1248073,160.4498866],
 				"pitchHeight": {
-					"Value": 49,
+					"Value": 40,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2205,7 +2205,7 @@
 				"symbol": "C5#4",
 				"interval": [160.4963265,160.8214059],
 				"pitchHeight": {
-					"Value": 40,
+					"Value": 35,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2225,7 +2225,7 @@
 				"symbol": "D5",
 				"interval": [161.7502041,162.4932426],
 				"pitchHeight": {
-					"Value": 35,
+					"Value": 40,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2235,7 +2235,7 @@
 				"symbol": "C5#4",
 				"interval": [162.5396825,162.8647619],
 				"pitchHeight": {
-					"Value": 40,
+					"Value": 35,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2245,7 +2245,7 @@
 				"symbol": "B4b4",
 				"interval": [162.9112018,163.1898413],
 				"pitchHeight": {
-					"Value": 35,
+					"Value": 23,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2265,7 +2265,7 @@
 				"symbol": "A4",
 				"interval": [163.6542404,163.7935601],
 				"pitchHeight": {
-					"Value": 23,
+					"Value": 18,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2275,7 +2275,7 @@
 				"symbol": "B4b4",
 				"interval": [163.84,164.1650794],
 				"pitchHeight": {
-					"Value": 18,
+					"Value": 23,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2285,7 +2285,7 @@
 				"symbol": "C5#4",
 				"interval": [164.2579592,164.3972789],
 				"pitchHeight": {
-					"Value": 23,
+					"Value": 35,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2295,7 +2295,7 @@
 				"symbol": "B4b4",
 				"interval": [164.4437188,164.6759184],
 				"pitchHeight": {
-					"Value": 35,
+					"Value": 23,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2305,7 +2305,7 @@
 				"symbol": "A4",
 				"interval": [164.7687982,165.5118367],
 				"pitchHeight": {
-					"Value": 23,
+					"Value": 18,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2325,7 +2325,7 @@
 				"symbol": "C5",
 				"interval": [167.3229932,167.8338322],
 				"pitchHeight": {
-					"Value": 18,
+					"Value": 31,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2335,7 +2335,7 @@
 				"symbol": "B4b1",
 				"interval": [167.8802721,168.8555102],
 				"pitchHeight": {
-					"Value": 31,
+					"Value": 26,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2345,7 +2345,7 @@
 				"symbol": "C5",
 				"interval": [168.9019501,169.5521088],
 				"pitchHeight": {
-					"Value": 26,
+					"Value": 31,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2375,7 +2375,7 @@
 				"symbol": "D5",
 				"interval": [171.502585,172.1527438],
 				"pitchHeight": {
-					"Value": 31,
+					"Value": 40,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2385,7 +2385,7 @@
 				"symbol": "C5",
 				"interval": [172.2456236,174.2889796],
 				"pitchHeight": {
-					"Value": 40,
+					"Value": 31,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2395,7 +2395,7 @@
 				"symbol": "B4b5",
 				"interval": [174.3354195,174.8462585],
 				"pitchHeight": {
-					"Value": 31,
+					"Value": 22,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2415,7 +2415,7 @@
 				"symbol": "A4",
 				"interval": [175.2177778,176.2858957],
 				"pitchHeight": {
-					"Value": 22,
+					"Value": 18,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2425,7 +2425,7 @@
 				"symbol": "G4",
 				"interval": [176.7038549,177.0289342],
 				"pitchHeight": {
-					"Value": 18,
+					"Value": 9,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2435,7 +2435,7 @@
 				"symbol": "F4",
 				"interval": [177.168254,178.3292517],
 				"pitchHeight": {
-					"Value": 9,
+					"Value": 0,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2455,7 +2455,7 @@
 				"symbol": "B4b5",
 				"interval": [178.4685714,179.4438095],
 				"pitchHeight": {
-					"Value": 0,
+					"Value": 22,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2475,7 +2475,7 @@
 				"symbol": "C5",
 				"interval": [180.8834467,181.1620862],
 				"pitchHeight": {
-					"Value": 22,
+					"Value": 31,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2485,7 +2485,7 @@
 				"symbol": "B4b5",
 				"interval": [181.3014059,181.6264853],
 				"pitchHeight": {
-					"Value": 31,
+					"Value": 22,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2495,7 +2495,7 @@
 				"symbol": "A4",
 				"interval": [181.6729252,183.5769615],
 				"pitchHeight": {
-					"Value": 22,
+					"Value": 18,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2505,7 +2505,7 @@
 				"symbol": "G4",
 				"interval": [183.6698413,183.6698413],
 				"pitchHeight": {
-					"Value": 18,
+					"Value": 9,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2515,7 +2515,7 @@
 				"symbol": "A4",
 				"interval": [183.7627211,184.2735601],
 				"pitchHeight": {
-					"Value": 9,
+					"Value": 18,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2525,7 +2525,7 @@
 				"symbol": "G4",
 				"interval": [184.3664399,185.2487982],
 				"pitchHeight": {
-					"Value": 18,
+					"Value": 9,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2535,7 +2535,7 @@
 				"symbol": "F4",
 				"interval": [185.341678,185.7596372],
 				"pitchHeight": {
-					"Value": 9,
+					"Value": 0,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2545,7 +2545,7 @@
 				"symbol": "E4",
 				"interval": [185.8060771,186.0847166],
 				"pitchHeight": {
-					"Value": 0,
+					"Value": -4,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2555,7 +2555,7 @@
 				"symbol": "F4",
 				"interval": [186.1311565,186.7348753],
 				"pitchHeight": {
-					"Value": -4,
+					"Value": 0,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2565,7 +2565,7 @@
 				"symbol": "E4",
 				"interval": [186.7813152,187.2921542],
 				"pitchHeight": {
-					"Value": 0,
+					"Value": -4,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2585,7 +2585,7 @@
 				"symbol": "G4",
 				"interval": [188.5460317,188.5460317],
 				"pitchHeight": {
-					"Value": -4,
+					"Value": 9,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2595,7 +2595,7 @@
 				"symbol": "E4",
 				"interval": [188.5924717,189.0568707],
 				"pitchHeight": {
-					"Value": 9,
+					"Value": -4,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2605,7 +2605,7 @@
 				"symbol": "F4",
 				"interval": [189.1033107,191.6575057],
 				"pitchHeight": {
-					"Value": -4,
+					"Value": 0,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2615,7 +2615,7 @@
 				"symbol": "B5b5",
 				"interval": [191.7503855,191.7503855],
 				"pitchHeight": {
-					"Value": 0,
+					"Value": 75,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2625,7 +2625,7 @@
 				"symbol": "A5",
 				"interval": [191.8432653,192.7720635],
 				"pitchHeight": {
-					"Value": 75,
+					"Value": 71,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
@@ -2635,7 +2635,7 @@
 				"symbol": "B5b5",
 				"interval": [192.8185034,193.4686621],
 				"pitchHeight": {
-					"Value": 71,
+					"Value": 75,
 					"ReferenceSymbol": "F4",
 					"Unit": "hc"
 				},
