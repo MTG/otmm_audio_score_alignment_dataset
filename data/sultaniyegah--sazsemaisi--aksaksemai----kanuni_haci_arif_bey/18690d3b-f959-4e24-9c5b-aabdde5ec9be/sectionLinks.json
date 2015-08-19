@@ -1,0 +1,84 @@
+{
+	"annotations": [
+		{
+			"name": "1. HANE",
+			"weight": 0.5306122449,
+			"relative_tempo": 0.9265402844,
+			"time": [
+				[168.181960],
+				[184.975604]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "TESLIM",
+			"weight": 0.4821428571,
+			"relative_tempo": 1.086111111,
+			"time": [
+				[184.975604],
+				[202.886369]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "2. HANE",
+			"weight": 0.4744897959,
+			"relative_tempo": 1.095238095,
+			"time": [
+				[202.886369],
+				[219.741393]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "TESLIM",
+			"weight": 0.5178571429,
+			"relative_tempo": 1.143274854,
+			"time": [
+				[219.741393],
+				[236.528899]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "3. HANE",
+			"weight": 0.4107142857,
+			"relative_tempo": 1.071232877,
+			"time": [
+				[236.528899],
+				[253.422861]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "TESLIM",
+			"weight": 0.4821428571,
+			"relative_tempo": 1.005141388,
+			"time": [
+				[253.422861],
+				[270.036392]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "4. HANE",
+			"weight": 0.1914357683,
+			"relative_tempo": 1.399293286,
+			"time": [
+				[270.036392],
+				[314.782614]
+			],
+			"time_unit": "sec"
+		},
+		{
+			"name": "TESLIM",
+			"weight": 0.3418367347,
+			"relative_tempo": 1.174174174,
+			"time": [
+				[314.782614],
+				[331.247874]
+			],
+			"time_unit": "sec"
+		}
+	]
+}

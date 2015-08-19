@@ -60,9 +60,9 @@ close all
 addpath(genpath(fullfile('..','..','..','..','code','fragmentLinker')))
 
 %% open parpool if it doesn't exist
-if isempty(gcp('nocreate')) % open the parpool
-    parpool local
-end
+% if isempty(gcp('nocreate')) % open the parpool
+%     parpool local
+% end
 
 %% start experiment time
 wrapperStart = tic;
