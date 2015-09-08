@@ -1,0 +1,59 @@
+{
+	"makam": "nihavent",
+	"form": "sarki",
+	"usul": "curcuna",
+	"karar": "G4",
+	"composer": "kemani_sarkis_efendi",
+	"sections": [
+		{
+			"name": "ARANAGME",
+			"startNote": 1,
+			"endNote": 57
+		},
+		{
+			"name": "ARANAGME",
+			"startNote": 57,
+			"endNote": 113
+		},
+		{
+			"name": "ZEMIN",
+			"startNote": 113,
+			"endNote": 146
+		},
+		{
+			"name": "ZEMIN*",
+			"startNote": 146,
+			"endNote": 179
+		},
+		{
+			"name": "NAKARAT",
+			"startNote": 179,
+			"endNote": 221
+		},
+		{
+			"name": "NAKARAT*",
+			"startNote": 221,
+			"endNote": 265
+		},
+		{
+			"name": "MEYAN",
+			"startNote": 265,
+			"endNote": 310
+		},
+		{
+			"name": "MEYAN*",
+			"startNote": 310,
+			"endNote": 350
+		},
+		{
+			"name": "NAKARAT",
+			"startNote": 350,
+			"endNote": 392
+		},
+		{
+			"name": "NAKARAT*",
+			"startNote": 392,
+			"endNote": 427
+		}
+	]
+}
