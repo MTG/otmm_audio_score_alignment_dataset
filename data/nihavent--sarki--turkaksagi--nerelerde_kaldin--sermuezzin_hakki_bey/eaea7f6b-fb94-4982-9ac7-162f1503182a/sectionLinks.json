@@ -6,7 +6,7 @@
 			"time_unit": "sec"
 		},
 		{
-			"name": "ZEMIN",
+			"name": "ZEMIN*",
 			"time": [9.194112,17.717604],
 			"time_unit": "sec"
 		},
@@ -26,7 +26,7 @@
 			"time_unit": "sec"
 		},
 		{
-			"name": "ZEMIN",
+			"name": "ZEMIN*",
 			"time": [44.062191,52.854758],
 			"time_unit": "sec"
 		},

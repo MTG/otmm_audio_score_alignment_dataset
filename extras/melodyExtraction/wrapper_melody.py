@@ -16,7 +16,7 @@ audioFiles = getFileNamesInDir(audioDir, audio_ext=".wav")[0]
 
 matfiles = [os.path.dirname(f) + '/predominantMelody.mat' for f in audioFiles] # json file; loaded from the settings and pitch
 jsonfiles = [os.path.dirname(f) + '/predominantMelody.json' for f in audioFiles] # matlab file
-txtfiles = [os.path.dirname(f) + '/predominantMelody_new.txt' for f in audioFiles] # text file; for sonic visualizer
+txtfiles = [os.path.dirname(f) + '/predominantMelody.txt' for f in audioFiles] # text file; for sonic visualizer
 
 for ii, audio in enumerate(audioFiles):
 	print ' '

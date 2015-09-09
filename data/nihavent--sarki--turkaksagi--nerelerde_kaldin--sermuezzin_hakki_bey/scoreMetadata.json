@@ -1,0 +1,54 @@
+{
+	"makam": "nihavent",
+	"form": "sarki",
+	"usul": "turkaksagi",
+	"karar": "G4",
+	"composer": "sermuezzin_hakki_bey",
+	"sections": [
+		{
+			"name": "ARANAGME",
+			"startNote": 1,
+			"endNote": 91
+		},
+		{
+			"name": "ZEMIN",
+			"startNote": 92,
+			"endNote": 119
+		},
+		{
+			"name": "ZEMIN*",
+			"startNote": 120,
+			"endNote": 144
+		},
+		{
+			"name": "NAKARAT",
+			"startNote": 145,
+			"endNote": 175
+		},
+		{
+			"name": "NAKARAT2",
+			"startNote": 176,
+			"endNote": 202
+		},
+		{
+			"name": "MEYAN",
+			"startNote": 203,
+			"endNote": 223
+		},
+		{
+			"name": "MEYAN2",
+			"startNote": 224,
+			"endNote": 253
+		},
+		{
+			"name": "NAKARAT",
+			"startNote": 254,
+			"endNote": 284
+		},
+		{
+			"name": "NAKARAT2",
+			"startNote": 285,
+			"endNote": 311
+		}
+	]
+}
