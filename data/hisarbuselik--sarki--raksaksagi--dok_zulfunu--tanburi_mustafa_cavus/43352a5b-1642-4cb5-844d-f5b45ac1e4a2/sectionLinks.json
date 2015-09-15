@@ -1,0 +1,220 @@
+{
+    "annotations": [
+        {
+            "time": [
+                26.252589, 
+                44.258098
+            ], 
+            "name": "ARANAGME", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                44.258098, 
+                48.902735
+            ], 
+            "name": "KITA 1. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                48.902735, 
+                53.530617
+            ], 
+            "name": "KITA 2. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                53.530617, 
+                58.262383
+            ], 
+            "name": "KITA 3. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                58.262383, 
+                62.963989
+            ], 
+            "name": "NAKARAT 1. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                62.963989, 
+                67.719212
+            ], 
+            "name": "NAKARAT 2. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                67.719212, 
+                72.33369
+            ], 
+            "name": "NAKARAT 3. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                72.33369, 
+                76.961571
+            ], 
+            "name": "NAKARAT 4. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                76.961571, 
+                79.19341
+            ], 
+            "name": "NAKARAT 5. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                79.19341, 
+                95.868529
+            ], 
+            "name": "ARANAGME", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                95.868529, 
+                100.452846
+            ], 
+            "name": "KITA 1. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                100.452846, 
+                104.956737
+            ], 
+            "name": "KITA 2. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                104.956737, 
+                109.564512
+            ], 
+            "name": "KITA 3. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                109.564512, 
+                114.205798
+            ], 
+            "name": "NAKARAT 1. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                114.205798, 
+                118.832004
+            ], 
+            "name": "NAKARAT 2. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                118.832004, 
+                123.263846
+            ], 
+            "name": "NAKARAT 3. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                123.263846, 
+                127.724172
+            ], 
+            "name": "NAKARAT 4. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                127.724172, 
+                129.868882
+            ], 
+            "name": "NAKARAT 5. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                129.868882, 
+                146.175378
+            ], 
+            "name": "ARANAGME", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                146.175378, 
+                150.639056
+            ], 
+            "name": "KITA 1. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                150.639056, 
+                155.102733
+            ], 
+            "name": "KITA 2. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                155.102733, 
+                159.459175
+            ], 
+            "name": "KITA 3. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                159.459175, 
+                164.110514
+            ], 
+            "name": "NAKARAT 1. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                164.110514, 
+                168.547383
+            ], 
+            "name": "NAKARAT 2. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                168.547383, 
+                172.877016
+            ], 
+            "name": "NAKARAT 3. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                172.877016, 
+                177.226755
+            ], 
+            "name": "NAKARAT 4. DIZE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                177.226755, 
+                179.512212
+            ], 
+            "name": "NAKARAT 5. DIZE", 
+            "time_unit": "sec"
+        }
+    ]
+}

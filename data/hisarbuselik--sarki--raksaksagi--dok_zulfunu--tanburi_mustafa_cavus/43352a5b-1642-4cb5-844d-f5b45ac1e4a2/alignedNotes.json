@@ -1,0 +1,5055 @@
+{
+	"dtw": [
+		[
+			{
+				"symbol": "E5",
+				"interval": [28.69986395,28.83918367],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n1",
+				"IndexInSymbTr": 1
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [28.88562358,28.93206349],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n2",
+				"IndexInSymbTr": 2
+			},
+			{
+				"symbol": "G5",
+				"interval": [28.9785034,29.07138322],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n3",
+				"IndexInSymbTr": 3
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [29.11782313,29.21070295],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n4",
+				"IndexInSymbTr": 4
+			},
+			{
+				"symbol": "A5",
+				"interval": [29.25714286,29.30358277],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n5",
+				"IndexInSymbTr": 5
+			},
+			{
+				"symbol": "G5",
+				"interval": [29.35002268,29.76798186],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n6",
+				"IndexInSymbTr": 6
+			},
+			{
+				"symbol": "G5",
+				"interval": [29.81442177,30.00018141],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n7",
+				"IndexInSymbTr": 7
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [30.04662132,30.37170068],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n8",
+				"IndexInSymbTr": 8
+			},
+			{
+				"symbol": "G5",
+				"interval": [30.41814059,30.41814059],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n9",
+				"IndexInSymbTr": 9
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [30.4645805,30.60390023],
+				"pitchHeight": {
+					"Value": 57,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n10",
+				"IndexInSymbTr": 10
+			},
+			{
+				"symbol": "A5",
+				"interval": [30.65034014,30.65034014],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n11",
+				"IndexInSymbTr": 11
+			},
+			{
+				"symbol": "G5",
+				"interval": [30.69678005,30.74321995],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n12",
+				"IndexInSymbTr": 12
+			},
+			{
+				"symbol": "F5",
+				"interval": [30.78965986,31.02185941],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n13",
+				"IndexInSymbTr": 13
+			},
+			{
+				"symbol": "F5",
+				"interval": [31.06829932,31.25405896],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n14",
+				"IndexInSymbTr": 14
+			},
+			{
+				"symbol": "E5",
+				"interval": [31.30049887,31.39337868],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n15",
+				"IndexInSymbTr": 15
+			},
+			{
+				"symbol": "F5",
+				"interval": [31.43981859,31.53269841],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n16",
+				"IndexInSymbTr": 16
+			},
+			{
+				"symbol": "A5",
+				"interval": [31.62557823,31.9506576],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n17",
+				"IndexInSymbTr": 17
+			},
+			{
+				"symbol": "G5",
+				"interval": [32.04353741,32.41505669],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n18",
+				"IndexInSymbTr": 18
+			},
+			{
+				"symbol": "A5",
+				"interval": [32.50793651,32.64725624],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n19",
+				"IndexInSymbTr": 19
+			},
+			{
+				"symbol": "G5",
+				"interval": [32.69369615,32.78657596],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n20",
+				"IndexInSymbTr": 20
+			},
+			{
+				"symbol": "F5",
+				"interval": [32.83301587,32.92589569],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n21",
+				"IndexInSymbTr": 21
+			},
+			{
+				"symbol": "E5",
+				"interval": [32.9723356,33.01877551],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n22",
+				"IndexInSymbTr": 22
+			},
+			{
+				"symbol": "D5",
+				"interval": [33.06521542,33.34385488],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n23",
+				"IndexInSymbTr": 23
+			},
+			{
+				"symbol": "D5",
+				"interval": [33.43673469,33.76181406],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n24",
+				"IndexInSymbTr": 24
+			},
+			{
+				"symbol": "E5",
+				"interval": [33.80825397,33.9475737],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n25",
+				"IndexInSymbTr": 25
+			},
+			{
+				"symbol": "D5",
+				"interval": [34.04045351,34.22621315],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n26",
+				"IndexInSymbTr": 26
+			},
+			{
+				"symbol": "C5",
+				"interval": [34.31909297,34.64417234],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n27",
+				"IndexInSymbTr": 27
+			},
+			{
+				"symbol": "B4",
+				"interval": [34.73705215,34.9692517],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n28",
+				"IndexInSymbTr": 28
+			},
+			{
+				"symbol": "C5",
+				"interval": [35.01569161,35.29433107],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n29",
+				"IndexInSymbTr": 29
+			},
+			{
+				"symbol": "C5",
+				"interval": [35.34077098,35.66585034],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n30",
+				"IndexInSymbTr": 30
+			},
+			{
+				"symbol": "E5",
+				"interval": [35.75873016,35.99092971],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n31",
+				"IndexInSymbTr": 31
+			},
+			{
+				"symbol": "D5",
+				"interval": [36.08380952,36.17668934],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n32",
+				"IndexInSymbTr": 32
+			},
+			{
+				"symbol": "C5",
+				"interval": [36.22312925,36.64108844],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n33",
+				"IndexInSymbTr": 33
+			},
+			{
+				"symbol": "B4",
+				"interval": [36.68752834,36.68752834],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n34",
+				"IndexInSymbTr": 34
+			},
+			{
+				"symbol": "C5",
+				"interval": [36.73396825,36.78040816],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n35",
+				"IndexInSymbTr": 35
+			},
+			{
+				"symbol": "D5",
+				"interval": [36.82684807,37.10548753],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n36",
+				"IndexInSymbTr": 36
+			},
+			{
+				"symbol": "D5",
+				"interval": [37.15192744,37.66276644],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n37",
+				"IndexInSymbTr": 37
+			},
+			{
+				"symbol": "E5",
+				"interval": [37.75564626,37.9878458],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n38",
+				"IndexInSymbTr": 38
+			},
+			{
+				"symbol": "D5",
+				"interval": [38.08072562,38.26648526],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n39",
+				"IndexInSymbTr": 39
+			},
+			{
+				"symbol": "C5",
+				"interval": [38.31292517,38.59156463],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n40",
+				"IndexInSymbTr": 40
+			},
+			{
+				"symbol": "B4",
+				"interval": [38.63800454,38.73088435],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n41",
+				"IndexInSymbTr": 41
+			},
+			{
+				"symbol": "A4",
+				"interval": [38.82376417,39.00952381],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n42",
+				"IndexInSymbTr": 42
+			},
+			{
+				"symbol": "G4",
+				"interval": [39.05596372,39.24172336],
+				"pitchHeight": {
+					"Value": -9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n43",
+				"IndexInSymbTr": 43
+			},
+			{
+				"symbol": "G4",
+				"interval": [39.28816327,39.4739229],
+				"pitchHeight": {
+					"Value": -9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n44",
+				"IndexInSymbTr": 44
+			},
+			{
+				"symbol": "B4",
+				"interval": [39.52036281,39.9847619],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n45",
+				"IndexInSymbTr": 45
+			},
+			{
+				"symbol": "C5",
+				"interval": [40.03120181,40.449161],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n46",
+				"IndexInSymbTr": 46
+			},
+			{
+				"symbol": "E5",
+				"interval": [40.54204082,40.77424036],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n47",
+				"IndexInSymbTr": 47
+			},
+			{
+				"symbol": "D5",
+				"interval": [40.82068027,40.91356009],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n48",
+				"IndexInSymbTr": 48
+			},
+			{
+				"symbol": "E5",
+				"interval": [41.00643991,41.00643991],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n49",
+				"IndexInSymbTr": 49
+			},
+			{
+				"symbol": "C5",
+				"interval": [41.09931973,41.23863946],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n50",
+				"IndexInSymbTr": 50
+			},
+			{
+				"symbol": "B4",
+				"interval": [41.33151927,41.42439909],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n51",
+				"IndexInSymbTr": 51
+			},
+			{
+				"symbol": "A4",
+				"interval": [41.470839,41.56371882],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n52",
+				"IndexInSymbTr": 52
+			},
+			{
+				"symbol": "B4",
+				"interval": [41.70303855,42.07455782],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n53",
+				"IndexInSymbTr": 53
+			},
+			{
+				"symbol": "C5",
+				"interval": [42.12099773,42.16743764],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n54",
+				"IndexInSymbTr": 54
+			},
+			{
+				"symbol": "B4",
+				"interval": [42.21387755,42.35319728],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n55",
+				"IndexInSymbTr": 55
+			},
+			{
+				"symbol": "A4",
+				"interval": [42.39963719,42.86403628],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n56",
+				"IndexInSymbTr": 56
+			},
+			{
+				"symbol": "G4#4",
+				"interval": [42.91047619,43.00335601],
+				"pitchHeight": {
+					"Value": -5,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n57",
+				"IndexInSymbTr": 57
+			},
+			{
+				"symbol": "A4",
+				"interval": [43.09623583,43.65351474],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n58",
+				"IndexInSymbTr": 58
+			},
+			{
+				"symbol": "A4",
+				"interval": [43.69995465,43.74639456],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n59",
+				"IndexInSymbTr": 59
+			},
+			{
+				"symbol": "F5",
+				"interval": [44.86095238,45.32535147],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n1",
+				"IndexInSymbTr": 120
+			},
+			{
+				"symbol": "E5",
+				"interval": [45.41823129,45.41823129],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n2",
+				"IndexInSymbTr": 121
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [45.51111111,45.92907029],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n3",
+				"IndexInSymbTr": 122
+			},
+			{
+				"symbol": "C5",
+				"interval": [45.9755102,46.06839002],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n4",
+				"IndexInSymbTr": 123
+			},
+			{
+				"symbol": "B4",
+				"interval": [46.11482993,46.20770975],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n5",
+				"IndexInSymbTr": 124
+			},
+			{
+				"symbol": "A4",
+				"interval": [46.25414966,46.62566893],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n6",
+				"IndexInSymbTr": 125
+			},
+			{
+				"symbol": "E5",
+				"interval": [46.71854875,47.13650794],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n7",
+				"IndexInSymbTr": 126
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [47.18294785,47.64734694],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n8",
+				"IndexInSymbTr": 127
+			},
+			{
+				"symbol": "E5",
+				"interval": [47.69378685,47.9724263],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n9",
+				"IndexInSymbTr": 128
+			},
+			{
+				"symbol": "F5",
+				"interval": [48.01886621,48.48326531],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n10",
+				"IndexInSymbTr": 129
+			},
+			{
+				"symbol": "F5",
+				"interval": [48.52970522,48.76190476],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n11",
+				"IndexInSymbTr": 130
+			},
+			{
+				"symbol": "E5",
+				"interval": [49.17986395,49.50494331],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n1",
+				"IndexInSymbTr": 133
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [49.55138322,50.24798186],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n2",
+				"IndexInSymbTr": 134
+			},
+			{
+				"symbol": "C5",
+				"interval": [50.34086168,50.75882086],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n3",
+				"IndexInSymbTr": 135
+			},
+			{
+				"symbol": "B4",
+				"interval": [50.80526077,51.31609977],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n4",
+				"IndexInSymbTr": 136
+			},
+			{
+				"symbol": "A4",
+				"interval": [51.36253968,51.78049887],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n5",
+				"IndexInSymbTr": 137
+			},
+			{
+				"symbol": "G4#4",
+				"interval": [51.82693878,52.24489796],
+				"pitchHeight": {
+					"Value": -5,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n6",
+				"IndexInSymbTr": 138
+			},
+			{
+				"symbol": "A4",
+				"interval": [52.29133787,52.52353741],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n7",
+				"IndexInSymbTr": 139
+			},
+			{
+				"symbol": "B4",
+				"interval": [52.61641723,52.9414966],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n8",
+				"IndexInSymbTr": 140
+			},
+			{
+				"symbol": "B4",
+				"interval": [52.98793651,53.17369615],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n9",
+				"IndexInSymbTr": 141
+			},
+			{
+				"symbol": "E5",
+				"interval": [54.10249433,54.52045351],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n1",
+				"IndexInSymbTr": 142
+			},
+			{
+				"symbol": "F5",
+				"interval": [54.56689342,54.56689342],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n2",
+				"IndexInSymbTr": 143
+			},
+			{
+				"symbol": "E5",
+				"interval": [54.61333333,54.70621315],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n3",
+				"IndexInSymbTr": 144
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [54.79909297,54.9384127],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n4",
+				"IndexInSymbTr": 145
+			},
+			{
+				"symbol": "C5",
+				"interval": [54.98485261,55.77433107],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n5",
+				"IndexInSymbTr": 146
+			},
+			{
+				"symbol": "G5",
+				"interval": [55.82077098,56.14585034],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n6",
+				"IndexInSymbTr": 147
+			},
+			{
+				"symbol": "G5",
+				"interval": [56.19229025,56.61024943],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n7",
+				"IndexInSymbTr": 148
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [56.65668934,56.74956916],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n8",
+				"IndexInSymbTr": 149
+			},
+			{
+				"symbol": "G5",
+				"interval": [56.79600907,56.9353288],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n9",
+				"IndexInSymbTr": 150
+			},
+			{
+				"symbol": "A5",
+				"interval": [57.02820862,57.30684807],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n10",
+				"IndexInSymbTr": 151
+			},
+			{
+				"symbol": "E5",
+				"interval": [57.39972789,58.14276644],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n11",
+				"IndexInSymbTr": 152
+			},
+			{
+				"symbol": "E5",
+				"interval": [58.23564626,58.23564626],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n12",
+				"IndexInSymbTr": 153
+			},
+			{
+				"symbol": "E5",
+				"interval": [58.4214059,58.79292517],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n1",
+				"IndexInSymbTr": 156
+			},
+			{
+				"symbol": "A5",
+				"interval": [58.97868481,59.67528345],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n2",
+				"IndexInSymbTr": 157
+			},
+			{
+				"symbol": "G5#4",
+				"interval": [59.76816327,60.13968254],
+				"pitchHeight": {
+					"Value": 48,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n3",
+				"IndexInSymbTr": 158
+			},
+			{
+				"symbol": "F5",
+				"interval": [60.32544218,60.32544218],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n4",
+				"IndexInSymbTr": 159
+			},
+			{
+				"symbol": "E5",
+				"interval": [60.37188209,60.83628118],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n5",
+				"IndexInSymbTr": 160
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [60.929161,60.97560091],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n6",
+				"IndexInSymbTr": 161
+			},
+			{
+				"symbol": "E5",
+				"interval": [61.02204082,61.34712018],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n7",
+				"IndexInSymbTr": 162
+			},
+			{
+				"symbol": "F5",
+				"interval": [61.39356009,61.71863946],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n8",
+				"IndexInSymbTr": 163
+			},
+			{
+				"symbol": "E5",
+				"interval": [61.81151927,62.13659864],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n9",
+				"IndexInSymbTr": 164
+			},
+			{
+				"symbol": "E5",
+				"interval": [62.22947846,62.461678],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n10",
+				"IndexInSymbTr": 165
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [62.55455782,62.74031746],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n11",
+				"IndexInSymbTr": 166
+			},
+			{
+				"symbol": "C5",
+				"interval": [62.78675737,62.87963719],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n12",
+				"IndexInSymbTr": 167
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [63.06539683,63.25115646],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n1",
+				"IndexInSymbTr": 168
+			},
+			{
+				"symbol": "E5",
+				"interval": [63.29759637,63.48335601],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n2",
+				"IndexInSymbTr": 169
+			},
+			{
+				"symbol": "F5",
+				"interval": [63.52979592,63.52979592],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n3",
+				"IndexInSymbTr": 170
+			},
+			{
+				"symbol": "E5",
+				"interval": [63.57623583,63.80843537],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n4",
+				"IndexInSymbTr": 171
+			},
+			{
+				"symbol": "G5#4",
+				"interval": [63.90131519,64.22639456],
+				"pitchHeight": {
+					"Value": 48,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n5",
+				"IndexInSymbTr": 172
+			},
+			{
+				"symbol": "F5",
+				"interval": [64.31927438,64.73723356],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n6",
+				"IndexInSymbTr": 173
+			},
+			{
+				"symbol": "F5",
+				"interval": [64.78367347,65.52671202],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n7",
+				"IndexInSymbTr": 174
+			},
+			{
+				"symbol": "F5",
+				"interval": [65.61959184,65.80535147],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n8",
+				"IndexInSymbTr": 175
+			},
+			{
+				"symbol": "E5",
+				"interval": [65.89823129,65.99111111],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n9",
+				"IndexInSymbTr": 176
+			},
+			{
+				"symbol": "E5",
+				"interval": [66.03755102,66.40907029],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n10",
+				"IndexInSymbTr": 177
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [66.50195011,66.68770975],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n11",
+				"IndexInSymbTr": 178
+			},
+			{
+				"symbol": "E5",
+				"interval": [66.78058957,67.33786848],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n12",
+				"IndexInSymbTr": 179
+			},
+			{
+				"symbol": "C5",
+				"interval": [67.38430839,67.57006803],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n13",
+				"IndexInSymbTr": 180
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [67.89514739,67.98802721],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n1",
+				"IndexInSymbTr": 181
+			},
+			{
+				"symbol": "E5",
+				"interval": [68.03446712,68.49886621],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n2",
+				"IndexInSymbTr": 182
+			},
+			{
+				"symbol": "F5",
+				"interval": [68.59174603,68.59174603],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n3",
+				"IndexInSymbTr": 183
+			},
+			{
+				"symbol": "E5",
+				"interval": [68.63818594,68.77750567],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n4",
+				"IndexInSymbTr": 184
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [68.87038549,69.28834467],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n5",
+				"IndexInSymbTr": 185
+			},
+			{
+				"symbol": "C5",
+				"interval": [69.38122449,69.38122449],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n6",
+				"IndexInSymbTr": 186
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [69.4276644,69.52054422],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n7",
+				"IndexInSymbTr": 187
+			},
+			{
+				"symbol": "E5",
+				"interval": [69.61342404,70.12426304],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n8",
+				"IndexInSymbTr": 188
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [70.17070295,70.31002268],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n9",
+				"IndexInSymbTr": 189
+			},
+			{
+				"symbol": "E5",
+				"interval": [70.40290249,70.68154195],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n10",
+				"IndexInSymbTr": 190
+			},
+			{
+				"symbol": "F5",
+				"interval": [70.72798186,70.86730159],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n11",
+				"IndexInSymbTr": 191
+			},
+			{
+				"symbol": "E5",
+				"interval": [70.9137415,71.09950113],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n12",
+				"IndexInSymbTr": 192
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [71.19238095,71.51746032],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n13",
+				"IndexInSymbTr": 193
+			},
+			{
+				"symbol": "C5",
+				"interval": [71.56390023,71.88897959],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n14",
+				"IndexInSymbTr": 194
+			},
+			{
+				"symbol": "B4",
+				"interval": [71.9354195,71.9354195],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n15",
+				"IndexInSymbTr": 195
+			},
+			{
+				"symbol": "A4",
+				"interval": [72.02829932,72.30693878],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n16",
+				"IndexInSymbTr": 196
+			},
+			{
+				"symbol": "D5",
+				"interval": [72.35337868,72.81777778],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n1",
+				"IndexInSymbTr": 197
+			},
+			{
+				"symbol": "F5",
+				"interval": [72.9106576,73.23573696],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n2",
+				"IndexInSymbTr": 198
+			},
+			{
+				"symbol": "E5",
+				"interval": [73.28217687,73.4214966],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n3",
+				"IndexInSymbTr": 199
+			},
+			{
+				"symbol": "D5",
+				"interval": [73.51437642,73.79301587],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n4",
+				"IndexInSymbTr": 200
+			},
+			{
+				"symbol": "C5",
+				"interval": [73.83945578,73.97877551],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n5",
+				"IndexInSymbTr": 201
+			},
+			{
+				"symbol": "B4",
+				"interval": [74.02521542,74.07165533],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n6",
+				"IndexInSymbTr": 202
+			},
+			{
+				"symbol": "C5",
+				"interval": [74.11809524,74.62893424],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n7",
+				"IndexInSymbTr": 203
+			},
+			{
+				"symbol": "B4",
+				"interval": [74.72181406,74.95401361],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n8",
+				"IndexInSymbTr": 204
+			},
+			{
+				"symbol": "C5",
+				"interval": [75.00045351,75.13977324],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n9",
+				"IndexInSymbTr": 205
+			},
+			{
+				"symbol": "E5",
+				"interval": [75.27909297,75.46485261],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n10",
+				"IndexInSymbTr": 206
+			},
+			{
+				"symbol": "D5",
+				"interval": [75.51129252,75.55773243],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n11",
+				"IndexInSymbTr": 207
+			},
+			{
+				"symbol": "E5",
+				"interval": [75.60417234,75.69705215],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n12",
+				"IndexInSymbTr": 208
+			},
+			{
+				"symbol": "C5",
+				"interval": [75.74349206,76.20789116],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n13",
+				"IndexInSymbTr": 209
+			},
+			{
+				"symbol": "B4",
+				"interval": [76.30077098,76.48653061],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n14",
+				"IndexInSymbTr": 210
+			},
+			{
+				"symbol": "A4",
+				"interval": [76.57941043,76.81160998],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n15",
+				"IndexInSymbTr": 211
+			},
+			{
+				"symbol": "B4",
+				"interval": [77.09024943,77.46176871],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 5. DIZE-n1",
+				"IndexInSymbTr": 213
+			},
+			{
+				"symbol": "C5",
+				"interval": [77.60108844,78.20480726],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 5. DIZE-n2",
+				"IndexInSymbTr": 214
+			},
+			{
+				"symbol": "B4",
+				"interval": [78.34412698,78.48344671],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 5. DIZE-n3",
+				"IndexInSymbTr": 215
+			},
+			{
+				"symbol": "A4",
+				"interval": [78.52988662,78.62276644],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 5. DIZE-n4",
+				"IndexInSymbTr": 216
+			},
+			{
+				"symbol": "G4#4",
+				"interval": [78.66920635,78.71564626],
+				"pitchHeight": {
+					"Value": -5,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 5. DIZE-n5",
+				"IndexInSymbTr": 217
+			},
+			{
+				"symbol": "A4",
+				"interval": [78.76208617,79.08716553],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 5. DIZE-n6",
+				"IndexInSymbTr": 218
+			},
+			{
+				"symbol": "E5",
+				"interval": [81.17696145,81.26984127],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n1",
+				"IndexInSymbTr": 1
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [81.409161,81.50204082],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n2",
+				"IndexInSymbTr": 2
+			},
+			{
+				"symbol": "G5",
+				"interval": [81.64136054,81.73424036],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n3",
+				"IndexInSymbTr": 3
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [81.78068027,81.82712018],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n4",
+				"IndexInSymbTr": 4
+			},
+			{
+				"symbol": "A5",
+				"interval": [81.87356009,81.96643991],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n5",
+				"IndexInSymbTr": 5
+			},
+			{
+				"symbol": "G5",
+				"interval": [82.01287982,82.15219955],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n6",
+				"IndexInSymbTr": 6
+			},
+			{
+				"symbol": "G5",
+				"interval": [82.19863946,82.38439909],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n7",
+				"IndexInSymbTr": 7
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [82.430839,82.66303855],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n8",
+				"IndexInSymbTr": 8
+			},
+			{
+				"symbol": "G5",
+				"interval": [82.70947846,82.70947846],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n9",
+				"IndexInSymbTr": 9
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [82.75591837,82.80235828],
+				"pitchHeight": {
+					"Value": 57,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n10",
+				"IndexInSymbTr": 10
+			},
+			{
+				"symbol": "A5",
+				"interval": [82.84879819,82.8952381],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n11",
+				"IndexInSymbTr": 11
+			},
+			{
+				"symbol": "G5",
+				"interval": [82.941678,83.03455782],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n12",
+				"IndexInSymbTr": 12
+			},
+			{
+				"symbol": "F5",
+				"interval": [83.08099773,83.31319728],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n13",
+				"IndexInSymbTr": 13
+			},
+			{
+				"symbol": "F5",
+				"interval": [83.35963719,83.59183673],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n14",
+				"IndexInSymbTr": 14
+			},
+			{
+				"symbol": "E5",
+				"interval": [83.63827664,83.73115646],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n15",
+				"IndexInSymbTr": 15
+			},
+			{
+				"symbol": "F5",
+				"interval": [83.77759637,83.96335601],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n16",
+				"IndexInSymbTr": 16
+			},
+			{
+				"symbol": "A5",
+				"interval": [84.05623583,84.05623583],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n17",
+				"IndexInSymbTr": 17
+			},
+			{
+				"symbol": "G5",
+				"interval": [84.14911565,84.4277551],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n18",
+				"IndexInSymbTr": 18
+			},
+			{
+				"symbol": "A5",
+				"interval": [84.52063492,84.75283447],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n19",
+				"IndexInSymbTr": 19
+			},
+			{
+				"symbol": "G5",
+				"interval": [84.79927438,84.84571429],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n20",
+				"IndexInSymbTr": 20
+			},
+			{
+				"symbol": "F5",
+				"interval": [84.8921542,84.98503401],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n21",
+				"IndexInSymbTr": 21
+			},
+			{
+				"symbol": "E5",
+				"interval": [85.03147392,85.17079365],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n22",
+				"IndexInSymbTr": 22
+			},
+			{
+				"symbol": "D5",
+				"interval": [85.21723356,85.35655329],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n23",
+				"IndexInSymbTr": 23
+			},
+			{
+				"symbol": "D5",
+				"interval": [85.44943311,85.68163265],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n24",
+				"IndexInSymbTr": 24
+			},
+			{
+				"symbol": "E5",
+				"interval": [85.77451247,85.9138322],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n25",
+				"IndexInSymbTr": 25
+			},
+			{
+				"symbol": "D5",
+				"interval": [86.00671202,86.37823129],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n26",
+				"IndexInSymbTr": 26
+			},
+			{
+				"symbol": "C5",
+				"interval": [86.47111111,86.61043084],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n27",
+				"IndexInSymbTr": 27
+			},
+			{
+				"symbol": "B4",
+				"interval": [86.88907029,87.07482993],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n28",
+				"IndexInSymbTr": 28
+			},
+			{
+				"symbol": "C5",
+				"interval": [87.12126984,87.30702948],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n29",
+				"IndexInSymbTr": 29
+			},
+			{
+				"symbol": "C5",
+				"interval": [87.35346939,87.49278912],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n30",
+				"IndexInSymbTr": 30
+			},
+			{
+				"symbol": "E5",
+				"interval": [87.53922902,87.67854875],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n31",
+				"IndexInSymbTr": 31
+			},
+			{
+				"symbol": "D5",
+				"interval": [87.72498866,87.77142857],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n32",
+				"IndexInSymbTr": 32
+			},
+			{
+				"symbol": "C5",
+				"interval": [87.81786848,88.18938776],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n33",
+				"IndexInSymbTr": 33
+			},
+			{
+				"symbol": "B4",
+				"interval": [88.28226757,88.4215873],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n34",
+				"IndexInSymbTr": 34
+			},
+			{
+				"symbol": "C5",
+				"interval": [88.46802721,88.60734694],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n35",
+				"IndexInSymbTr": 35
+			},
+			{
+				"symbol": "D5",
+				"interval": [88.65378685,88.9324263],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n36",
+				"IndexInSymbTr": 36
+			},
+			{
+				"symbol": "D5",
+				"interval": [88.97886621,89.58258503],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n37",
+				"IndexInSymbTr": 37
+			},
+			{
+				"symbol": "E5",
+				"interval": [89.67546485,90.04698413],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n38",
+				"IndexInSymbTr": 38
+			},
+			{
+				"symbol": "D5",
+				"interval": [90.13986395,90.37206349],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n39",
+				"IndexInSymbTr": 39
+			},
+			{
+				"symbol": "C5",
+				"interval": [90.46494331,90.83646259],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n40",
+				"IndexInSymbTr": 40
+			},
+			{
+				"symbol": "B4",
+				"interval": [90.9293424,91.30086168],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n41",
+				"IndexInSymbTr": 41
+			},
+			{
+				"symbol": "A4",
+				"interval": [91.3937415,91.81170068],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n42",
+				"IndexInSymbTr": 42
+			},
+			{
+				"symbol": "G4",
+				"interval": [91.9045805,92.64761905],
+				"pitchHeight": {
+					"Value": -9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n43",
+				"IndexInSymbTr": 43
+			},
+			{
+				"symbol": "G4",
+				"interval": [92.74049887,92.74049887],
+				"pitchHeight": {
+					"Value": -9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n44",
+				"IndexInSymbTr": 44
+			},
+			{
+				"symbol": "B4",
+				"interval": [92.83337868,93.20489796],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n45",
+				"IndexInSymbTr": 45
+			},
+			{
+				"symbol": "C5",
+				"interval": [93.29777778,93.66929705],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n46",
+				"IndexInSymbTr": 46
+			},
+			{
+				"symbol": "E5",
+				"interval": [93.76217687,94.04081633],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n47",
+				"IndexInSymbTr": 47
+			},
+			{
+				"symbol": "D5",
+				"interval": [94.13369615,94.55165533],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n48",
+				"IndexInSymbTr": 48
+			},
+			{
+				"symbol": "E5",
+				"interval": [94.64453515,94.78385488],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n49",
+				"IndexInSymbTr": 49
+			},
+			{
+				"symbol": "C5",
+				"interval": [94.83029478,94.87673469],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n50",
+				"IndexInSymbTr": 50
+			},
+			{
+				"symbol": "B4",
+				"interval": [94.9231746,95.01605442],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n51",
+				"IndexInSymbTr": 51
+			},
+			{
+				"symbol": "A4",
+				"interval": [95.06249433,95.10893424],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n52",
+				"IndexInSymbTr": 52
+			},
+			{
+				"symbol": "B4",
+				"interval": [95.15537415,95.3875737],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n53",
+				"IndexInSymbTr": 53
+			},
+			{
+				"symbol": "C5",
+				"interval": [95.48045351,95.75909297],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n54",
+				"IndexInSymbTr": 54
+			},
+			{
+				"symbol": "B4",
+				"interval": [95.85197279,95.75909297],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n55",
+				"IndexInSymbTr": 55
+			},
+			{
+				"symbol": "A4",
+				"interval": [95.85197279,95.75909297],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n56",
+				"IndexInSymbTr": 56
+			},
+			{
+				"symbol": "G4#4",
+				"interval": [95.85197279,95.75909297],
+				"pitchHeight": {
+					"Value": -5,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n57",
+				"IndexInSymbTr": 57
+			},
+			{
+				"symbol": "A4",
+				"interval": [95.85197279,95.75909297],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n58",
+				"IndexInSymbTr": 58
+			},
+			{
+				"symbol": "A4",
+				"interval": [95.85197279,95.85197279],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n59",
+				"IndexInSymbTr": 59
+			},
+			{
+				"symbol": "F5",
+				"interval": [96.59501134,96.78077098],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n1",
+				"IndexInSymbTr": 120
+			},
+			{
+				"symbol": "E5",
+				"interval": [96.82721088,97.01297052],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n2",
+				"IndexInSymbTr": 121
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [97.05941043,97.29160998],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n3",
+				"IndexInSymbTr": 122
+			},
+			{
+				"symbol": "C5",
+				"interval": [97.3844898,97.47736961],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n4",
+				"IndexInSymbTr": 123
+			},
+			{
+				"symbol": "B4",
+				"interval": [97.52380952,97.61668934],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n5",
+				"IndexInSymbTr": 124
+			},
+			{
+				"symbol": "A4",
+				"interval": [97.66312925,98.17396825],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n6",
+				"IndexInSymbTr": 125
+			},
+			{
+				"symbol": "E5",
+				"interval": [98.35972789,98.73124717],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n7",
+				"IndexInSymbTr": 126
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [98.82412698,99.24208617],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n8",
+				"IndexInSymbTr": 127
+			},
+			{
+				"symbol": "E5",
+				"interval": [99.33496599,99.52072562],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n9",
+				"IndexInSymbTr": 128
+			},
+			{
+				"symbol": "F5",
+				"interval": [99.56716553,99.75292517],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n10",
+				"IndexInSymbTr": 129
+			},
+			{
+				"symbol": "F5",
+				"interval": [99.79936508,100.0315646],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n11",
+				"IndexInSymbTr": 130
+			},
+			{
+				"symbol": "E5",
+				"interval": [100.6352834,101.0068027],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n1",
+				"IndexInSymbTr": 133
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [101.0996825,101.9820408],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n2",
+				"IndexInSymbTr": 134
+			},
+			{
+				"symbol": "C5",
+				"interval": [102.0284807,102.2142404],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n3",
+				"IndexInSymbTr": 135
+			},
+			{
+				"symbol": "B4",
+				"interval": [102.4,102.8179592],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n4",
+				"IndexInSymbTr": 136
+			},
+			{
+				"symbol": "A4",
+				"interval": [102.8643991,103.0965986],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n5",
+				"IndexInSymbTr": 137
+			},
+			{
+				"symbol": "G4#4",
+				"interval": [103.1894785,103.7467574],
+				"pitchHeight": {
+					"Value": -5,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n6",
+				"IndexInSymbTr": 138
+			},
+			{
+				"symbol": "A4",
+				"interval": [103.7931973,103.9789569],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n7",
+				"IndexInSymbTr": 139
+			},
+			{
+				"symbol": "B4",
+				"interval": [104.1182766,104.9077551],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n8",
+				"IndexInSymbTr": 140
+			},
+			{
+				"symbol": "B4",
+				"interval": [104.954195,104.954195],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n9",
+				"IndexInSymbTr": 141
+			},
+			{
+				"symbol": "E5",
+				"interval": [105.1863946,105.6972336],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n1",
+				"IndexInSymbTr": 142
+			},
+			{
+				"symbol": "F5",
+				"interval": [105.7901134,105.8829932],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n2",
+				"IndexInSymbTr": 143
+			},
+			{
+				"symbol": "E5",
+				"interval": [105.975873,106.1151927],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n3",
+				"IndexInSymbTr": 144
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [106.1616327,106.486712],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n4",
+				"IndexInSymbTr": 145
+			},
+			{
+				"symbol": "C5",
+				"interval": [106.5795918,106.9511111],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n5",
+				"IndexInSymbTr": 146
+			},
+			{
+				"symbol": "G5",
+				"interval": [107.0439909,107.5548299],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n6",
+				"IndexInSymbTr": 147
+			},
+			{
+				"symbol": "G5",
+				"interval": [107.6012698,107.9263492],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n7",
+				"IndexInSymbTr": 148
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [107.9727891,108.1121088],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n8",
+				"IndexInSymbTr": 149
+			},
+			{
+				"symbol": "G5",
+				"interval": [108.1585488,108.2978685],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n9",
+				"IndexInSymbTr": 150
+			},
+			{
+				"symbol": "A5",
+				"interval": [108.3907483,108.5765079],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n10",
+				"IndexInSymbTr": 151
+			},
+			{
+				"symbol": "E5",
+				"interval": [108.6229478,108.9480272],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n11",
+				"IndexInSymbTr": 152
+			},
+			{
+				"symbol": "E5",
+				"interval": [108.9944671,109.0873469],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n12",
+				"IndexInSymbTr": 153
+			},
+			{
+				"symbol": "E5",
+				"interval": [109.7839456,110.1554649],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n1",
+				"IndexInSymbTr": 156
+			},
+			{
+				"symbol": "A5",
+				"interval": [110.2483447,111.2700227],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n2",
+				"IndexInSymbTr": 157
+			},
+			{
+				"symbol": "G5#4",
+				"interval": [111.3164626,111.3164626],
+				"pitchHeight": {
+					"Value": 48,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n3",
+				"IndexInSymbTr": 158
+			},
+			{
+				"symbol": "F5",
+				"interval": [111.3629025,111.5486621],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n4",
+				"IndexInSymbTr": 159
+			},
+			{
+				"symbol": "E5",
+				"interval": [111.641542,112.0595011],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n5",
+				"IndexInSymbTr": 160
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [112.105941,112.2452608],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n6",
+				"IndexInSymbTr": 161
+			},
+			{
+				"symbol": "E5",
+				"interval": [112.3381406,112.7560998],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n7",
+				"IndexInSymbTr": 162
+			},
+			{
+				"symbol": "F5",
+				"interval": [112.8489796,113.0347392],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n8",
+				"IndexInSymbTr": 163
+			},
+			{
+				"symbol": "E5",
+				"interval": [113.127619,113.3133787],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n9",
+				"IndexInSymbTr": 164
+			},
+			{
+				"symbol": "E5",
+				"interval": [113.3598186,113.5455782],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n10",
+				"IndexInSymbTr": 165
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [113.5920181,113.9635374],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n11",
+				"IndexInSymbTr": 166
+			},
+			{
+				"symbol": "C5",
+				"interval": [114.0564172,114.195737],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n12",
+				"IndexInSymbTr": 167
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [114.4743764,114.6136961],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n1",
+				"IndexInSymbTr": 168
+			},
+			{
+				"symbol": "E5",
+				"interval": [114.6601361,114.7994558],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n2",
+				"IndexInSymbTr": 169
+			},
+			{
+				"symbol": "F5",
+				"interval": [114.8923356,115.0316553],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n3",
+				"IndexInSymbTr": 170
+			},
+			{
+				"symbol": "E5",
+				"interval": [115.1245351,115.3102948],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n4",
+				"IndexInSymbTr": 171
+			},
+			{
+				"symbol": "G5#4",
+				"interval": [115.4031746,115.6818141],
+				"pitchHeight": {
+					"Value": 48,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n5",
+				"IndexInSymbTr": 172
+			},
+			{
+				"symbol": "F5",
+				"interval": [115.7746939,116.1462132],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n6",
+				"IndexInSymbTr": 173
+			},
+			{
+				"symbol": "F5",
+				"interval": [116.1926531,116.6570522],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n7",
+				"IndexInSymbTr": 174
+			},
+			{
+				"symbol": "F5",
+				"interval": [116.7034921,116.7963719],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n8",
+				"IndexInSymbTr": 175
+			},
+			{
+				"symbol": "E5",
+				"interval": [116.8892517,117.1214512],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n9",
+				"IndexInSymbTr": 176
+			},
+			{
+				"symbol": "E5",
+				"interval": [117.1678912,117.77161],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n10",
+				"IndexInSymbTr": 177
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [117.8644898,117.8644898],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n11",
+				"IndexInSymbTr": 178
+			},
+			{
+				"symbol": "E5",
+				"interval": [117.9109297,118.3753288],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n12",
+				"IndexInSymbTr": 179
+			},
+			{
+				"symbol": "C5",
+				"interval": [118.4217687,118.6075283],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n13",
+				"IndexInSymbTr": 180
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [118.9326077,119.1183673],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n1",
+				"IndexInSymbTr": 181
+			},
+			{
+				"symbol": "E5",
+				"interval": [119.2112472,119.3505669],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n2",
+				"IndexInSymbTr": 182
+			},
+			{
+				"symbol": "F5",
+				"interval": [119.4434467,119.6292063],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n3",
+				"IndexInSymbTr": 183
+			},
+			{
+				"symbol": "E5",
+				"interval": [119.6756463,119.9078458],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n4",
+				"IndexInSymbTr": 184
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [120.0007256,120.3722449],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n5",
+				"IndexInSymbTr": 185
+			},
+			{
+				"symbol": "C5",
+				"interval": [120.4186848,120.4186848],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n6",
+				"IndexInSymbTr": 186
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [120.4651247,120.5115646],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n7",
+				"IndexInSymbTr": 187
+			},
+			{
+				"symbol": "E5",
+				"interval": [120.5580045,121.0224036],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n8",
+				"IndexInSymbTr": 188
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [121.1617234,121.347483],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n9",
+				"IndexInSymbTr": 189
+			},
+			{
+				"symbol": "E5",
+				"interval": [121.4403628,121.5332426],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n10",
+				"IndexInSymbTr": 190
+			},
+			{
+				"symbol": "F5",
+				"interval": [121.6261224,121.8118821],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n11",
+				"IndexInSymbTr": 191
+			},
+			{
+				"symbol": "E5",
+				"interval": [121.9047619,122.0905215],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n12",
+				"IndexInSymbTr": 192
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [122.1369615,122.5084807],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n13",
+				"IndexInSymbTr": 193
+			},
+			{
+				"symbol": "C5",
+				"interval": [122.5549206,122.6013605],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n14",
+				"IndexInSymbTr": 194
+			},
+			{
+				"symbol": "B4",
+				"interval": [122.6478005,122.88],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n15",
+				"IndexInSymbTr": 195
+			},
+			{
+				"symbol": "A4",
+				"interval": [122.9728798,123.2050794],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n16",
+				"IndexInSymbTr": 196
+			},
+			{
+				"symbol": "D5",
+				"interval": [123.6230385,123.901678],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n1",
+				"IndexInSymbTr": 197
+			},
+			{
+				"symbol": "F5",
+				"interval": [123.9481179,124.0409977],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n2",
+				"IndexInSymbTr": 198
+			},
+			{
+				"symbol": "E5",
+				"interval": [124.0874376,124.3660771],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n3",
+				"IndexInSymbTr": 199
+			},
+			{
+				"symbol": "D5",
+				"interval": [124.4589569,124.6911565],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n4",
+				"IndexInSymbTr": 200
+			},
+			{
+				"symbol": "C5",
+				"interval": [124.7375964,124.8304762],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n5",
+				"IndexInSymbTr": 201
+			},
+			{
+				"symbol": "B4",
+				"interval": [124.8769161,124.923356],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n6",
+				"IndexInSymbTr": 202
+			},
+			{
+				"symbol": "C5",
+				"interval": [124.9697959,125.5270748],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n7",
+				"IndexInSymbTr": 203
+			},
+			{
+				"symbol": "B4",
+				"interval": [125.5735147,125.7128345],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n8",
+				"IndexInSymbTr": 204
+			},
+			{
+				"symbol": "C5",
+				"interval": [125.7592744,126.0843537],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n9",
+				"IndexInSymbTr": 205
+			},
+			{
+				"symbol": "E5",
+				"interval": [126.1307937,126.1772336],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n10",
+				"IndexInSymbTr": 206
+			},
+			{
+				"symbol": "D5",
+				"interval": [126.2236735,126.3165533],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n11",
+				"IndexInSymbTr": 207
+			},
+			{
+				"symbol": "E5",
+				"interval": [126.3629932,126.5951927],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n12",
+				"IndexInSymbTr": 208
+			},
+			{
+				"symbol": "C5",
+				"interval": [126.6880726,127.1989116],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n13",
+				"IndexInSymbTr": 209
+			},
+			{
+				"symbol": "B4",
+				"interval": [127.2917914,127.2917914],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n14",
+				"IndexInSymbTr": 210
+			},
+			{
+				"symbol": "A4",
+				"interval": [127.3382313,127.5704308],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n15",
+				"IndexInSymbTr": 211
+			},
+			{
+				"symbol": "B4",
+				"interval": [127.8026304,128.0812698],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 5. DIZE-n1",
+				"IndexInSymbTr": 213
+			},
+			{
+				"symbol": "C5",
+				"interval": [128.2205896,128.6849887],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 5. DIZE-n2",
+				"IndexInSymbTr": 214
+			},
+			{
+				"symbol": "B4",
+				"interval": [128.7314286,129.1493878],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 5. DIZE-n3",
+				"IndexInSymbTr": 215
+			},
+			{
+				"symbol": "A4",
+				"interval": [129.1958277,129.1958277],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 5. DIZE-n4",
+				"IndexInSymbTr": 216
+			},
+			{
+				"symbol": "G4#4",
+				"interval": [129.2422676,129.2887075],
+				"pitchHeight": {
+					"Value": -5,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 5. DIZE-n5",
+				"IndexInSymbTr": 217
+			},
+			{
+				"symbol": "A4",
+				"interval": [129.3351474,129.520907],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 5. DIZE-n6",
+				"IndexInSymbTr": 218
+			},
+			{
+				"symbol": "E5",
+				"interval": [131.8429025,131.9822222],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n1",
+				"IndexInSymbTr": 1
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [132.075102,132.1679819],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n2",
+				"IndexInSymbTr": 2
+			},
+			{
+				"symbol": "G5",
+				"interval": [132.2144218,132.3073016],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n3",
+				"IndexInSymbTr": 3
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [132.3537415,132.5395011],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n4",
+				"IndexInSymbTr": 4
+			},
+			{
+				"symbol": "A5",
+				"interval": [132.585941,132.6788209],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n5",
+				"IndexInSymbTr": 5
+			},
+			{
+				"symbol": "G5",
+				"interval": [132.7252608,132.9110204],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n6",
+				"IndexInSymbTr": 6
+			},
+			{
+				"symbol": "G5",
+				"interval": [132.9574603,133.1896599],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n7",
+				"IndexInSymbTr": 7
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [133.2360998,133.2825397],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n8",
+				"IndexInSymbTr": 8
+			},
+			{
+				"symbol": "G5",
+				"interval": [133.3289796,133.4218594],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n9",
+				"IndexInSymbTr": 9
+			},
+			{
+				"symbol": "B5b5",
+				"interval": [133.4682993,133.5147392],
+				"pitchHeight": {
+					"Value": 57,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n10",
+				"IndexInSymbTr": 10
+			},
+			{
+				"symbol": "A5",
+				"interval": [133.654059,133.7469388],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n11",
+				"IndexInSymbTr": 11
+			},
+			{
+				"symbol": "G5",
+				"interval": [133.7933787,133.8398186],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n12",
+				"IndexInSymbTr": 12
+			},
+			{
+				"symbol": "F5",
+				"interval": [133.8862585,134.118458],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n13",
+				"IndexInSymbTr": 13
+			},
+			{
+				"symbol": "F5",
+				"interval": [134.164898,134.4435374],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n14",
+				"IndexInSymbTr": 14
+			},
+			{
+				"symbol": "E5",
+				"interval": [134.4899773,134.7221769],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n15",
+				"IndexInSymbTr": 15
+			},
+			{
+				"symbol": "F5",
+				"interval": [134.8150567,134.8614966],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n16",
+				"IndexInSymbTr": 16
+			},
+			{
+				"symbol": "A5",
+				"interval": [134.9079365,135.0008163],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n17",
+				"IndexInSymbTr": 17
+			},
+			{
+				"symbol": "G5",
+				"interval": [135.0472562,135.0936961],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n18",
+				"IndexInSymbTr": 18
+			},
+			{
+				"symbol": "A5",
+				"interval": [135.1401361,135.186576],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n19",
+				"IndexInSymbTr": 19
+			},
+			{
+				"symbol": "G5",
+				"interval": [135.2330159,135.4652154],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n20",
+				"IndexInSymbTr": 20
+			},
+			{
+				"symbol": "F5",
+				"interval": [135.5116553,135.6509751],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n21",
+				"IndexInSymbTr": 21
+			},
+			{
+				"symbol": "E5",
+				"interval": [135.697415,135.697415],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n22",
+				"IndexInSymbTr": 22
+			},
+			{
+				"symbol": "D5",
+				"interval": [135.7438549,135.9296145],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n23",
+				"IndexInSymbTr": 23
+			},
+			{
+				"symbol": "D5",
+				"interval": [136.0224943,136.1153741],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n24",
+				"IndexInSymbTr": 24
+			},
+			{
+				"symbol": "E5",
+				"interval": [136.208254,136.5333333],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n25",
+				"IndexInSymbTr": 25
+			},
+			{
+				"symbol": "D5",
+				"interval": [136.5797732,136.719093],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n26",
+				"IndexInSymbTr": 26
+			},
+			{
+				"symbol": "C5",
+				"interval": [136.8119728,137.0906122],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n27",
+				"IndexInSymbTr": 27
+			},
+			{
+				"symbol": "B4",
+				"interval": [137.1834921,137.5550113],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n28",
+				"IndexInSymbTr": 28
+			},
+			{
+				"symbol": "C5",
+				"interval": [137.6478912,138.5766893],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n29",
+				"IndexInSymbTr": 29
+			},
+			{
+				"symbol": "C5",
+				"interval": [138.6695692,139.4590476],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n30",
+				"IndexInSymbTr": 30
+			},
+			{
+				"symbol": "E5",
+				"interval": [139.5519274,139.9234467],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n31",
+				"IndexInSymbTr": 31
+			},
+			{
+				"symbol": "D5",
+				"interval": [140.0163265,140.294966],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n32",
+				"IndexInSymbTr": 32
+			},
+			{
+				"symbol": "C5",
+				"interval": [140.3878458,141.1773243],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n33",
+				"IndexInSymbTr": 33
+			},
+			{
+				"symbol": "B4",
+				"interval": [141.2702041,141.2702041],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n34",
+				"IndexInSymbTr": 34
+			},
+			{
+				"symbol": "C5",
+				"interval": [141.316644,141.5024036],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n35",
+				"IndexInSymbTr": 35
+			},
+			{
+				"symbol": "D5",
+				"interval": [141.5952834,142.1990023],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n36",
+				"IndexInSymbTr": 36
+			},
+			{
+				"symbol": "D5",
+				"interval": [142.2918821,142.849161],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n37",
+				"IndexInSymbTr": 37
+			},
+			{
+				"symbol": "E5",
+				"interval": [142.9420408,143.1742404],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n38",
+				"IndexInSymbTr": 38
+			},
+			{
+				"symbol": "D5",
+				"interval": [143.2671202,143.2671202],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n39",
+				"IndexInSymbTr": 39
+			},
+			{
+				"symbol": "C5",
+				"interval": [143.36,143.4993197],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n40",
+				"IndexInSymbTr": 40
+			},
+			{
+				"symbol": "B4",
+				"interval": [143.5921995,143.8243991],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n41",
+				"IndexInSymbTr": 41
+			},
+			{
+				"symbol": "A4",
+				"interval": [143.870839,144.0101587],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n42",
+				"IndexInSymbTr": 42
+			},
+			{
+				"symbol": "G4",
+				"interval": [144.1030385,144.4281179],
+				"pitchHeight": {
+					"Value": -9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n43",
+				"IndexInSymbTr": 43
+			},
+			{
+				"symbol": "G4",
+				"interval": [144.4745578,144.6138776],
+				"pitchHeight": {
+					"Value": -9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n44",
+				"IndexInSymbTr": 44
+			},
+			{
+				"symbol": "B4",
+				"interval": [144.6603175,145.0318367],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n45",
+				"IndexInSymbTr": 45
+			},
+			{
+				"symbol": "C5",
+				"interval": [145.0782766,145.2640363],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n46",
+				"IndexInSymbTr": 46
+			},
+			{
+				"symbol": "E5",
+				"interval": [145.3569161,145.6355556],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n47",
+				"IndexInSymbTr": 47
+			},
+			{
+				"symbol": "D5",
+				"interval": [145.7284354,145.914195],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n48",
+				"IndexInSymbTr": 48
+			},
+			{
+				"symbol": "E5",
+				"interval": [145.9606349,146.0535147],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n49",
+				"IndexInSymbTr": 49
+			},
+			{
+				"symbol": "C5",
+				"interval": [146.1463946,146.0535147],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n50",
+				"IndexInSymbTr": 50
+			},
+			{
+				"symbol": "B4",
+				"interval": [146.1463946,146.0535147],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n51",
+				"IndexInSymbTr": 51
+			},
+			{
+				"symbol": "A4",
+				"interval": [146.1463946,146.0535147],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n52",
+				"IndexInSymbTr": 52
+			},
+			{
+				"symbol": "B4",
+				"interval": [146.1463946,146.0535147],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n53",
+				"IndexInSymbTr": 53
+			},
+			{
+				"symbol": "C5",
+				"interval": [146.1463946,146.0535147],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n54",
+				"IndexInSymbTr": 54
+			},
+			{
+				"symbol": "B4",
+				"interval": [146.1463946,146.0535147],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n55",
+				"IndexInSymbTr": 55
+			},
+			{
+				"symbol": "A4",
+				"interval": [146.1463946,146.0535147],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n56",
+				"IndexInSymbTr": 56
+			},
+			{
+				"symbol": "G4#4",
+				"interval": [146.1463946,146.0535147],
+				"pitchHeight": {
+					"Value": -5,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n57",
+				"IndexInSymbTr": 57
+			},
+			{
+				"symbol": "A4",
+				"interval": [146.1463946,146.0535147],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n58",
+				"IndexInSymbTr": 58
+			},
+			{
+				"symbol": "A4",
+				"interval": [146.1463946,146.1463946],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "ARANAGME-n59",
+				"IndexInSymbTr": 59
+			},
+			{
+				"symbol": "F5",
+				"interval": [146.8429932,147.0287528],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n1",
+				"IndexInSymbTr": 120
+			},
+			{
+				"symbol": "E5",
+				"interval": [147.0751927,147.1680726],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n2",
+				"IndexInSymbTr": 121
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [147.3073923,147.6789116],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n3",
+				"IndexInSymbTr": 122
+			},
+			{
+				"symbol": "C5",
+				"interval": [147.7253515,147.8646712],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n4",
+				"IndexInSymbTr": 123
+			},
+			{
+				"symbol": "B4",
+				"interval": [147.9111111,148.0039909],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n5",
+				"IndexInSymbTr": 124
+			},
+			{
+				"symbol": "A4",
+				"interval": [148.0504308,148.2361905],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n6",
+				"IndexInSymbTr": 125
+			},
+			{
+				"symbol": "E5",
+				"interval": [148.2826304,148.979229],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n7",
+				"IndexInSymbTr": 126
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [149.0256689,149.3971882],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n8",
+				"IndexInSymbTr": 127
+			},
+			{
+				"symbol": "E5",
+				"interval": [149.490068,149.6758277],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n9",
+				"IndexInSymbTr": 128
+			},
+			{
+				"symbol": "F5",
+				"interval": [149.7687075,150.0473469],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n10",
+				"IndexInSymbTr": 129
+			},
+			{
+				"symbol": "F5",
+				"interval": [150.0937868,150.3259864],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 1. DIZE-n11",
+				"IndexInSymbTr": 130
+			},
+			{
+				"symbol": "E5",
+				"interval": [150.7903855,151.2083447],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n1",
+				"IndexInSymbTr": 133
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [151.2547846,151.9978231],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n2",
+				"IndexInSymbTr": 134
+			},
+			{
+				"symbol": "C5",
+				"interval": [152.044263,152.4622222],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n3",
+				"IndexInSymbTr": 135
+			},
+			{
+				"symbol": "B4",
+				"interval": [152.601542,153.112381],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n4",
+				"IndexInSymbTr": 136
+			},
+			{
+				"symbol": "A4",
+				"interval": [153.1588209,153.8554195],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n5",
+				"IndexInSymbTr": 137
+			},
+			{
+				"symbol": "G4#4",
+				"interval": [153.9018594,153.9018594],
+				"pitchHeight": {
+					"Value": -5,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n6",
+				"IndexInSymbTr": 138
+			},
+			{
+				"symbol": "A4",
+				"interval": [153.9482993,154.087619],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n7",
+				"IndexInSymbTr": 139
+			},
+			{
+				"symbol": "B4",
+				"interval": [154.1804989,154.4126984],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n8",
+				"IndexInSymbTr": 140
+			},
+			{
+				"symbol": "B4",
+				"interval": [154.4591383,154.6913379],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 2. DIZE-n9",
+				"IndexInSymbTr": 141
+			},
+			{
+				"symbol": "E5",
+				"interval": [155.5736961,155.9452154],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n1",
+				"IndexInSymbTr": 142
+			},
+			{
+				"symbol": "F5",
+				"interval": [155.9916553,155.9916553],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n2",
+				"IndexInSymbTr": 143
+			},
+			{
+				"symbol": "E5",
+				"interval": [156.0380952,156.0845351],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n3",
+				"IndexInSymbTr": 144
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [156.1309751,156.2238549],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n4",
+				"IndexInSymbTr": 145
+			},
+			{
+				"symbol": "C5",
+				"interval": [156.3167347,156.8275737],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n5",
+				"IndexInSymbTr": 146
+			},
+			{
+				"symbol": "G5",
+				"interval": [157.1062132,157.5241723],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n6",
+				"IndexInSymbTr": 147
+			},
+			{
+				"symbol": "G5",
+				"interval": [157.6170522,157.9421315],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n7",
+				"IndexInSymbTr": 148
+			},
+			{
+				"symbol": "F5#4",
+				"interval": [157.9885714,158.1743311],
+				"pitchHeight": {
+					"Value": 39,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n8",
+				"IndexInSymbTr": 149
+			},
+			{
+				"symbol": "G5",
+				"interval": [158.220771,158.3136508],
+				"pitchHeight": {
+					"Value": 44,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n9",
+				"IndexInSymbTr": 150
+			},
+			{
+				"symbol": "A5",
+				"interval": [158.4065306,158.5922902],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n10",
+				"IndexInSymbTr": 151
+			},
+			{
+				"symbol": "E5",
+				"interval": [158.6387302,159.0102494],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n11",
+				"IndexInSymbTr": 152
+			},
+			{
+				"symbol": "E5",
+				"interval": [159.0566893,159.1031293],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "KITA 3. DIZE-n12",
+				"IndexInSymbTr": 153
+			},
+			{
+				"symbol": "E5",
+				"interval": [159.753288,160.264127],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n1",
+				"IndexInSymbTr": 156
+			},
+			{
+				"symbol": "A5",
+				"interval": [160.3570068,161.0071655],
+				"pitchHeight": {
+					"Value": 53,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n2",
+				"IndexInSymbTr": 157
+			},
+			{
+				"symbol": "G5#4",
+				"interval": [161.1000454,161.3322449],
+				"pitchHeight": {
+					"Value": 48,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n3",
+				"IndexInSymbTr": 158
+			},
+			{
+				"symbol": "F5",
+				"interval": [161.3786848,161.8430839],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n4",
+				"IndexInSymbTr": 159
+			},
+			{
+				"symbol": "E5",
+				"interval": [161.9359637,161.9359637],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n5",
+				"IndexInSymbTr": 160
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [162.0288435,162.1217234],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n6",
+				"IndexInSymbTr": 161
+			},
+			{
+				"symbol": "E5",
+				"interval": [162.1681633,162.5861224],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n7",
+				"IndexInSymbTr": 162
+			},
+			{
+				"symbol": "F5",
+				"interval": [162.6325624,162.9576417],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n8",
+				"IndexInSymbTr": 163
+			},
+			{
+				"symbol": "E5",
+				"interval": [163.0040816,163.1898413],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n9",
+				"IndexInSymbTr": 164
+			},
+			{
+				"symbol": "E5",
+				"interval": [163.2362812,163.4684807],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n10",
+				"IndexInSymbTr": 165
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [163.5149206,163.7006803],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n11",
+				"IndexInSymbTr": 166
+			},
+			{
+				"symbol": "C5",
+				"interval": [163.7471202,163.9793197],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 1. DIZE-n12",
+				"IndexInSymbTr": 167
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [164.3043991,164.3972789],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n1",
+				"IndexInSymbTr": 168
+			},
+			{
+				"symbol": "E5",
+				"interval": [164.4437188,164.7223583],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n2",
+				"IndexInSymbTr": 169
+			},
+			{
+				"symbol": "F5",
+				"interval": [164.7687982,164.861678],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n3",
+				"IndexInSymbTr": 170
+			},
+			{
+				"symbol": "E5",
+				"interval": [165.0009977,165.0009977],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n4",
+				"IndexInSymbTr": 171
+			},
+			{
+				"symbol": "G5#4",
+				"interval": [165.0938776,165.4653968],
+				"pitchHeight": {
+					"Value": 48,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n5",
+				"IndexInSymbTr": 172
+			},
+			{
+				"symbol": "F5",
+				"interval": [165.5582766,165.9762358],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n6",
+				"IndexInSymbTr": 173
+			},
+			{
+				"symbol": "F5",
+				"interval": [166.0691156,166.4870748],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n7",
+				"IndexInSymbTr": 174
+			},
+			{
+				"symbol": "F5",
+				"interval": [166.5335147,166.6263946],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n8",
+				"IndexInSymbTr": 175
+			},
+			{
+				"symbol": "E5",
+				"interval": [166.7192744,167.2765533],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n9",
+				"IndexInSymbTr": 176
+			},
+			{
+				"symbol": "E5",
+				"interval": [167.3694331,167.3694331],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n10",
+				"IndexInSymbTr": 177
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [167.4623129,167.5551927],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n11",
+				"IndexInSymbTr": 178
+			},
+			{
+				"symbol": "E5",
+				"interval": [167.6480726,168.0660317],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n12",
+				"IndexInSymbTr": 179
+			},
+			{
+				"symbol": "C5",
+				"interval": [168.1589116,168.3446712],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 2. DIZE-n13",
+				"IndexInSymbTr": 180
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [168.7161905,168.9019501],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n1",
+				"IndexInSymbTr": 181
+			},
+			{
+				"symbol": "E5",
+				"interval": [168.9948299,169.1341497],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n2",
+				"IndexInSymbTr": 182
+			},
+			{
+				"symbol": "F5",
+				"interval": [169.2270295,169.459229],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n3",
+				"IndexInSymbTr": 183
+			},
+			{
+				"symbol": "E5",
+				"interval": [169.5056689,169.5521088],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n4",
+				"IndexInSymbTr": 184
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [169.5985488,169.8307483],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n5",
+				"IndexInSymbTr": 185
+			},
+			{
+				"symbol": "C5",
+				"interval": [169.970068,170.2487075],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n6",
+				"IndexInSymbTr": 186
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [170.3415873,170.3880272],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n7",
+				"IndexInSymbTr": 187
+			},
+			{
+				"symbol": "E5",
+				"interval": [170.4344671,170.7131066],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n8",
+				"IndexInSymbTr": 188
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [170.7595465,170.9453061],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n9",
+				"IndexInSymbTr": 189
+			},
+			{
+				"symbol": "E5",
+				"interval": [170.991746,171.3168254],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n10",
+				"IndexInSymbTr": 190
+			},
+			{
+				"symbol": "F5",
+				"interval": [171.4097052,171.6419048],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n11",
+				"IndexInSymbTr": 191
+			},
+			{
+				"symbol": "E5",
+				"interval": [171.7347846,171.8741043],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n12",
+				"IndexInSymbTr": 192
+			},
+			{
+				"symbol": "D5#4",
+				"interval": [171.9669841,172.0598639],
+				"pitchHeight": {
+					"Value": 26,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n13",
+				"IndexInSymbTr": 193
+			},
+			{
+				"symbol": "C5",
+				"interval": [172.1527438,172.4778231],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n14",
+				"IndexInSymbTr": 194
+			},
+			{
+				"symbol": "B4",
+				"interval": [172.524263,172.524263],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n15",
+				"IndexInSymbTr": 195
+			},
+			{
+				"symbol": "A4",
+				"interval": [172.6171429,172.8493424],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 3. DIZE-n16",
+				"IndexInSymbTr": 196
+			},
+			{
+				"symbol": "D5",
+				"interval": [173.081542,173.3601814],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n1",
+				"IndexInSymbTr": 197
+			},
+			{
+				"symbol": "F5",
+				"interval": [173.4066213,173.6852608],
+				"pitchHeight": {
+					"Value": 35,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n2",
+				"IndexInSymbTr": 198
+			},
+			{
+				"symbol": "E5",
+				"interval": [173.7317007,173.8710204],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n3",
+				"IndexInSymbTr": 199
+			},
+			{
+				"symbol": "D5",
+				"interval": [173.9639002,174.3354195],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n4",
+				"IndexInSymbTr": 200
+			},
+			{
+				"symbol": "C5",
+				"interval": [174.3818594,174.4282993],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n5",
+				"IndexInSymbTr": 201
+			},
+			{
+				"symbol": "B4",
+				"interval": [174.4747392,174.6604989],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n6",
+				"IndexInSymbTr": 202
+			},
+			{
+				"symbol": "C5",
+				"interval": [174.7069388,175.078458],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n7",
+				"IndexInSymbTr": 203
+			},
+			{
+				"symbol": "B4",
+				"interval": [175.124898,175.2642177],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n8",
+				"IndexInSymbTr": 204
+			},
+			{
+				"symbol": "C5",
+				"interval": [175.3570975,175.5428571],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n9",
+				"IndexInSymbTr": 205
+			},
+			{
+				"symbol": "E5",
+				"interval": [175.5892971,175.8214966],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n10",
+				"IndexInSymbTr": 206
+			},
+			{
+				"symbol": "D5",
+				"interval": [175.8679365,175.9143764],
+				"pitchHeight": {
+					"Value": 22,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n11",
+				"IndexInSymbTr": 207
+			},
+			{
+				"symbol": "E5",
+				"interval": [175.9608163,176.0536961],
+				"pitchHeight": {
+					"Value": 31,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n12",
+				"IndexInSymbTr": 208
+			},
+			{
+				"symbol": "C5",
+				"interval": [176.146576,176.9824943],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n13",
+				"IndexInSymbTr": 209
+			},
+			{
+				"symbol": "B4",
+				"interval": [177.0753741,177.0753741],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n14",
+				"IndexInSymbTr": 210
+			},
+			{
+				"symbol": "A4",
+				"interval": [177.168254,177.2146939],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 4. DIZE-n15",
+				"IndexInSymbTr": 211
+			},
+			{
+				"symbol": "B4",
+				"interval": [177.3540136,177.5397732],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 5. DIZE-n1",
+				"IndexInSymbTr": 213
+			},
+			{
+				"symbol": "C5",
+				"interval": [177.5862132,178.0970522],
+				"pitchHeight": {
+					"Value": 13,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 5. DIZE-n2",
+				"IndexInSymbTr": 214
+			},
+			{
+				"symbol": "B4",
+				"interval": [178.2363719,178.5614512],
+				"pitchHeight": {
+					"Value": 9,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 5. DIZE-n3",
+				"IndexInSymbTr": 215
+			},
+			{
+				"symbol": "A4",
+				"interval": [178.700771,178.9794104],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 5. DIZE-n4",
+				"IndexInSymbTr": 216
+			},
+			{
+				"symbol": "G4#4",
+				"interval": [179.0258503,179.0722902],
+				"pitchHeight": {
+					"Value": -5,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 5. DIZE-n5",
+				"IndexInSymbTr": 217
+			},
+			{
+				"symbol": "A4",
+				"interval": [179.1187302,179.4902494],
+				"pitchHeight": {
+					"Value": 0,
+					"ReferenceSymbol": "A4",
+					"Unit": "hc"
+				},
+				"label": "NAKARAT 5. DIZE-n6",
+				"IndexInSymbTr": 218
+			}
+		]
+	]
+}

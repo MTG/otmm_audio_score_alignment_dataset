@@ -1,0 +1,69 @@
+{
+	"makam": "kurdilihicazkar",
+	"form": "sazsemaisi",
+	"usul": "aksaksemai",
+	"karar": "G4",
+	"composer": "tatyos_efendi",
+	"sections": [
+		{
+			"name": "1. HANE",
+			"startNote": 1,
+			"endNote": 48
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 49,
+			"endNote": 100
+		},
+		{
+			"name": "TESLIM*",
+			"startNote": 101,
+			"endNote": 148
+		},
+		{
+			"name": "2. HANE",
+			"startNote": 149,
+			"endNote": 199
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 200,
+			"endNote": 251
+		},
+		{
+			"name": "TESLIM*",
+			"startNote": 252,
+			"endNote": 299
+		},
+		{
+			"name": "3. HANE",
+			"startNote": 300,
+			"endNote": 342
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 343,
+			"endNote": 374
+		},
+		{
+			"name": "TESLIM*",
+			"startNote": 395,
+			"endNote": 442
+		},
+		{
+			"name": "4. HANE",
+			"startNote": 444,
+			"endNote": 646
+		},
+		{
+			"name": "TESLIM",
+			"startNote": 647,
+			"endNote": 698
+		},
+		{
+			"name": "TESLIM*",
+			"startNote": 699,
+			"endNote": 746
+		}
+	]
+}

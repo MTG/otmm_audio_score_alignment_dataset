@@ -1,0 +1,109 @@
+{
+	"makam": "hisarbuselik",
+	"form": "sarki",
+	"usul": "raksaksagi",
+	"karar": "A4",
+	"composer": "tanburi_mustafa_cavus",
+	"sections": [
+		{
+			"name": "ARANAGME",
+			"startNote": 1,
+			"endNote": 59
+		},
+		{
+			"name": "ARANAGME",
+			"startNote": 60,
+			"endNote": 119
+		},
+		{
+			"name": "KITA 1. DIZE",
+			"startNote": 120,
+			"endNote": 132
+		},
+		{
+			"name": "KITA 2. DIZE",
+			"startNote": 133,
+			"endNote": 141
+		},
+		{
+			"name": "KITA 3. DIZE",
+			"startNote": 142,
+			"endNote": 155
+		},
+		{
+			"name": "NAKARAT 1. DIZE",
+			"startNote": 156,
+			"endNote": 167
+		},
+		{
+			"name": "NAKARAT 2. DIZE",
+			"startNote": 168,
+			"endNote": 180
+		},
+		{
+			"name": "NAKARAT 3. DIZE",
+			"startNote": 181,
+			"endNote": 196
+		},
+		{
+			"name": "NAKARAT 4. DIZE",
+			"startNote": 197,
+			"endNote": 212
+		},
+		{
+			"name": "NAKARAT 5. DIZE",
+			"startNote": 213,
+			"endNote": 218
+		},
+		{
+			"name": "ARANAGME",
+			"startNote": 219,
+			"endNote": 277
+		},
+		{
+			"name": "ARANAGME",
+			"startNote": 278,
+			"endNote": 336
+		},
+		{
+			"name": "KITA 1. DIZE",
+			"startNote": 337,
+			"endNote": 350
+		},
+		{
+			"name": "KITA 2. DIZE",
+			"startNote": 351,
+			"endNote": 359
+		},
+		{
+			"name": "KITA 3. DIZE",
+			"startNote": 360,
+			"endNote": 373
+		},
+		{
+			"name": "NAKARAT 1. DIZE",
+			"startNote": 374,
+			"endNote": 385
+		},
+		{
+			"name": "NAKARAT 2. DIZE",
+			"startNote": 386,
+			"endNote": 398
+		},
+		{
+			"name": "NAKARAT 3. DIZE",
+			"startNote": 399,
+			"endNote": 414
+		},
+		{
+			"name": "NAKARAT 4. DIZE",
+			"startNote": 415,
+			"endNote": 430
+		},
+		{
+			"name": "NAKARAT 5. DIZE",
+			"startNote": 431,
+			"endNote": 436
+		}
+	]
+}
