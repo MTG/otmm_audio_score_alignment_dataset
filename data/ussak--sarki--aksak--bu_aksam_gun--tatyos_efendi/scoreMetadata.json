@@ -1,0 +1,119 @@
+{
+    "makam": "ussak", 
+    "form": "sarki", 
+    "composer": "tatyos_efendi", 
+    "usul": "aksak", 
+    "sections": [
+        {
+            "endNote": 39, 
+            "startNote": 1, 
+            "name": "ARANAGME"
+        }, 
+        {
+            "endNote": 78, 
+            "startNote": 40, 
+            "name": "ARANAGME"
+        }, 
+        {
+            "endNote": 96, 
+            "startNote": 79, 
+            "name": "ZEMIN"
+        }, 
+        {
+            "endNote": 107, 
+            "startNote": 97, 
+            "name": "ZEMIN2"
+        }, 
+        {
+            "endNote": 117, 
+            "startNote": 108, 
+            "name": "NAKARAT"
+        }, 
+        {
+            "endNote": 131, 
+            "startNote": 118, 
+            "name": "NAKARAT2"
+        }, 
+        {
+            "endNote": 137, 
+            "startNote": 132, 
+            "name": "SAZ"
+        }, 
+        {
+            "endNote": 153, 
+            "startNote": 138, 
+            "name": "MEYAN"
+        }, 
+        {
+            "endNote": 170, 
+            "startNote": 154, 
+            "name": "MEYAN2"
+        }, 
+        {
+            "endNote": 180, 
+            "startNote": 171, 
+            "name": "NAKARAT"
+        }, 
+        {
+            "endNote": 194, 
+            "startNote": 181, 
+            "name": "NAKARAT2"
+        }, 
+        {
+            "endNote": 233, 
+            "startNote": 195, 
+            "name": "ARANAGME"
+        }, 
+        {
+            "endNote": 272, 
+            "startNote": 234, 
+            "name": "ARANAGME"
+        }, 
+        {
+            "endNote": 290, 
+            "startNote": 273, 
+            "name": "ZEMIN"
+        }, 
+        {
+            "endNote": 301, 
+            "startNote": 291, 
+            "name": "ZEMIN2"
+        }, 
+        {
+            "endNote": 311, 
+            "startNote": 302, 
+            "name": "NAKARAT"
+        }, 
+        {
+            "endNote": 325, 
+            "startNote": 312, 
+            "name": "NAKARAT2"
+        }, 
+        {
+            "endNote": 331, 
+            "startNote": 326, 
+            "name": "SAZ"
+        }, 
+        {
+            "endNote": 347, 
+            "startNote": 332, 
+            "name": "MEYAN"
+        }, 
+        {
+            "endNote": 364, 
+            "startNote": 348, 
+            "name": "MEYAN2"
+        }, 
+        {
+            "endNote": 374, 
+            "startNote": 365, 
+            "name": "NAKARAT"
+        }, 
+        {
+            "endNote": 388, 
+            "startNote": 375, 
+            "name": "NAKARAT2"
+        }
+    ], 
+    "name": "bu_aksam_gun"
+}
