@@ -90,8 +90,8 @@ temp = cellfun(@(x) fullfile(fileparts(x),'predominantMelody.mat'),...
 
 %% instantiate the estimator objects
 tonicIdentifier = makamLinker.TonicIdentifier(options);
-identifyTonic = @(score, audio, predominantMelody) ...
-    tonicIdentifier.identify(score, audio, predominantMelody);
+identifyTonic = @(score, audio, scoreMeta, predominantMelody) ...
+    tonicIdentifier.identify(score, audio, scoreMeta, predominantMelody);
 
 % you can do parfor if you have parallel processing toolbox
 % just uncomment the parpool block in the start and end of the script
@@ -105,7 +105,8 @@ for k = 1:length(fileLocations)
     
     % tonic identification
     [tonicEstimated{k}, info{k}] = identifyTonic(fileLocations(k).score,...
-        fileLocations(k).audio, fileLocations(k).predominantMelody);
+        fileLocations(k).audio, fileLocations(k).score, ...
+        fileLocations(k).predominantMelody);
 end
 tonicEstimated = [tonicEstimated{:}];
 
