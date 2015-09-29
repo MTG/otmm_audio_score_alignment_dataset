@@ -30,14 +30,9 @@
             "name": "NAKARAT"
         }, 
         {
-            "endNote": 131, 
+            "endNote": 137, 
             "startNote": 118, 
             "name": "NAKARAT2"
-        }, 
-        {
-            "endNote": 137, 
-            "startNote": 132, 
-            "name": "SAZ"
         }, 
         {
             "endNote": 153, 
@@ -57,7 +52,7 @@
         {
             "endNote": 194, 
             "startNote": 181, 
-            "name": "NAKARAT2"
+            "name": "NAKARAT2*"
         }, 
         {
             "endNote": 233, 
@@ -85,14 +80,9 @@
             "name": "NAKARAT"
         }, 
         {
-            "endNote": 325, 
+            "endNote": 331, 
             "startNote": 312, 
             "name": "NAKARAT2"
-        }, 
-        {
-            "endNote": 331, 
-            "startNote": 326, 
-            "name": "SAZ"
         }, 
         {
             "endNote": 347, 
@@ -112,7 +102,7 @@
         {
             "endNote": 388, 
             "startNote": 375, 
-            "name": "NAKARAT2"
+            "name": "NAKARAT2*"
         }
     ], 
     "name": "bu_aksam_gun"

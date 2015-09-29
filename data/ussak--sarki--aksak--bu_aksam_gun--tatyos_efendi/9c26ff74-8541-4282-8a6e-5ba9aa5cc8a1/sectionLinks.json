@@ -77,7 +77,7 @@
                 55.593169, 
                 59.976368
             ], 
-            "name": "NAKARAT2", 
+            "name": "NAKARAT2*", 
             "time_unit": "sec"
         }, 
         {
@@ -157,7 +157,7 @@
                 116.558381, 
                 121.038446
             ], 
-            "name": "NAKARAT2", 
+            "name": "NAKARAT2*", 
             "time_unit": "sec"
         }, 
         {
@@ -205,7 +205,7 @@
                 209.501571, 
                 215.826132
             ], 
-            "name": "NAKARAT2", 
+            "name": "NAKARAT2*", 
             "time_unit": "sec"
         }
     ]
