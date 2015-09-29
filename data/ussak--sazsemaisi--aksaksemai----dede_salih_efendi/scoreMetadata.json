@@ -1,0 +1,69 @@
+{
+	"makam": "ussak",
+	"form": "sazsemaisi",
+	"usul": "aksaksemai",
+	"karar": "A4",
+	"composer": "dede_salih_efendi",
+	"sections": [
+		{
+			"name": "1. HANE",
+			"startNote": 1,
+			"endNote": 66
+		},
+		{
+			"name": "MULAZIME",
+			"startNote": 67,
+			"endNote": 123
+		},
+		{
+			"name": "MULAZIME",
+			"startNote": 124,
+			"endNote": 179
+		},
+		{
+			"name": "2. HANE",
+			"startNote": 180,
+			"endNote": 242
+		},
+		{
+			"name": "MULAZIME",
+			"startNote": 243,
+			"endNote": 299
+		},
+		{
+			"name": "MULAZIME",
+			"startNote": 300,
+			"endNote": 355
+		},
+		{
+			"name": "3. HANE",
+			"startNote": 356,
+			"endNote": 418
+		},
+		{
+			"name": "MULAZIME",
+			"startNote": 419,
+			"endNote": 475
+		},
+		{
+			"name": "MULAZIME",
+			"startNote": 476,
+			"endNote": 531
+		},
+		{
+			"name": "4. HANE",
+			"startNote": 532,
+			"endNote": 708
+		},
+		{
+			"name": "MULAZIME",
+			"startNote": 709,
+			"endNote": 765
+		},
+		{
+			"name": "MULAZIME",
+			"startNote": 766,
+			"endNote": 822
+		}
+	]
+}

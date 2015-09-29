@@ -6,7 +6,7 @@
 			"time_unit": "sec"
 		},
 		{
-			"name": "TESLIM",
+			"name": "MULAZIME",
 			"time": [32.019592,52.298594],
 			"time_unit": "sec"
 		},
@@ -16,7 +16,7 @@
 			"time_unit": "sec"
 		},
 		{
-			"name": "TESLIM",
+			"name": "MULAZIME",
 			"time": [84.076553,104.315646],
 			"time_unit": "sec"
 		},
@@ -26,7 +26,7 @@
 			"time_unit": "sec"
 		},
 		{
-			"name": "TESLIM",
+			"name": "MULAZIME",
 			"time": [135.270748,155.314457],
 			"time_unit": "sec"
 		},
@@ -36,7 +36,7 @@
 			"time_unit": "sec"
 		},
 		{
-			"name": "TESLIM",
+			"name": "MULAZIME",
 			"time": [220.119365,246.193804],
 			"time_unit": "sec"
 		}

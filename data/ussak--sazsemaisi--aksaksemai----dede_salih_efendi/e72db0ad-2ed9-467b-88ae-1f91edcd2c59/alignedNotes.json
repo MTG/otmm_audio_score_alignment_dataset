@@ -1,0 +1,6549 @@
+{
+	"dtw": [
+		{
+			"Symbol": "A4",
+			"IndexInScore": 1,
+			"Interval": [0.5108390023,1.439637188],
+			"Label": "1. HANE-n1",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 2,
+			"Interval": [1.532517007,1.9969161],
+			"Label": "1. HANE-n2",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 3,
+			"Interval": [2.089795918,3.111473923],
+			"Label": "1. HANE-n3",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 4,
+			"Interval": [3.157913832,3.250793651],
+			"Label": "1. HANE-n4",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 5,
+			"Interval": [3.343673469,3.482993197],
+			"Label": "1. HANE-n5",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 6,
+			"Interval": [3.668752834,3.854512472],
+			"Label": "1. HANE-n6",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 7,
+			"Interval": [3.900952381,3.9938322],
+			"Label": "1. HANE-n7",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 8,
+			"Interval": [4.226031746,5.712108844],
+			"Label": "1. HANE-n8",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 9,
+			"Interval": [5.804988662,6.176507937],
+			"Label": "1. HANE-n9",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 10,
+			"Interval": [6.269387755,6.780226757],
+			"Label": "1. HANE-n10",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 11,
+			"Interval": [6.873106576,7.24462585],
+			"Label": "1. HANE-n11",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 12,
+			"Interval": [7.337505669,8.080544218],
+			"Label": "1. HANE-n12",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 13,
+			"Interval": [8.126984127,8.312743764],
+			"Label": "1. HANE-n13",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 14,
+			"Interval": [8.359183673,8.544943311],
+			"Label": "1. HANE-n14",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 15,
+			"Interval": [8.59138322,8.962902494],
+			"Label": "1. HANE-n15",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 16,
+			"Interval": [9.009342404,9.102222222],
+			"Label": "1. HANE-n16",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 17,
+			"Interval": [9.195102041,9.520181406],
+			"Label": "1. HANE-n17",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 18,
+			"Interval": [9.566621315,10.44897959],
+			"Label": "1. HANE-n18",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "Rest",
+			"IndexInScore": 19,
+			"Interval": [10.54185941,10.44897959],
+			"Label": "1. HANE-n19",
+			"PitchHeight": {
+				"Value": "_NaN_",
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 20,
+			"Interval": [10.54185941,11.42421769],
+			"Label": "1. HANE-n20",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 21,
+			"Interval": [11.4706576,11.93505669],
+			"Label": "1. HANE-n21",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 22,
+			"Interval": [12.02793651,13.69977324],
+			"Label": "1. HANE-n22",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 23,
+			"Interval": [13.83909297,13.83909297],
+			"Label": "1. HANE-n23",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 24,
+			"Interval": [13.93197279,14.02485261],
+			"Label": "1. HANE-n24",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 25,
+			"Interval": [14.11773243,14.39637188],
+			"Label": "1. HANE-n25",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 26,
+			"Interval": [14.4892517,14.4892517],
+			"Label": "1. HANE-n26",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 27,
+			"Interval": [14.58213152,14.76789116],
+			"Label": "1. HANE-n27",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 28,
+			"Interval": [14.81433107,14.95365079],
+			"Label": "1. HANE-n28",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 29,
+			"Interval": [15.0000907,15.32517007],
+			"Label": "1. HANE-n29",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 30,
+			"Interval": [15.37160998,15.92888889],
+			"Label": "1. HANE-n30",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 31,
+			"Interval": [16.02176871,16.25396825],
+			"Label": "1. HANE-n31",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 32,
+			"Interval": [16.34684807,17.22920635],
+			"Label": "1. HANE-n32",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 33,
+			"Interval": [17.41496599,17.55428571],
+			"Label": "1. HANE-n33",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 34,
+			"Interval": [17.64716553,17.83292517],
+			"Label": "1. HANE-n34",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 35,
+			"Interval": [17.87936508,18.01868481],
+			"Label": "1. HANE-n35",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 36,
+			"Interval": [18.11156463,18.43664399],
+			"Label": "1. HANE-n36",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 37,
+			"Interval": [18.4830839,18.52952381],
+			"Label": "1. HANE-n37",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 38,
+			"Interval": [18.57596372,18.85460317],
+			"Label": "1. HANE-n38",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 39,
+			"Interval": [18.94748299,19.22612245],
+			"Label": "1. HANE-n39",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 40,
+			"Interval": [19.27256236,19.36544218],
+			"Label": "1. HANE-n40",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 41,
+			"Interval": [19.458322,19.82984127],
+			"Label": "1. HANE-n41",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 42,
+			"Interval": [19.92272109,20.10848073],
+			"Label": "1. HANE-n42",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 43,
+			"Interval": [20.15492063,21.31591837],
+			"Label": "1. HANE-n43",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 44,
+			"Interval": [21.40879819,22.33759637],
+			"Label": "1. HANE-n44",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 45,
+			"Interval": [22.43047619,22.89487528],
+			"Label": "1. HANE-n45",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 46,
+			"Interval": [22.94131519,23.31283447],
+			"Label": "1. HANE-n46",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 47,
+			"Interval": [23.35927438,23.77723356],
+			"Label": "1. HANE-n47",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 48,
+			"Interval": [23.87011338,24.33451247],
+			"Label": "1. HANE-n48",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 49,
+			"Interval": [24.4738322,24.93823129],
+			"Label": "1. HANE-n49",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 50,
+			"Interval": [24.9846712,25.35619048],
+			"Label": "1. HANE-n50",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 51,
+			"Interval": [25.44907029,25.86702948],
+			"Label": "1. HANE-n51",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 52,
+			"Interval": [25.9599093,26.37786848],
+			"Label": "1. HANE-n52",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 53,
+			"Interval": [26.42430839,26.84226757],
+			"Label": "1. HANE-n53",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 54,
+			"Interval": [26.88870748,27.91038549],
+			"Label": "1. HANE-n54",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 55,
+			"Interval": [28.00326531,28.18902494],
+			"Label": "1. HANE-n55",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 56,
+			"Interval": [28.28190476,28.56054422],
+			"Label": "1. HANE-n56",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 57,
+			"Interval": [28.60698413,28.74630385],
+			"Label": "1. HANE-n57",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 58,
+			"Interval": [28.79274376,28.88562358],
+			"Label": "1. HANE-n58",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 59,
+			"Interval": [28.9785034,29.25714286],
+			"Label": "1. HANE-n59",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 60,
+			"Interval": [29.30358277,29.35002268],
+			"Label": "1. HANE-n60",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 61,
+			"Interval": [29.39646259,30.04662132],
+			"Label": "1. HANE-n61",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 62,
+			"Interval": [30.13950113,30.13950113],
+			"Label": "1. HANE-n62",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 63,
+			"Interval": [30.18594104,30.41814059],
+			"Label": "1. HANE-n63",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 64,
+			"Interval": [30.4645805,30.9754195],
+			"Label": "1. HANE-n64",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 65,
+			"Interval": [31.02185941,31.06829932],
+			"Label": "1. HANE-n65",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A5",
+			"IndexInScore": 66,
+			"Interval": [31.11473923,31.25405896],
+			"Label": "1. HANE-n66",
+			"PitchHeight": {
+				"Value": 53,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 67,
+			"Interval": [32.08997732,32.18285714],
+			"Label": "MULAZIME-n1",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 68,
+			"Interval": [32.27573696,32.4614966],
+			"Label": "MULAZIME-n2",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 69,
+			"Interval": [32.50793651,33.06521542],
+			"Label": "MULAZIME-n3",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 70,
+			"Interval": [33.11165533,33.20453515],
+			"Label": "MULAZIME-n4",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 71,
+			"Interval": [33.29741497,33.57605442],
+			"Label": "MULAZIME-n5",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 72,
+			"Interval": [33.62249433,33.76181406],
+			"Label": "MULAZIME-n6",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 73,
+			"Interval": [33.80825397,33.9475737],
+			"Label": "MULAZIME-n7",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 74,
+			"Interval": [34.13333333,35.06213152],
+			"Label": "MULAZIME-n8",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "Rest",
+			"IndexInScore": 75,
+			"Interval": [35.10857143,35.06213152],
+			"Label": "MULAZIME-n9",
+			"PitchHeight": {
+				"Value": "_NaN_",
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 76,
+			"Interval": [35.10857143,35.20145125],
+			"Label": "MULAZIME-n10",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 77,
+			"Interval": [35.29433107,35.57297052],
+			"Label": "MULAZIME-n11",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 78,
+			"Interval": [35.66585034,35.99092971],
+			"Label": "MULAZIME-n12",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 79,
+			"Interval": [36.03736961,36.03736961],
+			"Label": "MULAZIME-n13",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 80,
+			"Interval": [36.22312925,36.64108844],
+			"Label": "MULAZIME-n14",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 81,
+			"Interval": [36.68752834,36.82684807],
+			"Label": "MULAZIME-n15",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 82,
+			"Interval": [36.91972789,37.05904762],
+			"Label": "MULAZIME-n16",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 83,
+			"Interval": [37.10548753,37.33768707],
+			"Label": "MULAZIME-n17",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 84,
+			"Interval": [37.38412698,37.4770068],
+			"Label": "MULAZIME-n18",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 85,
+			"Interval": [37.52344671,37.70920635],
+			"Label": "MULAZIME-n19",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 86,
+			"Interval": [37.84852608,38.08072562],
+			"Label": "MULAZIME-n20",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 87,
+			"Interval": [38.17360544,38.35936508],
+			"Label": "MULAZIME-n21",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 88,
+			"Interval": [38.4522449,38.63800454],
+			"Label": "MULAZIME-n22",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 89,
+			"Interval": [38.68444444,39.65968254],
+			"Label": "MULAZIME-n23",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "Rest",
+			"IndexInScore": 90,
+			"Interval": [39.75256236,39.65968254],
+			"Label": "MULAZIME-n24",
+			"PitchHeight": {
+				"Value": "_NaN_",
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 91,
+			"Interval": [39.75256236,40.30984127],
+			"Label": "MULAZIME-n25",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 92,
+			"Interval": [40.40272109,40.72780045],
+			"Label": "MULAZIME-n26",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 93,
+			"Interval": [40.77424036,40.91356009],
+			"Label": "MULAZIME-n27",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 94,
+			"Interval": [41.05287982,41.37795918],
+			"Label": "MULAZIME-n28",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 95,
+			"Interval": [41.470839,41.470839],
+			"Label": "MULAZIME-n29",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 96,
+			"Interval": [41.51727891,41.65659864],
+			"Label": "MULAZIME-n30",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 97,
+			"Interval": [41.70303855,41.9352381],
+			"Label": "MULAZIME-n31",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 98,
+			"Interval": [42.02811791,42.30675737],
+			"Label": "MULAZIME-n32",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 99,
+			"Interval": [42.39963719,43.04979592],
+			"Label": "MULAZIME-n33",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 100,
+			"Interval": [43.09623583,43.18911565],
+			"Label": "MULAZIME-n34",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 101,
+			"Interval": [43.28199546,43.4677551],
+			"Label": "MULAZIME-n35",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 102,
+			"Interval": [43.56063492,43.74639456],
+			"Label": "MULAZIME-n36",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 103,
+			"Interval": [43.83927438,45.23247166],
+			"Label": "MULAZIME-n37",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "Rest",
+			"IndexInScore": 104,
+			"Interval": [45.32535147,45.23247166],
+			"Label": "MULAZIME-n38",
+			"PitchHeight": {
+				"Value": "_NaN_",
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 105,
+			"Interval": [45.32535147,45.78975057],
+			"Label": "MULAZIME-n39",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 106,
+			"Interval": [45.88263039,45.88263039],
+			"Label": "MULAZIME-n40",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 107,
+			"Interval": [45.9755102,46.11482993],
+			"Label": "MULAZIME-n41",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 108,
+			"Interval": [46.16126984,46.25414966],
+			"Label": "MULAZIME-n42",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 109,
+			"Interval": [46.30058957,46.39346939],
+			"Label": "MULAZIME-n43",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 110,
+			"Interval": [46.53278912,46.67210884],
+			"Label": "MULAZIME-n44",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 111,
+			"Interval": [46.76498866,46.85786848],
+			"Label": "MULAZIME-n45",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 112,
+			"Interval": [46.99718821,47.18294785],
+			"Label": "MULAZIME-n46",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 113,
+			"Interval": [47.27582766,48.29750567],
+			"Label": "MULAZIME-n47",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 114,
+			"Interval": [48.39038549,48.90122449],
+			"Label": "MULAZIME-n48",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 115,
+			"Interval": [48.99410431,49.36562358],
+			"Label": "MULAZIME-n49",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 116,
+			"Interval": [49.41206349,49.59782313],
+			"Label": "MULAZIME-n50",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 117,
+			"Interval": [49.64426304,49.69070295],
+			"Label": "MULAZIME-n51",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 118,
+			"Interval": [49.73714286,49.87646259],
+			"Label": "MULAZIME-n52",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 119,
+			"Interval": [50.01578231,50.80526077],
+			"Label": "MULAZIME-n53",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 120,
+			"Interval": [50.89814059,50.89814059],
+			"Label": "MULAZIME-n54",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 121,
+			"Interval": [50.99102041,52.19845805],
+			"Label": "MULAZIME-n55",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 122,
+			"Interval": [52.29133787,52.19845805],
+			"Label": "MULAZIME-n56",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A5",
+			"IndexInScore": 123,
+			"Interval": [52.29133787,52.29133787],
+			"Label": "MULAZIME-n57",
+			"PitchHeight": {
+				"Value": 53,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 180,
+			"Interval": [52.9414966,53.73097506],
+			"Label": "2. HANE-n1",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 181,
+			"Interval": [53.82385488,54.19537415],
+			"Label": "2. HANE-n2",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 182,
+			"Interval": [54.24181406,54.75265306],
+			"Label": "2. HANE-n3",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 183,
+			"Interval": [54.84553288,55.35637188],
+			"Label": "2. HANE-n4",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 184,
+			"Interval": [55.4492517,55.58857143],
+			"Label": "2. HANE-n5",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 185,
+			"Interval": [55.68145125,55.77433107],
+			"Label": "2. HANE-n6",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 186,
+			"Interval": [55.82077098,55.9600907],
+			"Label": "2. HANE-n7",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 187,
+			"Interval": [56.05297052,56.28517007],
+			"Label": "2. HANE-n8",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 188,
+			"Interval": [56.4244898,56.88888889],
+			"Label": "2. HANE-n9",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 189,
+			"Interval": [56.98176871,57.49260771],
+			"Label": "2. HANE-n10",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 190,
+			"Interval": [57.58548753,58.18920635],
+			"Label": "2. HANE-n11",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 191,
+			"Interval": [58.23564626,58.32852608],
+			"Label": "2. HANE-n12",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 192,
+			"Interval": [58.37496599,58.4214059],
+			"Label": "2. HANE-n13",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 193,
+			"Interval": [58.4678458,58.60716553],
+			"Label": "2. HANE-n14",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 194,
+			"Interval": [58.70004535,58.88580499],
+			"Label": "2. HANE-n15",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 195,
+			"Interval": [58.97868481,59.21088435],
+			"Label": "2. HANE-n16",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 196,
+			"Interval": [59.30376417,60.18612245],
+			"Label": "2. HANE-n17",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 197,
+			"Interval": [60.27900227,60.74340136],
+			"Label": "2. HANE-n18",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 198,
+			"Interval": [60.83628118,61.20780045],
+			"Label": "2. HANE-n19",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 199,
+			"Interval": [61.25424036,61.62575964],
+			"Label": "2. HANE-n20",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 200,
+			"Interval": [61.67219955,63.34403628],
+			"Label": "2. HANE-n21",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "Rest",
+			"IndexInScore": 201,
+			"Interval": [63.39047619,63.34403628],
+			"Label": "2. HANE-n22",
+			"PitchHeight": {
+				"Value": "_NaN_",
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 202,
+			"Interval": [63.39047619,64.4121542],
+			"Label": "2. HANE-n23",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 203,
+			"Interval": [64.50503401,65.20163265],
+			"Label": "2. HANE-n24",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 204,
+			"Interval": [65.24807256,65.24807256],
+			"Label": "2. HANE-n25",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 205,
+			"Interval": [65.29451247,65.34095238],
+			"Label": "2. HANE-n26",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 206,
+			"Interval": [65.38739229,65.89823129],
+			"Label": "2. HANE-n27",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 207,
+			"Interval": [65.99111111,65.99111111],
+			"Label": "2. HANE-n28",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 208,
+			"Interval": [66.03755102,66.40907029],
+			"Label": "2. HANE-n29",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 209,
+			"Interval": [66.50195011,66.78058957],
+			"Label": "2. HANE-n30",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 210,
+			"Interval": [66.82702948,68.08090703],
+			"Label": "2. HANE-n31",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 211,
+			"Interval": [68.17378685,69.70630385],
+			"Label": "2. HANE-n32",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 212,
+			"Interval": [69.75274376,69.98494331],
+			"Label": "2. HANE-n33",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 213,
+			"Interval": [70.03138322,70.4493424],
+			"Label": "2. HANE-n34",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 214,
+			"Interval": [70.49578231,70.49578231],
+			"Label": "2. HANE-n35",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 215,
+			"Interval": [70.54222222,70.63510204],
+			"Label": "2. HANE-n36",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 216,
+			"Interval": [70.72798186,70.9137415],
+			"Label": "2. HANE-n37",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 217,
+			"Interval": [70.96018141,71.37814059],
+			"Label": "2. HANE-n38",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 218,
+			"Interval": [71.4245805,71.79609977],
+			"Label": "2. HANE-n39",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 219,
+			"Interval": [72.02829932,72.9106576],
+			"Label": "2. HANE-n40",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 220,
+			"Interval": [73.00353741,73.23573696],
+			"Label": "2. HANE-n41",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 221,
+			"Interval": [73.28217687,74.02521542],
+			"Label": "2. HANE-n42",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 222,
+			"Interval": [74.07165533,74.21097506],
+			"Label": "2. HANE-n43",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 223,
+			"Interval": [74.30385488,74.53605442],
+			"Label": "2. HANE-n44",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 224,
+			"Interval": [74.58249433,74.95401361],
+			"Label": "2. HANE-n45",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 225,
+			"Interval": [75.04689342,75.60417234],
+			"Label": "2. HANE-n46",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 226,
+			"Interval": [75.69705215,76.25433107],
+			"Label": "2. HANE-n47",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 227,
+			"Interval": [76.34721088,76.57941043],
+			"Label": "2. HANE-n48",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 228,
+			"Interval": [76.76517007,76.85804989],
+			"Label": "2. HANE-n49",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 229,
+			"Interval": [76.9044898,77.04380952],
+			"Label": "2. HANE-n50",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 230,
+			"Interval": [77.09024943,78.85496599],
+			"Label": "2. HANE-n51",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 231,
+			"Interval": [78.9478458,79.55156463],
+			"Label": "2. HANE-n52",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 232,
+			"Interval": [79.64444444,79.73732426],
+			"Label": "2. HANE-n53",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 233,
+			"Interval": [79.87664399,79.87664399],
+			"Label": "2. HANE-n54",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 234,
+			"Interval": [79.9230839,80.06240363],
+			"Label": "2. HANE-n55",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 235,
+			"Interval": [80.15528345,81.26984127],
+			"Label": "2. HANE-n56",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 236,
+			"Interval": [81.31628118,81.54848073],
+			"Label": "2. HANE-n57",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 237,
+			"Interval": [81.64136054,81.92],
+			"Label": "2. HANE-n58",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 238,
+			"Interval": [81.96643991,82.10575964],
+			"Label": "2. HANE-n59",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 239,
+			"Interval": [82.15219955,82.24507937],
+			"Label": "2. HANE-n60",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 240,
+			"Interval": [82.29151927,82.941678],
+			"Label": "2. HANE-n61",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 241,
+			"Interval": [82.98811791,82.98811791],
+			"Label": "2. HANE-n62",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A5",
+			"IndexInScore": 242,
+			"Interval": [83.03455782,83.12743764],
+			"Label": "2. HANE-n63",
+			"PitchHeight": {
+				"Value": 53,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 67,
+			"Interval": [84.10267574,84.14911565],
+			"Label": "MULAZIME-n1",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 68,
+			"Interval": [84.19555556,84.47419501],
+			"Label": "MULAZIME-n2",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 69,
+			"Interval": [84.52063492,84.9385941],
+			"Label": "MULAZIME-n3",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 70,
+			"Interval": [84.98503401,85.35655329],
+			"Label": "MULAZIME-n4",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 71,
+			"Interval": [85.4029932,85.54231293],
+			"Label": "MULAZIME-n5",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 72,
+			"Interval": [85.77451247,85.86739229],
+			"Label": "MULAZIME-n6",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 73,
+			"Interval": [85.9138322,86.00671202],
+			"Label": "MULAZIME-n7",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 74,
+			"Interval": [86.14603175,87.07482993],
+			"Label": "MULAZIME-n8",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "Rest",
+			"IndexInScore": 75,
+			"Interval": [87.16770975,87.07482993],
+			"Label": "MULAZIME-n9",
+			"PitchHeight": {
+				"Value": "_NaN_",
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 76,
+			"Interval": [87.16770975,87.3999093],
+			"Label": "MULAZIME-n10",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 77,
+			"Interval": [87.44634921,87.63210884],
+			"Label": "MULAZIME-n11",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 78,
+			"Interval": [87.67854875,87.95718821],
+			"Label": "MULAZIME-n12",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 79,
+			"Interval": [88.00362812,88.14294785],
+			"Label": "MULAZIME-n13",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 80,
+			"Interval": [88.23582766,88.70022676],
+			"Label": "MULAZIME-n14",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 81,
+			"Interval": [88.74666667,88.83954649],
+			"Label": "MULAZIME-n15",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 82,
+			"Interval": [88.88598639,89.21106576],
+			"Label": "MULAZIME-n16",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 83,
+			"Interval": [89.25750567,89.35038549],
+			"Label": "MULAZIME-n17",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 84,
+			"Interval": [89.44326531,89.76834467],
+			"Label": "MULAZIME-n18",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 85,
+			"Interval": [89.86122449,89.86122449],
+			"Label": "MULAZIME-n19",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 86,
+			"Interval": [89.9076644,89.95410431],
+			"Label": "MULAZIME-n20",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 87,
+			"Interval": [90.00054422,90.4185034],
+			"Label": "MULAZIME-n21",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 88,
+			"Interval": [90.46494331,90.69714286],
+			"Label": "MULAZIME-n22",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 89,
+			"Interval": [90.74358277,92.04390023],
+			"Label": "MULAZIME-n23",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "Rest",
+			"IndexInScore": 90,
+			"Interval": [92.13678005,92.04390023],
+			"Label": "MULAZIME-n24",
+			"PitchHeight": {
+				"Value": "_NaN_",
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 91,
+			"Interval": [92.13678005,92.50829932],
+			"Label": "MULAZIME-n25",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 92,
+			"Interval": [92.60117914,92.9262585],
+			"Label": "MULAZIME-n26",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 93,
+			"Interval": [92.97269841,92.97269841],
+			"Label": "MULAZIME-n27",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 94,
+			"Interval": [93.06557823,93.57641723],
+			"Label": "MULAZIME-n28",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 95,
+			"Interval": [93.62285714,93.62285714],
+			"Label": "MULAZIME-n29",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 96,
+			"Interval": [93.66929705,93.71573696],
+			"Label": "MULAZIME-n30",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 97,
+			"Interval": [93.76217687,93.94793651],
+			"Label": "MULAZIME-n31",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 98,
+			"Interval": [94.04081633,94.36589569],
+			"Label": "MULAZIME-n32",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 99,
+			"Interval": [94.4123356,94.73741497],
+			"Label": "MULAZIME-n33",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 100,
+			"Interval": [94.78385488,95.20181406],
+			"Label": "MULAZIME-n34",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 101,
+			"Interval": [95.24825397,95.43401361],
+			"Label": "MULAZIME-n35",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 102,
+			"Interval": [95.52689342,95.66621315],
+			"Label": "MULAZIME-n36",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 103,
+			"Interval": [95.75909297,97.19873016],
+			"Label": "MULAZIME-n37",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "Rest",
+			"IndexInScore": 104,
+			"Interval": [97.29160998,97.19873016],
+			"Label": "MULAZIME-n38",
+			"PitchHeight": {
+				"Value": "_NaN_",
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 105,
+			"Interval": [97.29160998,97.80244898],
+			"Label": "MULAZIME-n39",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 106,
+			"Interval": [97.8953288,97.8953288],
+			"Label": "MULAZIME-n40",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 107,
+			"Interval": [97.94176871,98.03464853],
+			"Label": "MULAZIME-n41",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 108,
+			"Interval": [98.12752834,98.26684807],
+			"Label": "MULAZIME-n42",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 109,
+			"Interval": [98.31328798,98.45260771],
+			"Label": "MULAZIME-n43",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 110,
+			"Interval": [98.54548753,98.63836735],
+			"Label": "MULAZIME-n44",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 111,
+			"Interval": [98.73124717,98.82412698],
+			"Label": "MULAZIME-n45",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 112,
+			"Interval": [98.87056689,99.14920635],
+			"Label": "MULAZIME-n46",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 113,
+			"Interval": [99.33496599,100.1708844],
+			"Label": "MULAZIME-n47",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 114,
+			"Interval": [100.2637642,100.867483],
+			"Label": "MULAZIME-n48",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 115,
+			"Interval": [100.9603628,101.2854422],
+			"Label": "MULAZIME-n49",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 116,
+			"Interval": [101.378322,101.4712018],
+			"Label": "MULAZIME-n50",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 117,
+			"Interval": [101.5640816,101.7498413],
+			"Label": "MULAZIME-n51",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 118,
+			"Interval": [101.7962812,102.0284807],
+			"Label": "MULAZIME-n52",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 119,
+			"Interval": [102.1213605,102.3071202],
+			"Label": "MULAZIME-n53",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 120,
+			"Interval": [102.4,102.6786395],
+			"Label": "MULAZIME-n54",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 121,
+			"Interval": [102.7715193,104.1647166],
+			"Label": "MULAZIME-n55",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 122,
+			"Interval": [104.2575964,104.2575964],
+			"Label": "MULAZIME-n56",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A5",
+			"IndexInScore": 123,
+			"Interval": [104.3040363,104.3040363],
+			"Label": "MULAZIME-n57",
+			"PitchHeight": {
+				"Value": 53,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 356,
+			"Interval": [104.5826757,105.6043537],
+			"Label": "3. HANE-n1",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A5",
+			"IndexInScore": 357,
+			"Interval": [105.6507937,106.1151927],
+			"Label": "3. HANE-n2",
+			"PitchHeight": {
+				"Value": 53,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 358,
+			"Interval": [106.1616327,106.3473923],
+			"Label": "3. HANE-n3",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5#4",
+			"IndexInScore": 359,
+			"Interval": [106.3938322,106.486712],
+			"Label": "3. HANE-n4",
+			"PitchHeight": {
+				"Value": 39,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 360,
+			"Interval": [106.5795918,107.0439909],
+			"Label": "3. HANE-n5",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5#4",
+			"IndexInScore": 361,
+			"Interval": [107.1368707,107.6477098],
+			"Label": "3. HANE-n6",
+			"PitchHeight": {
+				"Value": 39,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 362,
+			"Interval": [107.6941497,108.0656689],
+			"Label": "3. HANE-n7",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A5",
+			"IndexInScore": 363,
+			"Interval": [108.1585488,109.1802268],
+			"Label": "3. HANE-n8",
+			"PitchHeight": {
+				"Value": 53,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 364,
+			"Interval": [109.2731066,109.7375057],
+			"Label": "3. HANE-n9",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 365,
+			"Interval": [109.8303855,110.062585],
+			"Label": "3. HANE-n10",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 366,
+			"Interval": [110.1554649,110.7127438],
+			"Label": "3. HANE-n11",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 367,
+			"Interval": [110.8056236,111.1771429],
+			"Label": "3. HANE-n12",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 368,
+			"Interval": [111.2700227,111.5022222],
+			"Label": "3. HANE-n13",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 369,
+			"Interval": [111.595102,112.0130612],
+			"Label": "3. HANE-n14",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 370,
+			"Interval": [112.0595011,112.152381],
+			"Label": "3. HANE-n15",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 371,
+			"Interval": [112.1988209,112.61678],
+			"Label": "3. HANE-n16",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 372,
+			"Interval": [112.7096599,112.8025397],
+			"Label": "3. HANE-n17",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 373,
+			"Interval": [112.8954195,113.2204989],
+			"Label": "3. HANE-n18",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 374,
+			"Interval": [113.3133787,114.8458957],
+			"Label": "3. HANE-n19",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "Rest",
+			"IndexInScore": 375,
+			"Interval": [114.9852154,114.9852154],
+			"Label": "3. HANE-n20",
+			"PitchHeight": {
+				"Value": "_NaN_",
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C6",
+			"IndexInScore": 376,
+			"Interval": [115.0316553,115.3567347],
+			"Label": "3. HANE-n21",
+			"PitchHeight": {
+				"Value": 66,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B5b1",
+			"IndexInScore": 377,
+			"Interval": [115.4960544,115.7746939],
+			"Label": "3. HANE-n22",
+			"PitchHeight": {
+				"Value": 61,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A5",
+			"IndexInScore": 378,
+			"Interval": [115.9140136,116.3784127],
+			"Label": "3. HANE-n23",
+			"PitchHeight": {
+				"Value": 53,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 379,
+			"Interval": [116.4712925,116.8428118],
+			"Label": "3. HANE-n24",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5#4",
+			"IndexInScore": 380,
+			"Interval": [116.9356916,117.4465306],
+			"Label": "3. HANE-n25",
+			"PitchHeight": {
+				"Value": 39,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B5b1",
+			"IndexInScore": 381,
+			"Interval": [117.4929705,117.7251701],
+			"Label": "3. HANE-n26",
+			"PitchHeight": {
+				"Value": 61,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A5",
+			"IndexInScore": 382,
+			"Interval": [117.77161,117.8644898],
+			"Label": "3. HANE-n27",
+			"PitchHeight": {
+				"Value": 53,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 383,
+			"Interval": [117.9109297,118.0038095],
+			"Label": "3. HANE-n28",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5#4",
+			"IndexInScore": 384,
+			"Interval": [118.0966893,118.282449],
+			"Label": "3. HANE-n29",
+			"PitchHeight": {
+				"Value": 39,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 385,
+			"Interval": [118.4217687,119.3505669],
+			"Label": "3. HANE-n30",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5#4",
+			"IndexInScore": 386,
+			"Interval": [119.4898866,119.8614059],
+			"Label": "3. HANE-n31",
+			"PitchHeight": {
+				"Value": 39,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 387,
+			"Interval": [119.9542857,120.9295238],
+			"Label": "3. HANE-n32",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 388,
+			"Interval": [121.0224036,121.5796825],
+			"Label": "3. HANE-n33",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5#4",
+			"IndexInScore": 389,
+			"Interval": [121.6725624,121.9512018],
+			"Label": "3. HANE-n34",
+			"PitchHeight": {
+				"Value": 39,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A5",
+			"IndexInScore": 390,
+			"Interval": [122.0440816,122.4156009],
+			"Label": "3. HANE-n35",
+			"PitchHeight": {
+				"Value": 53,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 391,
+			"Interval": [122.5084807,123.0193197],
+			"Label": "3. HANE-n36",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5#4",
+			"IndexInScore": 392,
+			"Interval": [123.1121995,124.0409977],
+			"Label": "3. HANE-n37",
+			"PitchHeight": {
+				"Value": 39,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5#4",
+			"IndexInScore": 393,
+			"Interval": [124.0874376,124.0874376],
+			"Label": "3. HANE-n38",
+			"PitchHeight": {
+				"Value": 39,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 394,
+			"Interval": [124.1338776,124.412517],
+			"Label": "3. HANE-n39",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 395,
+			"Interval": [124.5053968,124.923356],
+			"Label": "3. HANE-n40",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 396,
+			"Interval": [125.0162358,126.0379138],
+			"Label": "3. HANE-n41",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 397,
+			"Interval": [126.1307937,126.5487528],
+			"Label": "3. HANE-n42",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5#4",
+			"IndexInScore": 398,
+			"Interval": [126.5951927,127.0595918],
+			"Label": "3. HANE-n43",
+			"PitchHeight": {
+				"Value": 39,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 399,
+			"Interval": [127.1060317,127.5239909],
+			"Label": "3. HANE-n44",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 400,
+			"Interval": [127.6168707,128.0348299],
+			"Label": "3. HANE-n45",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 401,
+			"Interval": [128.1277098,128.7314286],
+			"Label": "3. HANE-n46",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 402,
+			"Interval": [128.7778685,128.7778685],
+			"Label": "3. HANE-n47",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 403,
+			"Interval": [128.8707483,129.0565079],
+			"Label": "3. HANE-n48",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 404,
+			"Interval": [129.1493878,129.5673469],
+			"Label": "3. HANE-n49",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 405,
+			"Interval": [129.6602268,130.031746],
+			"Label": "3. HANE-n50",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 406,
+			"Interval": [130.1246259,130.3103855],
+			"Label": "3. HANE-n51",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 407,
+			"Interval": [130.3568254,130.9605442],
+			"Label": "3. HANE-n52",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 408,
+			"Interval": [131.0069841,131.0069841],
+			"Label": "3. HANE-n53",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 409,
+			"Interval": [131.0998639,131.5178231],
+			"Label": "3. HANE-n54",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 410,
+			"Interval": [131.6107029,132.2608617],
+			"Label": "3. HANE-n55",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 411,
+			"Interval": [132.3537415,132.4001814],
+			"Label": "3. HANE-n56",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 412,
+			"Interval": [132.4466213,132.9110204],
+			"Label": "3. HANE-n57",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 413,
+			"Interval": [132.9574603,133.0503401],
+			"Label": "3. HANE-n58",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 414,
+			"Interval": [133.09678,133.2825397],
+			"Label": "3. HANE-n59",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 415,
+			"Interval": [133.3289796,133.607619],
+			"Label": "3. HANE-n60",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 416,
+			"Interval": [133.7004989,134.6292971],
+			"Label": "3. HANE-n61",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 417,
+			"Interval": [134.7221769,134.9543764],
+			"Label": "3. HANE-n62",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A5",
+			"IndexInScore": 418,
+			"Interval": [135.0472562,135.2330159],
+			"Label": "3. HANE-n63",
+			"PitchHeight": {
+				"Value": 53,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 67,
+			"Interval": [135.6509751,135.7438549],
+			"Label": "MULAZIME-n1",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 68,
+			"Interval": [135.7902948,135.8831746],
+			"Label": "MULAZIME-n2",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 69,
+			"Interval": [135.9296145,136.3011338],
+			"Label": "MULAZIME-n3",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 70,
+			"Interval": [136.3475737,136.4868934],
+			"Label": "MULAZIME-n4",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 71,
+			"Interval": [136.5797732,136.7655329],
+			"Label": "MULAZIME-n5",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 72,
+			"Interval": [136.8119728,136.9977324],
+			"Label": "MULAZIME-n6",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 73,
+			"Interval": [137.0906122,137.2763719],
+			"Label": "MULAZIME-n7",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 74,
+			"Interval": [137.3692517,138.2980499],
+			"Label": "MULAZIME-n8",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "Rest",
+			"IndexInScore": 75,
+			"Interval": [138.3909297,138.3909297],
+			"Label": "MULAZIME-n9",
+			"PitchHeight": {
+				"Value": "_NaN_",
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 76,
+			"Interval": [138.4373696,138.6231293],
+			"Label": "MULAZIME-n10",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 77,
+			"Interval": [138.6695692,139.0875283],
+			"Label": "MULAZIME-n11",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 78,
+			"Interval": [139.1804082,139.1804082],
+			"Label": "MULAZIME-n12",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 79,
+			"Interval": [139.2268481,139.3197279],
+			"Label": "MULAZIME-n13",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 80,
+			"Interval": [139.4126077,139.9234467],
+			"Label": "MULAZIME-n14",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 81,
+			"Interval": [139.9698866,140.0627664],
+			"Label": "MULAZIME-n15",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 82,
+			"Interval": [140.2020862,140.5736054],
+			"Label": "MULAZIME-n16",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 83,
+			"Interval": [140.6200454,140.6200454],
+			"Label": "MULAZIME-n17",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 84,
+			"Interval": [140.6664853,140.805805],
+			"Label": "MULAZIME-n18",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 85,
+			"Interval": [140.8522449,141.0380045],
+			"Label": "MULAZIME-n19",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 86,
+			"Interval": [141.0844444,141.2702041],
+			"Label": "MULAZIME-n20",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 87,
+			"Interval": [141.3630839,141.6881633],
+			"Label": "MULAZIME-n21",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 88,
+			"Interval": [141.7346032,141.827483],
+			"Label": "MULAZIME-n22",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 89,
+			"Interval": [141.9203628,143.2206803],
+			"Label": "MULAZIME-n23",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "Rest",
+			"IndexInScore": 90,
+			"Interval": [143.3135601,143.2206803],
+			"Label": "MULAZIME-n24",
+			"PitchHeight": {
+				"Value": "_NaN_",
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 91,
+			"Interval": [143.3135601,143.9172789],
+			"Label": "MULAZIME-n25",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 92,
+			"Interval": [143.9637188,143.9637188],
+			"Label": "MULAZIME-n26",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 93,
+			"Interval": [144.0101587,144.1959184],
+			"Label": "MULAZIME-n27",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 94,
+			"Interval": [144.2887982,144.4745578],
+			"Label": "MULAZIME-n28",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 95,
+			"Interval": [144.5209977,144.7996372],
+			"Label": "MULAZIME-n29",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 96,
+			"Interval": [144.8460771,144.892517],
+			"Label": "MULAZIME-n30",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 97,
+			"Interval": [144.9853968,145.3104762],
+			"Label": "MULAZIME-n31",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 98,
+			"Interval": [145.403356,145.4962358],
+			"Label": "MULAZIME-n32",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 99,
+			"Interval": [145.5426757,146.2392744],
+			"Label": "MULAZIME-n33",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 100,
+			"Interval": [146.2857143,146.425034],
+			"Label": "MULAZIME-n34",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 101,
+			"Interval": [146.5179138,146.7501134],
+			"Label": "MULAZIME-n35",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 102,
+			"Interval": [146.8429932,147.0287528],
+			"Label": "MULAZIME-n36",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 103,
+			"Interval": [147.0751927,148.5612698],
+			"Label": "MULAZIME-n37",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "Rest",
+			"IndexInScore": 104,
+			"Interval": [148.6541497,148.5612698],
+			"Label": "MULAZIME-n38",
+			"PitchHeight": {
+				"Value": "_NaN_",
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 105,
+			"Interval": [148.6541497,148.8399093],
+			"Label": "MULAZIME-n39",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 106,
+			"Interval": [148.9327891,149.2578685],
+			"Label": "MULAZIME-n40",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 107,
+			"Interval": [149.3043084,149.3971882],
+			"Label": "MULAZIME-n41",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 108,
+			"Interval": [149.490068,149.5829478],
+			"Label": "MULAZIME-n42",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 109,
+			"Interval": [149.6293878,149.7222676],
+			"Label": "MULAZIME-n43",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 110,
+			"Interval": [149.8151474,150.0473469],
+			"Label": "MULAZIME-n44",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 111,
+			"Interval": [150.0937868,150.1866667],
+			"Label": "MULAZIME-n45",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 112,
+			"Interval": [150.2795465,150.4653061],
+			"Label": "MULAZIME-n46",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 113,
+			"Interval": [150.6510658,151.6727438],
+			"Label": "MULAZIME-n47",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 114,
+			"Interval": [151.7191837,152.1835828],
+			"Label": "MULAZIME-n48",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 115,
+			"Interval": [152.2764626,152.8337415],
+			"Label": "MULAZIME-n49",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 116,
+			"Interval": [152.8801814,152.9266213],
+			"Label": "MULAZIME-n50",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 117,
+			"Interval": [152.9730612,153.065941],
+			"Label": "MULAZIME-n51",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 118,
+			"Interval": [153.112381,153.5303401],
+			"Label": "MULAZIME-n52",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 119,
+			"Interval": [153.57678,153.6696599],
+			"Label": "MULAZIME-n53",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 120,
+			"Interval": [153.7625397,154.2269388],
+			"Label": "MULAZIME-n54",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 121,
+			"Interval": [154.3198186,155.2021769],
+			"Label": "MULAZIME-n55",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 122,
+			"Interval": [155.2950567,155.2021769],
+			"Label": "MULAZIME-n56",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A5",
+			"IndexInScore": 123,
+			"Interval": [155.2950567,155.2950567],
+			"Label": "MULAZIME-n57",
+			"PitchHeight": {
+				"Value": 53,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 533,
+			"Interval": [156.7811338,157.199093],
+			"Label": "4. HANE-n1",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 534,
+			"Interval": [157.2455329,157.6170522],
+			"Label": "4. HANE-n2",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 535,
+			"Interval": [157.6634921,157.9421315],
+			"Label": "4. HANE-n3",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 536,
+			"Interval": [158.0350113,158.0350113],
+			"Label": "4. HANE-n4",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 537,
+			"Interval": [158.1278912,158.2672109],
+			"Label": "4. HANE-n5",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 538,
+			"Interval": [158.4065306,158.5922902],
+			"Label": "4. HANE-n6",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 539,
+			"Interval": [158.6851701,158.9638095],
+			"Label": "4. HANE-n7",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 540,
+			"Interval": [159.0102494,159.9390476],
+			"Label": "4. HANE-n8",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 541,
+			"Interval": [160.0319274,160.6356463],
+			"Label": "4. HANE-n9",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 542,
+			"Interval": [160.7285261,160.8678458],
+			"Label": "4. HANE-n10",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 543,
+			"Interval": [160.9607256,161.1929252],
+			"Label": "4. HANE-n11",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 544,
+			"Interval": [161.3786848,161.5180045],
+			"Label": "4. HANE-n12",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 545,
+			"Interval": [161.6108844,161.9824036],
+			"Label": "4. HANE-n13",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 546,
+			"Interval": [162.0752834,162.0752834],
+			"Label": "4. HANE-n14",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 547,
+			"Interval": [162.1681633,162.3539229],
+			"Label": "4. HANE-n15",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 548,
+			"Interval": [162.4468027,162.7718821],
+			"Label": "4. HANE-n16",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 549,
+			"Interval": [162.8647619,163.1898413],
+			"Label": "4. HANE-n17",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 550,
+			"Interval": [163.2362812,163.7471202],
+			"Label": "4. HANE-n18",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 551,
+			"Interval": [163.84,164.4437188],
+			"Label": "4. HANE-n19",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 552,
+			"Interval": [164.4901587,164.6759184],
+			"Label": "4. HANE-n20",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 553,
+			"Interval": [164.7687982,165.0474376],
+			"Label": "4. HANE-n21",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A5",
+			"IndexInScore": 554,
+			"Interval": [165.1403175,165.2796372],
+			"Label": "4. HANE-n22",
+			"PitchHeight": {
+				"Value": 53,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 555,
+			"Interval": [165.372517,165.6511565],
+			"Label": "4. HANE-n23",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 556,
+			"Interval": [165.6975964,165.9762358],
+			"Label": "4. HANE-n24",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 557,
+			"Interval": [166.0226757,166.2084354],
+			"Label": "4. HANE-n25",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 558,
+			"Interval": [166.2548753,166.4406349],
+			"Label": "4. HANE-n26",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 559,
+			"Interval": [166.5335147,166.9514739],
+			"Label": "4. HANE-n27",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 560,
+			"Interval": [166.9979138,167.0443537],
+			"Label": "4. HANE-n28",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 561,
+			"Interval": [167.2301134,167.5551927],
+			"Label": "4. HANE-n29",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 562,
+			"Interval": [167.6480726,167.8338322],
+			"Label": "4. HANE-n30",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 563,
+			"Interval": [167.926712,168.2053515],
+			"Label": "4. HANE-n31",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 564,
+			"Interval": [168.2517914,168.3911111],
+			"Label": "4. HANE-n32",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 565,
+			"Interval": [168.437551,168.6233107],
+			"Label": "4. HANE-n33",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 566,
+			"Interval": [168.6697506,168.7161905],
+			"Label": "4. HANE-n34",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 567,
+			"Interval": [168.7626304,169.1805896],
+			"Label": "4. HANE-n35",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 568,
+			"Interval": [169.3199093,169.5056689],
+			"Label": "4. HANE-n36",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 569,
+			"Interval": [169.5521088,169.970068],
+			"Label": "4. HANE-n37",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 570,
+			"Interval": [170.0629478,170.0629478],
+			"Label": "4. HANE-n38",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 571,
+			"Interval": [170.1558277,170.2951474],
+			"Label": "4. HANE-n39",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 572,
+			"Interval": [170.3880272,170.4344671],
+			"Label": "4. HANE-n40",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 573,
+			"Interval": [170.480907,171.7812245],
+			"Label": "4. HANE-n41",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 574,
+			"Interval": [171.8276644,172.3385034],
+			"Label": "4. HANE-n42",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 575,
+			"Interval": [172.3849433,172.5707029],
+			"Label": "4. HANE-n43",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 576,
+			"Interval": [172.6171429,172.8029025],
+			"Label": "4. HANE-n44",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 577,
+			"Interval": [172.8957823,173.035102],
+			"Label": "4. HANE-n45",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 578,
+			"Interval": [173.081542,173.2208617],
+			"Label": "4. HANE-n46",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 579,
+			"Interval": [173.3137415,173.7317007],
+			"Label": "4. HANE-n47",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 580,
+			"Interval": [173.8245805,174.3354195],
+			"Label": "4. HANE-n48",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 581,
+			"Interval": [174.4282993,175.635737],
+			"Label": "4. HANE-n49",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 582,
+			"Interval": [175.7286168,176.0536961],
+			"Label": "4. HANE-n50",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 583,
+			"Interval": [176.1001361,176.1930159],
+			"Label": "4. HANE-n51",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 584,
+			"Interval": [176.2394558,176.3787755],
+			"Label": "4. HANE-n52",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 585,
+			"Interval": [176.4716553,176.9360544],
+			"Label": "4. HANE-n53",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 586,
+			"Interval": [177.0289342,177.0289342],
+			"Label": "4. HANE-n54",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 587,
+			"Interval": [177.1218141,177.5862132],
+			"Label": "4. HANE-n55",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 588,
+			"Interval": [177.6326531,177.8648526],
+			"Label": "4. HANE-n56",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 589,
+			"Interval": [178.0041723,178.0041723],
+			"Label": "4. HANE-n57",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 590,
+			"Interval": [178.0506122,178.5150113],
+			"Label": "4. HANE-n58",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 591,
+			"Interval": [178.5614512,178.9329705],
+			"Label": "4. HANE-n59",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 592,
+			"Interval": [179.0258503,179.6760091],
+			"Label": "4. HANE-n60",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 593,
+			"Interval": [179.722449,179.7688889],
+			"Label": "4. HANE-n61",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 594,
+			"Interval": [179.8617687,180.0939683],
+			"Label": "4. HANE-n62",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A5",
+			"IndexInScore": 595,
+			"Interval": [180.233288,180.6512472],
+			"Label": "4. HANE-n63",
+			"PitchHeight": {
+				"Value": 53,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 596,
+			"Interval": [180.744127,180.744127],
+			"Label": "4. HANE-n64",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 597,
+			"Interval": [180.8370068,181.0692063],
+			"Label": "4. HANE-n65",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 598,
+			"Interval": [181.1156463,181.3014059],
+			"Label": "4. HANE-n66",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 599,
+			"Interval": [181.3942857,181.4871655],
+			"Label": "4. HANE-n67",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 600,
+			"Interval": [181.5336054,181.9515646],
+			"Label": "4. HANE-n68",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 601,
+			"Interval": [182.0908844,182.1373243],
+			"Label": "4. HANE-n69",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 602,
+			"Interval": [182.3695238,182.6481633],
+			"Label": "4. HANE-n70",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 603,
+			"Interval": [182.6946032,182.9268027],
+			"Label": "4. HANE-n71",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 604,
+			"Interval": [183.0196825,183.3912018],
+			"Label": "4. HANE-n72",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 605,
+			"Interval": [183.4840816,183.9020408],
+			"Label": "4. HANE-n73",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 606,
+			"Interval": [183.9484807,183.9484807],
+			"Label": "4. HANE-n74",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 607,
+			"Interval": [183.9949206,183.9949206],
+			"Label": "4. HANE-n75",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 608,
+			"Interval": [184.0413605,184.4128798],
+			"Label": "4. HANE-n76",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 609,
+			"Interval": [184.5057596,184.7843991],
+			"Label": "4. HANE-n77",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 610,
+			"Interval": [184.8772789,185.0630385],
+			"Label": "4. HANE-n78",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 611,
+			"Interval": [185.1559184,185.2023583],
+			"Label": "4. HANE-n79",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 612,
+			"Interval": [185.2487982,185.3881179],
+			"Label": "4. HANE-n80",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 613,
+			"Interval": [185.4345578,185.6203175],
+			"Label": "4. HANE-n81",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 614,
+			"Interval": [185.6667574,186.9670748],
+			"Label": "4. HANE-n82",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A5",
+			"IndexInScore": 615,
+			"Interval": [187.0135147,187.5243537],
+			"Label": "4. HANE-n83",
+			"PitchHeight": {
+				"Value": 53,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 616,
+			"Interval": [187.5707937,188.1280726],
+			"Label": "4. HANE-n84",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 617,
+			"Interval": [188.2209524,188.2209524],
+			"Label": "4. HANE-n85",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 618,
+			"Interval": [188.2673923,188.2673923],
+			"Label": "4. HANE-n86",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 619,
+			"Interval": [188.3138322,188.8246712],
+			"Label": "4. HANE-n87",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 620,
+			"Interval": [188.917551,189.1033107],
+			"Label": "4. HANE-n88",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 621,
+			"Interval": [189.1497506,189.2426304],
+			"Label": "4. HANE-n89",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 622,
+			"Interval": [189.2890703,189.4748299],
+			"Label": "4. HANE-n90",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 623,
+			"Interval": [189.5212698,189.5677098],
+			"Label": "4. HANE-n91",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 624,
+			"Interval": [189.6141497,190.4965079],
+			"Label": "4. HANE-n92",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 625,
+			"Interval": [190.5429478,190.5429478],
+			"Label": "4. HANE-n93",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 626,
+			"Interval": [190.5893878,191.2395465],
+			"Label": "4. HANE-n94",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 627,
+			"Interval": [191.3788662,191.4253061],
+			"Label": "4. HANE-n95",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 628,
+			"Interval": [191.471746,191.8897052],
+			"Label": "4. HANE-n96",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 629,
+			"Interval": [191.982585,192.0290249],
+			"Label": "4. HANE-n97",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 630,
+			"Interval": [192.0754649,192.2612245],
+			"Label": "4. HANE-n98",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 631,
+			"Interval": [192.3076644,192.493424],
+			"Label": "4. HANE-n99",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 632,
+			"Interval": [192.6327438,192.8649433],
+			"Label": "4. HANE-n100",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 633,
+			"Interval": [192.9113832,193.004263],
+			"Label": "4. HANE-n101",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 634,
+			"Interval": [193.1900227,193.2364626],
+			"Label": "4. HANE-n102",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 635,
+			"Interval": [193.3293424,193.7937415],
+			"Label": "4. HANE-n103",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "Rest",
+			"IndexInScore": 636,
+			"Interval": [193.8866213,193.7937415],
+			"Label": "4. HANE-n104",
+			"PitchHeight": {
+				"Value": "_NaN_",
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 637,
+			"Interval": [193.8866213,194.3974603],
+			"Label": "4. HANE-n105",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 638,
+			"Interval": [194.4903401,195.094059],
+			"Label": "4. HANE-n106",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 639,
+			"Interval": [195.1404989,195.3262585],
+			"Label": "4. HANE-n107",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 640,
+			"Interval": [195.3726984,195.558458],
+			"Label": "4. HANE-n108",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 641,
+			"Interval": [195.604898,195.6977778],
+			"Label": "4. HANE-n109",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 642,
+			"Interval": [195.7442177,196.1621769],
+			"Label": "4. HANE-n110",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 643,
+			"Interval": [196.2086168,196.5336961],
+			"Label": "4. HANE-n111",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 644,
+			"Interval": [196.5801361,196.8123356],
+			"Label": "4. HANE-n112",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 645,
+			"Interval": [196.8587755,197.3231746],
+			"Label": "4. HANE-n113",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 646,
+			"Interval": [197.3696145,197.648254],
+			"Label": "4. HANE-n114",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 647,
+			"Interval": [197.6946939,197.9268934],
+			"Label": "4. HANE-n115",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 648,
+			"Interval": [197.9733333,198.159093],
+			"Label": "4. HANE-n116",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 649,
+			"Interval": [198.2055329,198.4377324],
+			"Label": "4. HANE-n117",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 650,
+			"Interval": [198.5770522,199.0878912],
+			"Label": "4. HANE-n118",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 651,
+			"Interval": [199.1343311,199.1343311],
+			"Label": "4. HANE-n119",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 652,
+			"Interval": [199.180771,199.180771],
+			"Label": "4. HANE-n120",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 653,
+			"Interval": [199.2272109,199.6451701],
+			"Label": "4. HANE-n121",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 654,
+			"Interval": [199.7380499,199.7844898],
+			"Label": "4. HANE-n122",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 655,
+			"Interval": [199.8309297,199.8773696],
+			"Label": "4. HANE-n123",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 656,
+			"Interval": [199.9702494,200.1560091],
+			"Label": "4. HANE-n124",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 657,
+			"Interval": [200.2488889,200.4810884],
+			"Label": "4. HANE-n125",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 658,
+			"Interval": [200.5739683,201.1776871],
+			"Label": "4. HANE-n126",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 659,
+			"Interval": [201.224127,201.224127],
+			"Label": "4. HANE-n127",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A5",
+			"IndexInScore": 660,
+			"Interval": [201.3170068,201.9671655],
+			"Label": "4. HANE-n128",
+			"PitchHeight": {
+				"Value": 53,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A5",
+			"IndexInScore": 661,
+			"Interval": [202.0136054,202.3386848],
+			"Label": "4. HANE-n129",
+			"PitchHeight": {
+				"Value": 53,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 662,
+			"Interval": [202.4780045,202.5244444],
+			"Label": "4. HANE-n130",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 663,
+			"Interval": [202.5708844,202.9424036],
+			"Label": "4. HANE-n131",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 664,
+			"Interval": [203.0352834,203.3139229],
+			"Label": "4. HANE-n132",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 665,
+			"Interval": [203.4068027,203.9176417],
+			"Label": "4. HANE-n133",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 666,
+			"Interval": [204.0105215,204.0569615],
+			"Label": "4. HANE-n134",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 667,
+			"Interval": [204.1034014,204.289161],
+			"Label": "4. HANE-n135",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 668,
+			"Interval": [204.3356009,204.3820408],
+			"Label": "4. HANE-n136",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 669,
+			"Interval": [204.4749206,204.6142404],
+			"Label": "4. HANE-n137",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 670,
+			"Interval": [204.7071202,205.8681179],
+			"Label": "4. HANE-n138",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 671,
+			"Interval": [205.9609977,206.4718367],
+			"Label": "4. HANE-n139",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 672,
+			"Interval": [206.5647166,206.5647166],
+			"Label": "4. HANE-n140",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 673,
+			"Interval": [206.6111565,206.6111565],
+			"Label": "4. HANE-n141",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 674,
+			"Interval": [206.6575964,206.8897959],
+			"Label": "4. HANE-n142",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 675,
+			"Interval": [206.9826757,207.0291156],
+			"Label": "4. HANE-n143",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 676,
+			"Interval": [207.0755556,207.4935147],
+			"Label": "4. HANE-n144",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 677,
+			"Interval": [207.5863946,207.7721542],
+			"Label": "4. HANE-n145",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 678,
+			"Interval": [207.865034,208.2365533],
+			"Label": "4. HANE-n146",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 679,
+			"Interval": [208.2829932,208.3294331],
+			"Label": "4. HANE-n147",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 680,
+			"Interval": [208.4223129,208.6080726],
+			"Label": "4. HANE-n148",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 681,
+			"Interval": [208.6545125,209.6761905],
+			"Label": "4. HANE-n149",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "Rest",
+			"IndexInScore": 682,
+			"Interval": [209.7690703,209.6761905],
+			"Label": "4. HANE-n150",
+			"PitchHeight": {
+				"Value": "_NaN_",
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 683,
+			"Interval": [209.7690703,210.3727891],
+			"Label": "4. HANE-n151",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 684,
+			"Interval": [210.419229,210.419229],
+			"Label": "4. HANE-n152",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 685,
+			"Interval": [210.4656689,210.6049887],
+			"Label": "4. HANE-n153",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 686,
+			"Interval": [210.6978685,211.2087075],
+			"Label": "4. HANE-n154",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 687,
+			"Interval": [211.2551474,211.3480272],
+			"Label": "4. HANE-n155",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 688,
+			"Interval": [211.3944671,211.6266667],
+			"Label": "4. HANE-n156",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 689,
+			"Interval": [211.6731066,211.7659864],
+			"Label": "4. HANE-n157",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 690,
+			"Interval": [211.8588662,211.9981859],
+			"Label": "4. HANE-n158",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 691,
+			"Interval": [212.0910658,212.6019048],
+			"Label": "4. HANE-n159",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 692,
+			"Interval": [212.7412245,212.8805442],
+			"Label": "4. HANE-n160",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 693,
+			"Interval": [212.9269841,213.2985034],
+			"Label": "4. HANE-n161",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 694,
+			"Interval": [213.3913832,213.5307029],
+			"Label": "4. HANE-n162",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 695,
+			"Interval": [213.5771429,213.8557823],
+			"Label": "4. HANE-n163",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 696,
+			"Interval": [213.9486621,214.1344218],
+			"Label": "4. HANE-n164",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 697,
+			"Interval": [214.1808617,214.4595011],
+			"Label": "4. HANE-n165",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 698,
+			"Interval": [214.505941,214.5988209],
+			"Label": "4. HANE-n166",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 699,
+			"Interval": [214.6452608,214.9703401],
+			"Label": "4. HANE-n167",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 700,
+			"Interval": [215.01678,215.2025397],
+			"Label": "4. HANE-n168",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 701,
+			"Interval": [215.2954195,215.527619],
+			"Label": "4. HANE-n169",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 702,
+			"Interval": [215.6204989,215.8991383],
+			"Label": "4. HANE-n170",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 703,
+			"Interval": [215.9455782,216.038458],
+			"Label": "4. HANE-n171",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 704,
+			"Interval": [216.1313379,216.1777778],
+			"Label": "4. HANE-n172",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 705,
+			"Interval": [216.2242177,216.9672562],
+			"Label": "4. HANE-n173",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 706,
+			"Interval": [217.0136961,217.0136961],
+			"Label": "4. HANE-n174",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A5",
+			"IndexInScore": 707,
+			"Interval": [217.0601361,217.1994558],
+			"Label": "4. HANE-n175",
+			"PitchHeight": {
+				"Value": 53,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 67,
+			"Interval": [220.5895692,220.7288889],
+			"Label": "MULAZIME-n1",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 68,
+			"Interval": [220.7753288,220.9146485],
+			"Label": "MULAZIME-n2",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 69,
+			"Interval": [220.9610884,221.9363265],
+			"Label": "MULAZIME-n3",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 70,
+			"Interval": [221.9827664,222.0756463],
+			"Label": "MULAZIME-n4",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 71,
+			"Interval": [222.1220862,222.6329252],
+			"Label": "MULAZIME-n5",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 72,
+			"Interval": [222.7722449,222.9580045],
+			"Label": "MULAZIME-n6",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 73,
+			"Interval": [223.0973243,223.4224036],
+			"Label": "MULAZIME-n7",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 74,
+			"Interval": [223.4688435,224.6762812],
+			"Label": "MULAZIME-n8",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "Rest",
+			"IndexInScore": 75,
+			"Interval": [224.7227211,224.6762812],
+			"Label": "MULAZIME-n9",
+			"PitchHeight": {
+				"Value": "_NaN_",
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 76,
+			"Interval": [224.7227211,225.1871202],
+			"Label": "MULAZIME-n10",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 77,
+			"Interval": [225.28,225.6979592],
+			"Label": "MULAZIME-n11",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 78,
+			"Interval": [225.8372789,226.0694785],
+			"Label": "MULAZIME-n12",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 79,
+			"Interval": [226.1623583,226.4409977],
+			"Label": "MULAZIME-n13",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 80,
+			"Interval": [226.4874376,227.2304762],
+			"Label": "MULAZIME-n14",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 81,
+			"Interval": [227.2769161,227.5555556],
+			"Label": "MULAZIME-n15",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 82,
+			"Interval": [227.6484354,228.2057143],
+			"Label": "MULAZIME-n16",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 83,
+			"Interval": [228.2985941,228.3914739],
+			"Label": "MULAZIME-n17",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 84,
+			"Interval": [228.4379138,228.5772336],
+			"Label": "MULAZIME-n18",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 85,
+			"Interval": [228.6236735,228.855873],
+			"Label": "MULAZIME-n19",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 86,
+			"Interval": [228.9487528,229.4131519],
+			"Label": "MULAZIME-n20",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 87,
+			"Interval": [229.4595918,229.877551],
+			"Label": "MULAZIME-n21",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 88,
+			"Interval": [229.9704308,230.2026304],
+			"Label": "MULAZIME-n22",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 89,
+			"Interval": [230.2490703,231.5029478],
+			"Label": "MULAZIME-n23",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "Rest",
+			"IndexInScore": 90,
+			"Interval": [231.5958277,231.5029478],
+			"Label": "MULAZIME-n24",
+			"PitchHeight": {
+				"Value": "_NaN_",
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 91,
+			"Interval": [231.5958277,232.1531066],
+			"Label": "MULAZIME-n25",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 92,
+			"Interval": [232.2459864,232.6175057],
+			"Label": "MULAZIME-n26",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 93,
+			"Interval": [232.7103855,232.8497052],
+			"Label": "MULAZIME-n27",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 94,
+			"Interval": [232.8961451,233.1283447],
+			"Label": "MULAZIME-n28",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 95,
+			"Interval": [233.1747846,233.3141043],
+			"Label": "MULAZIME-n29",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 96,
+			"Interval": [233.4069841,233.5463039],
+			"Label": "MULAZIME-n30",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 97,
+			"Interval": [233.5927438,233.9178231],
+			"Label": "MULAZIME-n31",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 98,
+			"Interval": [234.0107029,234.2429025],
+			"Label": "MULAZIME-n32",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 99,
+			"Interval": [234.2893424,234.8001814],
+			"Label": "MULAZIME-n33",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 100,
+			"Interval": [234.8930612,235.2645805],
+			"Label": "MULAZIME-n34",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 101,
+			"Interval": [235.4039002,235.54322],
+			"Label": "MULAZIME-n35",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 102,
+			"Interval": [235.6360998,235.9147392],
+			"Label": "MULAZIME-n36",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 103,
+			"Interval": [236.007619,237.4936961],
+			"Label": "MULAZIME-n37",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "Rest",
+			"IndexInScore": 104,
+			"Interval": [237.586576,237.4936961],
+			"Label": "MULAZIME-n38",
+			"PitchHeight": {
+				"Value": "_NaN_",
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 105,
+			"Interval": [237.586576,237.7723356],
+			"Label": "MULAZIME-n39",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 106,
+			"Interval": [237.8187755,238.097415],
+			"Label": "MULAZIME-n40",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 107,
+			"Interval": [238.1438549,238.5153741],
+			"Label": "MULAZIME-n41",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "F5",
+			"IndexInScore": 108,
+			"Interval": [238.5618141,238.7011338],
+			"Label": "MULAZIME-n42",
+			"PitchHeight": {
+				"Value": 35,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "E5",
+			"IndexInScore": 109,
+			"Interval": [238.7475737,238.9333333],
+			"Label": "MULAZIME-n43",
+			"PitchHeight": {
+				"Value": 31,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 110,
+			"Interval": [238.9797732,239.2119728],
+			"Label": "MULAZIME-n44",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 111,
+			"Interval": [239.3048526,239.4906122],
+			"Label": "MULAZIME-n45",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 112,
+			"Interval": [239.5370522,239.7692517],
+			"Label": "MULAZIME-n46",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 113,
+			"Interval": [239.9550113,241.162449],
+			"Label": "MULAZIME-n47",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 114,
+			"Interval": [241.2553288,241.8590476],
+			"Label": "MULAZIME-n48",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "D5",
+			"IndexInScore": 115,
+			"Interval": [241.9519274,242.5092063],
+			"Label": "MULAZIME-n49",
+			"PitchHeight": {
+				"Value": 22,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "C5",
+			"IndexInScore": 116,
+			"Interval": [242.5556463,242.7878458],
+			"Label": "MULAZIME-n50",
+			"PitchHeight": {
+				"Value": 13,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 117,
+			"Interval": [242.8342857,243.205805],
+			"Label": "MULAZIME-n51",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "B4b1",
+			"IndexInScore": 118,
+			"Interval": [243.2986848,243.9024036],
+			"Label": "MULAZIME-n52",
+			"PitchHeight": {
+				"Value": 8,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 119,
+			"Interval": [243.9488435,244.1346032],
+			"Label": "MULAZIME-n53",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G4",
+			"IndexInScore": 120,
+			"Interval": [244.1810431,245.1562812],
+			"Label": "MULAZIME-n54",
+			"PitchHeight": {
+				"Value": -9,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A4",
+			"IndexInScore": 121,
+			"Interval": [245.249161,246.1315193],
+			"Label": "MULAZIME-n55",
+			"PitchHeight": {
+				"Value": 0,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "G5",
+			"IndexInScore": 122,
+			"Interval": [246.1779592,246.1315193],
+			"Label": "MULAZIME-n56",
+			"PitchHeight": {
+				"Value": 44,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		},
+		{
+			"Symbol": "A5",
+			"IndexInScore": 123,
+			"Interval": [246.1779592,246.1779592],
+			"Label": "MULAZIME-n57",
+			"PitchHeight": {
+				"Value": 53,
+				"ReferenceSymbol": "A4",
+				"Unit": "hc"
+			}
+		}
+	]
+}
