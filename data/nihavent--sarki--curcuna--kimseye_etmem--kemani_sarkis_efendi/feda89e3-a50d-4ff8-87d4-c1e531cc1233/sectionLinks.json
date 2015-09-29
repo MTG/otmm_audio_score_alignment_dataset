@@ -1,0 +1,84 @@
+{
+    "annotations": [
+        {
+            "time": [
+                0.317355, 
+                23.674188
+            ], 
+            "name": "ARANAGME_NOT_IN_SCORE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                23.674188, 
+                47.36354
+            ], 
+            "name": "ARANAGME_NOT_IN_SCORE", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                47.36354, 
+                68.778141
+            ], 
+            "name": "ZEMIN", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                68.778141, 
+                90.165242
+            ], 
+            "name": "ZEMIN*", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                90.165242, 
+                111.673398
+            ], 
+            "name": "NAKARAT", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                111.673398, 
+                133.064097
+            ], 
+            "name": "NAKARAT*", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                133.064097, 
+                154.694852
+            ], 
+            "name": "MEYAN", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                154.694852, 
+                176.182318
+            ], 
+            "name": "MEYAN*", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                176.182318, 
+                197.312785
+            ], 
+            "name": "NAKARAT", 
+            "time_unit": "sec"
+        }, 
+        {
+            "time": [
+                197.312785, 
+                218.454175
+            ], 
+            "name": "NAKARAT*-", 
+            "time_unit": "sec"
+        }
+    ]
+}
