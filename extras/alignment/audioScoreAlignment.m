@@ -172,14 +172,7 @@ for k = 1:length(fileLocations)
     %% note alignment
     [notes{k}, alignedLinks{k}] = align(annotatedLinks{k}, sections, audio);
     
-    %% convert hc to hz
-    for nn = 1:numel(notes{k})
-        notes{k}(nn).PitchHeight.Value = feature.Converter.hc2hz(...
-            notes{k}(nn).PitchHeight.Value, audio.Features.tonic.Value);
-        notes{k}(nn).PitchHeight.Unit = 'Hz';
-    end
-    
-    % save notes 2 text
+    %% save notes 2 text
     noteTxtFilename = fullfile(fileparts(fileLocations(k).audio),...
         'alignedNotes.txt');
     note2text(notes{k}, noteTxtFilename)
