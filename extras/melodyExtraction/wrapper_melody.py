@@ -9,6 +9,7 @@ import scipy, numpy
 extractor = pitch.PitchExtractMakam()
 
 audioDir = '../../data' # audio folder and subfolders
+audioDir = '/home/sertansenturk/Documents/notaIcra/code/svg-alignment-test'
 
 # always convert to wav first and use it to avoid the delays introduced by
 # encoder/decoderss

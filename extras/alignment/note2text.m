@@ -12,7 +12,7 @@ for r = 1:num_notes
     noteLabel(strfind(noteLabel, ' ')) = '_';
     
     fprintf(fid,formatSpec,notes(r).Interval(1),notes(r).Interval(2),...
-        notes(r).PitchHeight.Value, noteLabel);
+        notes(r).Pitch.Value, noteLabel);
 end
 [~] = fclose(fid);
 end
