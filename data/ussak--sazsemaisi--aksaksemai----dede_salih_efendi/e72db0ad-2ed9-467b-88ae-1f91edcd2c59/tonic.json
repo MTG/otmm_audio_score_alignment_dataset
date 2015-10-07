@@ -5,5 +5,22 @@
 		"reference": "Salamon, J., & Gomez, E. (2012). Melody extraction from polyphonic music signals using pitch contour characteristics. IEEE Transactions on Audio, Speech, and Language Processing, 20(6), 1759-1770.",
 		"unit": "Hz",
 		"value": 334.9488
+	},
+	"scoreInformed": {
+		"OctaveWrapped": 0,
+		"Method": {
+			"Location": {
+				"Value": 0,
+				"Unit": "second"
+			},
+			"Duration": {
+				"Value": 15,
+				"Unit": "second"
+			},
+			"TempoMethod": "none"
+		},
+		"Citation": "Senturk, S., Gulati, S., & Serra, X. Score Informed Tonic Identification for Makam Music of Turkey. In Proceedings of ISMIR, 2013.",
+		"Value": 333.4632969,
+		"Unit": "Hz"
 	}
 }

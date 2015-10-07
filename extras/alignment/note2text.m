@@ -8,11 +8,11 @@ formatSpec = '%f %f %f %s \n';
 
 num_notes = numel(notes);
 for r = 1:num_notes
-    noteLabel = [notes(r).symbol '-' notes(r).label];
+    noteLabel = [notes(r).Symbol '-' notes(r).Label];
     noteLabel(strfind(noteLabel, ' ')) = '_';
     
-    fprintf(fid,formatSpec,notes(r).interval(1),notes(r).interval(2),...
-        notes(r).pitchHeight.Value, noteLabel);
+    fprintf(fid,formatSpec,notes(r).Interval(1),notes(r).Interval(2),...
+        notes(r).Pitch.Value, noteLabel);
 end
 [~] = fclose(fid);
 end

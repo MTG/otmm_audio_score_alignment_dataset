@@ -1,0 +1,45 @@
+{
+    "tonic": "G4", 
+    "makam": "nihavent", 
+    "form": "sarki", 
+    "composer": "haci_arif_bey", 
+    "usul": "aksak", 
+    "sections": [
+        {
+            "endNote": 38, 
+            "startNote": 1, 
+            "name": "ZEMIN"
+        }, 
+        {
+            "endNote": 71, 
+            "startNote": 39, 
+            "name": "ZEMIN*"
+        }, 
+        {
+            "endNote": 109, 
+            "startNote": 72, 
+            "name": "NAKARAT1"
+        }, 
+        {
+            "endNote": 147, 
+            "startNote": 110, 
+            "name": "NAKARAT2"
+        }, 
+        {
+            "endNote": 184, 
+            "startNote": 148, 
+            "name": "MEYAN"
+        }, 
+        {
+            "endNote": 221, 
+            "startNote": 185, 
+            "name": "NAKARAT3"
+        }, 
+        {
+            "endNote": 259, 
+            "startNote": 222, 
+            "name": "NAKARAT2*"
+        }
+    ], 
+    "name": "bakmiyor_cesm-i"
+}

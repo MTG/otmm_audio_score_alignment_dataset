@@ -6,12 +6,12 @@
 			"time_unit": "sec"
 		},
 		{
-			"name": "ZEMIN",
+			"name": "ZEMIN*",
 			"time": [11.59327,22.910647],
 			"time_unit": "sec"
 		},
 		{
-			"name": "NAKARAT",
+			"name": "NAKARAT1",
 			"time": [22.910647,34.425506],
 			"time_unit": "sec"
 		},
@@ -36,7 +36,7 @@
 			"time_unit": "sec"
 		},
 		{
-			"name": "NAKARAT2",
+			"name": "NAKARAT2*",
 			"time": [192.014982,202.766055],
 			"time_unit": "sec"
 		}
