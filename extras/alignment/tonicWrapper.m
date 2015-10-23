@@ -87,15 +87,13 @@ fileLocations = fragmentLinker.FileOperation.getAudioScorePairs(...
 temp = cellfun(@(x) fullfile(fileparts(x),'predominantMelody.mat'),...
     {fileLocations.audio}, 'unif', false);
 [fileLocations.predominantMelody] = temp{:}; clear temp
+temp = cellfun(@(x) fullfile(fileparts(x),'scoreMetadata.json'),...
+    {fileLocations.score}, 'unif', false);
+[fileLocations.scoreMetadata] = temp{:}; clear temp
+temp = cellfun(@(x) fileparts(x), {fileLocations.audio}, 'unif', false);
+[fileLocations.outputFolder] = temp{:}; clear temp
 
 %% instantiate the estimator objects
-tonicIdentifier = makamLinker.TonicIdentifier(options);
-identifyTonic = @(score, audio, scoreMeta, predominantMelody) ...
-    tonicIdentifier.identify(score, audio, scoreMeta, predominantMelody);
-
-% you can do parfor if you have parallel processing toolbox
-% just uncomment the parpool block in the start and end of the script
-% and replace the "for" with "parfor"
 tonicEstimated =  cell(size(fileLocations));
 info = cell(size(fileLocations));
 for k = 1:length(fileLocations)
@@ -103,10 +101,12 @@ for k = 1:length(fileLocations)
     [~, audioname] = fileparts(fileLocations(k).audio);
     disp([num2str(k) ': ' audioname])
     
-    % tonic identification
-    [tonicEstimated{k}, info{k}] = identifyTonic(fileLocations(k).score,...
-        fileLocations(k).audio, fileLocations(k).score, ...
-        fileLocations(k).predominantMelody);
+    
+    [~] = extractTonicTempoTuning(fileLocations(k).score, ...
+        fileLocations(k).scoreMetadata,  fileLocations(k).audio, ...
+        fileLocations(k).predominantMelody, fileLocations(k).outputFolder, ...
+        'PlotSteps', true);
+    
 end
 tonicEstimated = [tonicEstimated{:}];
 

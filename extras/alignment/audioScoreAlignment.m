@@ -175,7 +175,7 @@ for k = 1:length(fileLocations)
     %% save notes 2 text
     noteTxtFilename = fullfile(fileparts(fileLocations(k).audio),...
         'alignedNotes.txt');
-    note2text(notes{k}, noteTxtFilename)
+    note2text(notes{k}, noteTxtFilename, audio.Features.tonic.Value)
 end
 
 %% evaluate

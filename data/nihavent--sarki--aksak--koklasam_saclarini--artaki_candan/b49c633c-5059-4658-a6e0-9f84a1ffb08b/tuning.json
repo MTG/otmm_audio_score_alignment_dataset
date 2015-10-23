@@ -1,0 +1,158 @@
+{
+	"scoreInformed": {
+		"scaleDegree": [
+			[
+				{
+					"noteSymbol": "D4",
+					"frequency": 125.8127364,
+					"theoretical": -498.1132075,
+					"performed": -498.1132075,
+					"isSwitched": 0
+				},
+				{
+					"noteSymbol": "F4#4",
+					"frequency": 251.6254728,
+					"theoretical": -113.2075472,
+					"performed": -113.2075472,
+					"isSwitched": 0
+				},
+				{
+					"noteSymbol": "G4",
+					"frequency": 236.8178747,
+					"theoretical": 0,
+					"performed": 0,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "A4",
+					"frequency": 139.1877935,
+					"theoretical": 203.7735849,
+					"performed": 210,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "B4b5",
+					"frequency": 131.3829421,
+					"theoretical": 294.3396226,
+					"performed": 285,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "B4b1",
+					"frequency": 274.3995238,
+					"theoretical": 384.9056604,
+					"performed": 384.9056604,
+					"isSwitched": 0
+				},
+				{
+					"noteSymbol": "C5",
+					"frequency": 265.0524687,
+					"theoretical": 498.1132075,
+					"performed": 495,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "D5b4",
+					"frequency": 148.3266651,
+					"theoretical": 611.3207547,
+					"performed": 600,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "D5",
+					"frequency": 297.9412705,
+					"theoretical": 701.8867925,
+					"performed": 697.5,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "E5b5",
+					"frequency": 83.57733364,
+					"theoretical": 792.4528302,
+					"performed": 795,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "E5b1",
+					"frequency": 166.7316485,
+					"theoretical": 883.0188679,
+					"performed": 883.0188679,
+					"isSwitched": 0
+				},
+				{
+					"noteSymbol": "F5",
+					"frequency": 157.6011408,
+					"theoretical": 996.2264151,
+					"performed": 990,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "F5#4",
+					"frequency": 334.9110503,
+					"theoretical": 1086.792453,
+					"performed": 1087.5,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "G5",
+					"frequency": 185.5910366,
+					"theoretical": 1200,
+					"performed": 1200,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "A5b5",
+					"frequency": 176.3911254,
+					"theoretical": 1290.566038,
+					"performed": 1305,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "A5",
+					"frequency": 104.3867323,
+					"theoretical": 1403.773585,
+					"performed": 1410,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "B5b5",
+					"frequency": 197.4213446,
+					"theoretical": 1494.339623,
+					"performed": 1500,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "B5b1",
+					"frequency": 208.8588068,
+					"theoretical": 1584.90566,
+					"performed": 1560,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "C6",
+					"frequency": 111.4408354,
+					"theoretical": 1698.113208,
+					"performed": 1702.5,
+					"isSwitched": 1
+				},
+				{
+					"noteSymbol": "D6",
+					"frequency": 222.8816708,
+					"theoretical": 1901.886792,
+					"performed": 1905,
+					"isSwitched": 1
+				}
+			]
+		],
+		"deviationStats": {
+			"values": [-6.226415094,-6.226415094,-14.43396226,"_NaN_",9.339622642,24.90566038,-5.660377358,3.113207547,-4.386792453,"_NaN_",4.386792453,11.32075472,-3.113207547,"_NaN_",-2.547169811,"_NaN_",6.226415094,-0.7075471698,0,0],
+			"absoluteMean": 0.9994103774,
+			"absoluteStd": 9.096678546,
+			"absoluteMedian": -0.3537735849
+		},
+		"unit": "cent",
+		"octaveWrapped": 0,
+		"tonicSymbol": "G4",
+		"source": "../../data/nihavent--sarki--aksak--koklasam_saclarini--artaki_candan/b49c633c-5059-4658-a6e0-9f84a1ffb08b/b49c633c-5059-4658-a6e0-9f84a1ffb08b.wav"
+	}
+}

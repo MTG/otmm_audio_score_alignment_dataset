@@ -1,0 +1,110 @@
+{
+    "tonic": "G4", 
+    "makam": {
+        "symbtr_slug": "nihavent"
+    }, 
+    "form": {
+        "symbtr_slug": "sarki"
+    }, 
+    "lyricist": {}, 
+    "composer": {
+        "symbtr_slug": "artaki_candan"
+    }, 
+    "usul": {
+        "symbtr_slug": "aksak"
+    }, 
+    "sections": [
+        {
+            "name": "ARANA\u011eME", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 71, 
+            "startNote": 1, 
+            "melodicStructure": "ARANAGME_1", 
+            "lyrics": "", 
+            "slug": "ARANAGME"
+        }, 
+        {
+            "name": "ARANA\u011eME", 
+            "lyricStructure": "INSTRUMENTAL", 
+            "endNote": 142, 
+            "startNote": 72, 
+            "melodicStructure": "ARANAGME_1", 
+            "lyrics": "", 
+            "slug": "ARANAGME"
+        }, 
+        {
+            "name": "ZEMIN", 
+            "lyricStructure": "B1", 
+            "endNote": 178, 
+            "startNote": 143, 
+            "melodicStructure": "ZEMIN", 
+            "lyrics": "Koklasam sa\u00e7lar\u0131n\u0131 bu gece t\u00e2 fecre kadar  ", 
+            "slug": "ZEMIN"
+        }, 
+        {
+            "name": "ZEMIN", 
+            "lyricStructure": "B1", 
+            "endNote": 212, 
+            "startNote": 179, 
+            "melodicStructure": "ZEMIN*", 
+            "lyrics": "Koklasam sa\u00e7lar\u0131n\u0131 bu gece t\u00e2 fecre kadar  ", 
+            "slug": "ZEMIN*"
+        }, 
+        {
+            "name": "NAKARAT", 
+            "lyricStructure": "C1", 
+            "endNote": 256, 
+            "startNote": 213, 
+            "melodicStructure": "NAKARAT", 
+            "lyrics": "Ac\u0131 duysam g\u00f6z\u00fcn\u00fcn rengine dalsam da senin  ", 
+            "slug": "NAKARAT"
+        }, 
+        {
+            "name": "NAKARAT2", 
+            "lyricStructure": "C1", 
+            "endNote": 300, 
+            "startNote": 257, 
+            "melodicStructure": "NAKARAT2", 
+            "lyrics": "Ac\u0131 duysam g\u00f6z\u00fcn\u00fcn rengine dalsam da senin  ", 
+            "slug": "NAKARAT2"
+        }, 
+        {
+            "name": "MEYAN", 
+            "lyricStructure": "D1", 
+            "endNote": 340, 
+            "startNote": 301, 
+            "melodicStructure": "MEYAN", 
+            "lyrics": "Kanat\u0131r ruhumu m\u00e2z\u00eede kalan hat\u0131ralar  ", 
+            "slug": "MEYAN"
+        }, 
+        {
+            "name": "MEYAN2", 
+            "lyricStructure": "D1", 
+            "endNote": 386, 
+            "startNote": 341, 
+            "melodicStructure": "MEYAN2", 
+            "lyrics": "Kanat\u0131r ruhumu m\u00e2z\u00eede kalan hat\u0131ralar  ", 
+            "slug": "MEYAN2"
+        }, 
+        {
+            "name": "NAKARAT*", 
+            "lyricStructure": "E1", 
+            "endNote": 430, 
+            "startNote": 387, 
+            "melodicStructure": "NAKARAT*", 
+            "lyrics": "Doyamam \u00f6mr\u00fcme ben kalbini \u00e7alsam da senin  ", 
+            "slug": "NAKARAT*"
+        }, 
+        {
+            "name": "NAKARAT2*", 
+            "lyricStructure": "E1", 
+            "endNote": 469, 
+            "startNote": 431, 
+            "melodicStructure": "NAKARAT2*", 
+            "lyrics": "Doyamam \u00f6mr\u00fcme ben kalbini \u00e7alsam da senin  ", 
+            "slug": "NAKARAT2*"
+        }
+    ], 
+    "symbTr": "nihavent--sarki--aksak--koklasam_saclarini--artaki_candan", 
+    "name": {}
+}

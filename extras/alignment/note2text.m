@@ -1,4 +1,4 @@
-function note2text(notes, filename)
+function note2text(notes, filename, tonicVal)
 %NOTE2TEXT Summary of this function goes here
 %   Detailed explanation goes here
 
@@ -12,7 +12,8 @@ for r = 1:num_notes
     noteLabel(strfind(noteLabel, ' ')) = '_';
     
     fprintf(fid,formatSpec,notes(r).Interval(1),notes(r).Interval(2),...
-        notes(r).Pitch.Value, noteLabel);
+        feature.Converter.cent2hz(notes(r).Pitch.Value, tonicVal), ...
+        noteLabel);
 end
 [~] = fclose(fid);
 end

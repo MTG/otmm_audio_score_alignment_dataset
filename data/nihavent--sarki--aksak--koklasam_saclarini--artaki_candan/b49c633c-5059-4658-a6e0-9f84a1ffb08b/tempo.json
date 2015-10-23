@@ -1,0 +1,20 @@
+{
+	"scoreInformed": {
+		"relative": {
+			"Method": "scoreInformed",
+			"Citation": "Holzapfel, A., Şimşekli U., Şentürk S., and Cemgil A. T. (2015). Section-level Modeling of Musical Audio for Linking Performances to Scores in Turkish Makam Music. In Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brisbane, Australia.",
+			"RelativeTo": "../../data/nihavent--sarki--aksak--koklasam_saclarini--artaki_candan/nihavent--sarki--aksak--koklasam_saclarini--artaki_candan.txt",
+			"Value": 0.9121813031
+		},
+		"average": {
+			"BeatUnit": {
+				"type": "note",
+				"value": 8
+			},
+			"Method": "scoreInformed",
+			"Citation": "Holzapfel, A., Şimşekli U., Şentürk S., and Cemgil A. T. (2015). Section-level Modeling of Musical Audio for Linking Performances to Scores in Turkish Makam Music. In Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brisbane, Australia.",
+			"Unit": "bpm",
+			"Value": 120.407932
+		}
+	}
+}
