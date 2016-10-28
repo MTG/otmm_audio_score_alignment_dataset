@@ -1,4 +1,4 @@
-turkish_makam_audio_score_alignment_dataset
+otmm_audio_score_alignment_dataset
 ================================================
 
 __The Audio Score Alignment Test Datasets for Ottoman-Turkish makam music__
@@ -7,15 +7,15 @@ The repository includes the test datasets used in various audio-score alignment 
 
 This particular release contains the audio-score alignment test dataset used in the paper:
 
-    Şentürk, S., Gulati, S., and Serra, X. (2014). Towards alignment of score and audio recordings of Ottoman-Turkish makam music. In Proceedings of 4th International Workshop on Folk Music Analysis, pages 57–60, Istanbul, Turkey.
+> Şentürk, S., Gulati, S., and Serra, X. (2014). Towards alignment of score and audio recordings of Ottoman-Turkish makam music. In Proceedings of 4th International Workshop on Folk Music Analysis, pages 57–60, Istanbul, Turkey.
 
 The dataset in this release is derived from the transcription test dataset used in the paper: 
 
-    Benetos, E. & Holzapfel, A. (2013). Automatic transcription of Turkish makam music. In Proceedings of 14th International Society for Music Information Retrieval Conference, 4 - 8 Nov 2013, Curitiba, PR, Brazil.
+> Benetos, E. & Holzapfel, A. (2013). Automatic transcription of Turkish makam music. In Proceedings of 14th International Society for Music Information Retrieval Conference, 4 - 8 Nov 2013, Curitiba, PR, Brazil.
 
 The scores are from the SymbTr database. The database is explained in:
 
-    Karaosmanoğlu, K. (2012). A Turkish makam music symbolic database for music information retrieval: SymbTr. In Proceedings of 13th International Society for Music Information Retrieval Conference (ISMIR), pages 223–228.
+> Karaosmanoğlu, K. (2012). A Turkish makam music symbolic database for music information retrieval: SymbTr. In Proceedings of 13th International Society for Music Information Retrieval Conference (ISMIR), pages 223–228.
 
 Please __cite__ the works above if you are using this release. Please check the releases page (https://github.com/sertansenturk/turkish_makam_audio_score_alignment_dataset/releases) for other datasets.
 
