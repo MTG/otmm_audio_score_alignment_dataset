@@ -1,23 +1,7 @@
 turkish_makam_audio_score_alignment_dataset
 ================================================
 
-__The Audio Score Alignment Test Datasets for Ottoman-Turkish makam music__
-
-The repository includes the test datasets used in various audio-score alignment experiments on Ottoman-Turkish makam music. 
-
-This particular release contains the audio-score alignment test dataset used in the paper:
-
-    Şentürk, S., Gulati, S., and Serra, X. (2014). Towards alignment of score and audio recordings of Ottoman-Turkish makam music. In Proceedings of 4th International Workshop on Folk Music Analysis, pages 57–60, Istanbul, Turkey.
-
-The dataset in this release is derived from the transcription test dataset used in the paper: 
-
-    Benetos, E. & Holzapfel, A. (2013). Automatic transcription of Turkish makam music. In Proceedings of 14th International Society for Music Information Retrieval Conference, 4 - 8 Nov 2013, Curitiba, PR, Brazil.
-
-The scores are from the SymbTr database. The database is explained in:
-
-    Karaosmanoğlu, K. (2012). A Turkish makam music symbolic database for music information retrieval: SymbTr. In Proceedings of 13th International Society for Music Information Retrieval Conference (ISMIR), pages 223–228.
-
-Please __cite__ the works above if you are using this release. Please check the releases page (https://github.com/sertansenturk/turkish_makam_audio_score_alignment_dataset/releases) for other datasets.
+Variant of the makam audio score alignment dataset with manually corrected annotaitons of vocal
 
 The repository is structured as:
 
@@ -31,7 +15,12 @@ In each _symbtr-score_ folder, there are three files:
 - The __pdf__ of the SymbTr-score
 - __scoreMetadata.json__ storing structured metadata about the SymbTr-score.
 
-In each audio-mbid folder, there are three files:
+In each audio-mbid folder, there are  files:
+
+- onsetAnnotations.txt - 
+	Added in this branch to store vocal  onsets. Some (but not all) non-vocal onsets are deleted. 
+	NOTE: if a syllable starts with unvoied sound, onsets is annotated at the beginning of the voiced part (e.g.  'Shi'  will have the onset beginning at i). However, if a background instrument plays same pitch simultaneously to voice, the onset of the instrument is marked as if it were the vocal onset.
+	NOTE: notes stored as regions for consistency with noteAnnotations.txt. However only onsets are checked, so some offsets might not make sense. 
 
 - __noteAnnotations.txt__ stores the manually aligned notes. The first column is the onset time in seconds, second is the note symbol ("*Nota53*" column in the SymbTr-score) and the third indicates the note index in the corresponding SymbTr-score (i.e. the indices given in the first column of the SymbTr-score, named "*Sira*").
 - __tonic.json__ stores the annotated tonic.
